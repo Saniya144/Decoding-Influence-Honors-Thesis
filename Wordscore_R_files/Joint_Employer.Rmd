@@ -1,0 +1,181 @@
+---
+title: "Comments"
+author: "Saniya Jain"
+date: "2025-04-10"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(ggplot2)
+library(quanteda)
+library(openxlsx)
+library(quanteda.textplots)
+library(quanteda.textmodels)
+```
+
+```{r}
+comments <- read.xlsx("comments_data.xlsx", sheet = "Joint_Employer")
+```
+
+```{r}
+# Extract text column
+text_vector <- comments$Text
+
+# Assign organization names to each text
+names(text_vector) <- comments$Organisation
+
+```
+
+```{r}
+library(stringi)
+library(stringr)
+
+
+text_vector_clean <- text_vector
+
+# 1. Remove URLs
+text_vector_clean <- stri_replace_all_regex(text_vector_clean,
+                                            "https?://\\S+|www\\.\\S+",
+                                            "")
+
+# 2. Replace smart quotes, dashes, bullets, and weird characters
+text_vector_clean <- stri_replace_all_regex(text_vector_clean,
+  c("[\u2018\u2019\u201A\u201B\u2039\u203A]",   # curly single quotes
+    "[\u201C\u201D\u201E\u201F\u00AB\u00BB]",   # curly double quotes
+    "[\u2022•]",                                # bullets
+    "[–—]",                                     # en/em dashes
+    "[^[:alnum:][:space:]'-]"),                 # remove all other non-alphanum
+  c("'", "\"", " ", "-", " "),
+  vectorize_all = FALSE
+)
+
+# 3. Collapse extra whitespace
+text_vector_clean <- str_squish(text_vector_clean)
+
+# Reassign names
+names(text_vector_clean) <- comments$Organisation
+
+```
+
+
+```{r}
+corpus_q <- corpus(text_vector_clean)
+
+# Tokenize and clean
+tokens_q <- tokens(corpus_q, 
+                   remove_punct = TRUE,
+                   remove_numbers = TRUE) %>%
+  tokens_tolower() %>%
+  tokens_remove(stopwords("en")) %>%
+  tokens_remove(c("nbsp", "said", "also", "one", "will", "may", "must", "upon")) %>%
+  tokens_keep(min_nchar = 3) %>%
+  tokens_select(pattern = "^[a-z]+$", valuetype = "regex")  # keep only purely lower case words
+
+# Create DFM
+dfm_q <- dfm(tokens_q)
+
+# Remove empty docs and terms
+dfm_q <- dfm_trim(dfm_q, min_docfreq = 1, min_termfreq = 1)
+
+```
+
+
+```{r}
+# Run Wordfish model
+wf_quanteda <- textmodel_wordfish(dfm_q, dir = c(4, 1))
+```
+
+```{r}
+# Document-level results
+theta <- wf_quanteda$theta
+se <- wf_quanteda$se.theta
+docs <- docnames(dfm_q)
+
+# Create plotting data
+plot_data <- data.frame(
+  Organisation = docs,
+  theta = theta,
+  se = se
+)
+
+# Merge with affiliation info
+plot_data <- merge(plot_data, comments[, c("Organisation", "Labor")], by = "Organisation")
+
+# Add Group labels
+plot_data$Group <- factor(plot_data$Labor,
+                          levels = c(1, 0, 2),
+                          labels = c("Labor", "Business", "Rule"))
+
+# Sort for plotting
+plot_data <- plot_data[order(plot_data$theta), ]
+plot_data$Organisation <- factor(plot_data$Organisation, levels = plot_data$Organisation)
+
+# Plot ideological positions
+ggplot(plot_data, aes(x = theta, y = Organisation, color = Group)) +
+  geom_point(size = 3) +
+  geom_errorbarh(aes(xmin = theta - 1.96 * se, xmax = theta + 1.96 * se),
+                 height = 0.2, color = "gray50") +
+  labs(
+    title = "Standard for Determining Joint Employer Status",
+    x = "Ideological Position (Theta)",
+    y = "Organization",
+    color = "Affiliation"
+  ) +
+  scale_color_manual(values = c("steelblue", "firebrick", "darkgreen")) +
+  theme_minimal(base_size = 13) +
+  theme(axis.text.y = element_text(size = 10))
+```
+
+```{r}
+#textplot_scale1d(wf_quanteda, groups = docvars(dfm_q, "Labor"))
+```
+
+
+```{r}
+# Feature scaling plot
+textplot_scale1d(wf_quanteda, margin = "features") +
+  labs(
+    title = "Wordfish Model Visualization - Feature Scaling",
+    x = "Estimated beta",
+    y = "Estimated psi"
+  )
+
+```
+
+
+```{r}
+# Extract beta and psi
+word_params <- data.frame(
+  word = featnames(dfm_q),
+  beta = wf_quanteda$beta,
+  psi = wf_quanteda$psi
+)
+
+# Filter to keep only words with psi between -2 and 2
+mid_freq_words <- word_params[word_params$psi > -2 & word_params$psi < 2, ]
+
+# Get top 30 most negative beta (Left)
+top_left  <- mid_freq_words[order(mid_freq_words$beta), ][1:30, ]
+
+# Get top 30 most positive beta (Right)
+top_right <- mid_freq_words[order(-mid_freq_words$beta), ][1:30, ]
+
+# Combine and label
+top_terms_filtered <- rbind(
+  data.frame(Side = "Left",  top_left),
+  data.frame(Side = "Right", top_right)
+)
+
+# View result
+print(top_terms_filtered)
+
+
+```
+
+
+`
+
