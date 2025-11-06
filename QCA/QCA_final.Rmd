@@ -1,0 +1,129 @@
+---
+title: "QCA"
+author: "Saniya Jain"
+date: "2025-04-29"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(QCA)
+library(dplyr)
+```
+
+```{r}
+# Load the CSV
+mydata <- read.csv("qca_data_3.csv")
+
+# Subset for Labor Interest Groups (Labor_Group == 1)
+#labor_data <- subset(mydata, Labor_Group == 1)
+
+# Subset for Business Interest Groups (Labor_Group == 0)
+#business_data <- subset(mydata, Labor_Group == 0)
+
+
+# View the first few rows
+head(mydata)
+
+```
+
+
+```{r}
+# set.seed(123)  # for reproducibility
+# sample <- mydata %>%
+#   slice_sample(prop = 0.6) %>%  # 5% sample per group
+#   
+# print(sample())
+```
+
+
+```{r}
+#TT for labor abd busines where outcome is org winning 
+tt_3 <- truthTable(
+  mydata, 
+  outcome = "Outcome", 
+  conditions = c("Labor_Group", "High_Resource", "High_Quality_Comment", "High_Salience_Rule", "Citations"), 
+  complete = TRUE, 
+  show.cases = TRUE
+)
+
+print(tt_3)
+```
+
+
+```{r}
+result_3 <- minimize(
+  tt_3,
+  include = "positive",    # Focus on explaining Outcome = 1
+  details = TRUE           # Show consistency, coverage etc.
+)
+print(result_3)
+
+```
+
+
+
+```{r}
+#TT for labor
+# Create the truth table
+# tt_l <- truthTable(
+#   labor_data,
+#   outcome = "Outcome",
+#   conditions = c("High_Resource", "High_Quality_Comment", "High_Salience_Rule"),
+#   complete = TRUE,   # shows all logical rows, even if no case
+#   show.cases = TRUE  # lists the cases under each row
+# )
+# 
+# # View the truth table
+# print(tt_l)
+
+```
+
+```{r}
+# #TT for business 
+# # Create the truth table
+# tt_b <- truthTable(
+#   business_data,
+#   outcome = "Outcome",
+#   conditions = c("High_Resource", "High_Quality_Comment", "High_Salience_Rule"),
+#   complete = TRUE,   # shows all logical rows, even if no case
+#   show.cases = TRUE  # lists the cases under each row
+# )
+# 
+# # View the truth table
+# print(tt_b)
+```
+
+
+
+```{r}
+# 5. Minimize (solve) the Truth Table for labor
+# result_l <- minimize(
+#   tt_l,
+#   include = "positive",    # Focus on explaining Outcome = 1
+#   details = TRUE           # Show consistency, coverage etc.
+# )
+# print(result_l)
+```
+
+```{r}
+# 5. Minimize (solve) the Truth Table for business
+# result_b <- minimize(
+#   tt_b,
+#   include = "positive",    # Focus on explaining Outcome = 1
+#   details = TRUE           # Show consistency, coverage etc.
+# )
+# print(result_b)
+```
+
+
+```{r}
+library(DiagrammeR)
+
+# Plot the solution (basic plot)
+plot(result)
+```
+
