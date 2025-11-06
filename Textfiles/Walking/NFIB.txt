@@ -1,0 +1,82 @@
+
+
+
+August 23, 2010
+
+
+OSHA Docket Office
+Docket No. OSHA-2009-0023
+U.S. Department of Labor Room N-2625
+200 Constitution Avenue NW Washington, DC 20210
+
+Re: Walking -Working Surfaces and Personal Protective Equipment (Fall Protection Systems) - Docket No. OSHA-2007-0072
+
+These comments are submitted for the record to the Occupational Safety and Health Administration (OSHA) on behalf of the National Federation of Independent Business (NFIB) and the NFIB Small Business Legal Center in response to the Notice of Proposed Rulemaking (NPRM) for Walking-Working Surfaces and Personal Protective Equipment (Fall Protection Systems) published in the Federal Register on May 24, 2010.
+
+NFIB is the nation's leading small business advocacy association, representing members in Washington, D.C. and all 50 state capitals. Founded in 1943 as a nonprofit, nonpartisan organization, NFIB's mission is to promote and protect the right of its members to own, operate, and grow their businesses. NFIB represents about 350,000 independent business owners who are located throughout the United States, in varying industries that cover virtually all of the industries potentially affected by this rule . The NFIB Small Business Legal Center is a nonprofit, public interest law firm established to provide legal resources and be the voice for small businesses in the nation's courts through representation on issues of public interest affecting small businesses.
+
+NFIB's national membership spans the spectrum of business operations, ranging from sole proprietor enterprises to firms with hundreds of employees. While there is no standard definition of a "small business," the typical NFIB member employs approximately 10 people and reports gross sales of about
+$500,000 a year. The NFIB membership is a reflection of American small business.
+
+In the NPRM, OSHA proposes to revise the walking-working surfaces and the personal protective equipment (WWSPPE) standards in an attempt to reduce the number of fall-related employee deaths and injuries by updating the rule to include new technology (including personal fall protection systems) and industry methods.
+
+NFIB members value the safety of their employees greatly. NFIB believes that the standards should strike a suitable balance between protecting employees in the workplace while not creating a considerable burden on small business owners.
+
+With that in mind, we have some concerns that the proposed standards will create a serious burden. First, we believe that the phrasing of parts of the general requirement for employers creates too broad a
+
+standard on employers, while at the same time is so vague that it is rendered virtually meaningless for compliance purposes. Second, we believe that OSHA should convene a Small Business Advocacy Review Panel (SBAR Panel) despite the agency's finding that these standards will not have a significant economic impact on small entities. Third, the new standards are written in a way that fails to indicate the importance of employee actions in protecting their own well being. Finally, the component pertaining to combustible dust may cause confusion in light of OSHA's pending rulemaking on the issue. These concerns are elaborated below.
+
+The General Requirement in § 1910.22(a)(3) is Broad and Vague
+
+Proposed §1910.22(a)(3) requires small businesses to "ensure that all surfaces are designed, constructed, and maintained free of recognized hazards that can result in injury or death to employees." This standard, as written, is so broad that it could be inferred by an inspector or judge that if any injury occurs - for any reason - the employer can be cited for failure to comply. The presumption is that a small business owner should foresee all possibilities of injuries, even in the most
+remote of circumstances. The requirement is therefore impossible to meet and virtually meaningless for purposes of compliance.
+
+Even worse, the requirement is written as though it could be interpreted that if an employer is found in violation of any other requirement in these standards, then he or she has also violated §1910.22(a)(3). Therefore, the possibility exists that a small business could be cited twice for the same violation - opening the business up to excessive fines and penalties.
+
+The requirement includes the term "recognized hazards." However, there is no definition of what exactly a "recognized hazard" is. The term may have a different meaning to a small business owner than it does to an OSHA inspector. We suppose this language could mean hazards identified in American National Standards Institute (ANSI) or American Society of Safety Engineers (ASSE) standards that are referenced throughout the preamble. The majority of small business owners affected by this rule would not interpret "recognized hazards" as meaning that he or she needs to refer to formalized standards. OSHA should define "recognized hazards" in its final rule.
+
+Furthermore, the ANSI/ASSE standards themselves are complex and expensive. While well- intentioned these standards fail to recognize the practicalities of how most small business owners safely operate their business and manage their employees. Small businesses operate differently from larger ones, and these standards fail to recognize this. That's why we stress throughout these comments that OSHA needs to convene a SBAR panel and listen to how small business owners train their employees to perform their jobs safely.
+
+OSHA's Finding of "No Significant Impact" on Small Businesses
+
+OSHA certifies that this proposed rule will have no significant impact on small entities, therefore exempting the agency from its legal responsibility to hold an SBAR Panel. At the same time, OSHA found this proposal to be economically significant under Executive Order 12866, which requires economic analysis to be performed on the rule. While these two findin gs certainly can be mutually exclusive, we believe that because of the finding of economic significance OSHA should act conservatively and convene an SBAR Panel regardless.
+
+Conducting an SBAR Panel would allow OSHA to fully understand how the proposal will affect small entities. In the course of this process, OSHA may find that there are costs associated with compliance that the agency never considered. We believe that OSHA has underestimated the cost of compliance for small firms.
+
+
+For example, assume that in order to be in compliance every firm needed to purchase at least one of the dozens of possible standards to find out the specifications it must meet (for this example, ANSI/ASSE A1264.2-2006, Standard for the Provision of Slip Resistance on Walking/Working Surfaces). The list price of this standard is $69.99, which is comparable to many of the standards referenced in the preamble . OSHA estimated that 247 industries out of 270 listed in Table V-32 would have compliance costs less than $69.99. That means that if every firm had to buy this one standard at $69.99, 91 percent of all firms would spend more than OSHA estimates. This does not even include the purchase of new equipment, training, paperwork, and other compliance costs. Even more troubling, of the 270 industries, many had estimated compliance costs at fewer than $10.
+
+In addition, the proposal covers combustible dust in the workplace. OSHA is currently considering a rulemaking addressing combustible dust, and as part of that process, is conducting an SBAR Panel. It begs the question: if one component of this rule is significant enough to warrant an SBAR Panel, how can the entire WWSPPE rule not have a significant impact to small entities?
+
+OSHA should conduct an SBAR Panel for this rule so that it can fully grasp the burden this rule will impose on small business.
+
+OSHA Should Consider the Good Faith Compliance Efforts of Small Businesses
+
+Since his appointment as Assistant Secretary for OSHA, Dr. David Michaels has consistently said that America lacks a "culture of safety" in the workplace. NFIB believes that inherent in such a culture is cooperation between employers and employees, with each side taking responsibility to ensure safe workplaces.
+
+Because of that, it is troubling that much of the language of this proposal requires the employer to "ensure" worker safety. Such language makes it appear as though OSHA does not believe that workers have a personal responsibility to follow the proper procedures that they are trained to perform, or correctly use equipment they are provided and trained to use.
+
+As an example, proposed §1910.23(b)(13) - referring to proper ladder usage - states "[e]mployers shall ensure that employees do not carry any object or load that could cause employees to lose balance and fall." While employers may train and monitor the workplace in good faith, the simple fact remains that employers or their agents cannot watch every employee at the same time, all the time. Accidents caused by the mistake of a worker can and will happen. OSHA should acknowledge this possibility in the final rule.
+
+OSHA needs to consider the good faith efforts of employers - particularly small businesses - when investigating workplace accidents. While employers are responsible for a safe workplace, surely they cannot be held solely responsible when compliance outcomes are ultimately not in the employers' hands.
+
+Combustible Dust Requirements
+
+OSHA is seeking comment on whether it should include an explicit reference to combustible dust or other hazardous material in the regulatory language of the final rule. Because of the ongoing rulemaking regarding combustible dust mentioned above, NFIB believes OSHA should remove any language or implication that the WWSPPE rule covers combustible dust. Including this language would create confusion for small businesses when the combustible dust rule is finalized. In addition,
+
+the combustible dust rule making is subject to a future SBAR Panel, which means that agency has acknowledged that it does not fully understand the implications of such a rule on small businesses.
+
+Conclusion
+
+NFIB appreciates the opportunity to comment on the NPRM. While OSHA and NFIB have the same goal - to ensure a safe workplace for employees - we believe that OSHA needs to reconcile the cost and burden of compliance for small firms as it proceeds. In particular, OSHA should define "recognized hazards" under §1910.22(a)(3) in its final rule . Also, OSHA should convene a Small Business Advocacy Review Panel (SBAR Panel) because it has underestimated the compliance burden on small entities. The new standards are written in a way that fails to indicate the importance of employee actions in protecting their own well being. OSHA should provide leniency for small businesses when employees are clearly at fault for accidents. Finally, the component pertaining to combustible dust may cause confusion in light of OSHA's pending rulemaking on the issue, and should be removed.
+
+Thank you for your time and consideration. Should you require further information, please contact Daniel Bosch at 202-314-2052.
+
+Sincerely,
+
+Susan Eckerly
+Senior Vice President Public Policy
+
+
+
+

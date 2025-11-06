@@ -1,0 +1,2556 @@
+
+
+March 7, 2011
+
+OSHA Docket Office, Room N-2625 Docket Number OSHA-2007-0072 RIN No. 1218-AB80
+Occupational Safety and Health Administration
+U.S. Department of Labor 200 Constitution Ave N.W. Washington, D.C. 20210
+
+
+Re: OSHA-2007-0072: Walking-Working Surfaces and Personal Protective Equipment (Fall Protection Systems) Post Hearing Comments
+
+
+The American Wind Energy Association (AWEA) appreciates this opportunity to provide further comments and clarification to the Occupational Safety and Health Administration (OSHA) during the "Walking-Working Surfaces and Personal Protective Equipment (Fall Protection Systems)" post hearing comment period, on behalf of our over 2,500 members. AWEA, founded in 1974, is a national trade association representing a broad range of entities with a common interest in encouraging the development of wind energy resources in the United States. AWEA members include a significant number of small business entities, project developers, owners and operators, wind turbine manufacturers and component suppliers, utilities, marketers and financiers, researchers, renewable energy supporters, energy consumers, general contractors, subcontractors, non-profits, and worker representative organizations.
+
+In the past ten years, cumulative U.S. wind capacity has grown from approximately 2,500 megawatts (MW) to about 40,180MW. Wind energy was responsible for 39% of all electric generating capacity added in 2009. AWEA estimates that at of the end of the fourth quarter of 2010 there were 36,000 wind turbines in operation in the United States. As of the publication of AWEA's 2009 Annual Report (Appendix A) the wind energy industry employed approximately 85,000 workers and estimates that approximately five percent of the workforce holds operations and maintenance jobs. AWEA is submitting the 2009 AWEA Annual Report and 4th Quarter Update (Appendix B).
+
+
+
+
+
+
+202.383.2500 main | 202.383.2505 fax | 1501 M Street NW, Suite 1000 | Washington, D.C. 20005 | www.awea.org
+
+External Working Surfaces and Structure
+Wind turbines vary in design by model, type and manufacturer. Manufactures will use various combinations of paints and materials to ensure the functionality of wind turbines for both its purpose and the safety for workers and the public. Specifications and features of wind turbines are generally considered proprietary information by manufacturers. Manufacturers account for walking and working surfaces on the outside top of a nacelle by use of texturized fiberglass, paints or non-skid strips to prevent slips on these surfaces. Employers also establish strict policies to restrict workers from accessing the outside of the nacelles during certain weather conditions and also require ANSI compliant non-slip soled safety toe footwear.
+
+Nacelles vary in design and space, but generally can hold four to ten workers maximum. Most nacelles would easily accommodate six workers. Rarely are there more than four workers in a nacelle at one time. Most work inside a nacelle is performed by two person teams. Infrequently, there are larger tasks that may take four workers. In addition to the employees doing the task there may be visits by the supervisor, site manager, safety officers or other people for observation.
+
+Structurally, ladders within the wind turbine towers are typically continuous ladders, broken down by platforms, decks or resting spots on the way up the tower. These areas are arranged and designed differently depending on the model and manufacturer. There are a few wind turbines that will have staggered ladder sections in the first section of the tower. Some wind turbines will have small fold out rest platforms that can be included as an option or consist of periodic platforms located in the tower section assembly points. These spaces would provide a resting area for employees. Ladders are not staggered with cages or overly large platforms. Towers and their ladder systems incorporate fall arrest systems, usually a cable or rail system. A wind technician or worker will not need to detach or reattach to the cable grab or fall arrest system once they start climbing. Each of these platforms typically has hatches, which an employee will need to pass through.
+
+Hatches vary in design; however, for the major platforms the hatches are typically not counterbalanced, and lightweight. The deck plate hatches typically open about 90-100 degrees from the closed position and meet OSHA and ANSI requirements. These hatches are typically made of aluminum deck plate material and are raised into position against the wall prior to passing through the hatch.
+
+
+All anchor points designed in the wind turbines are required to be rated at 5000 lbs. Manufacturers design the anchor points where they are typically needed. Manufacturers will also design additional anchor points at the customer's request. Anchor points are not provided on the blade due to aerodynamic functionality. However, if a worker needs to access the external portions of the blade, there are anchor points available in the hub, which the workers can utilize (Appendix C).
+
+Typically, the lead technician will tie off and climb to the first hatch which is closed. The lead technician will enter through the hatch. When the technician reaches the hatch they typically stop, then using three points of contact open the hatch with one hand. Once they pass through the hatch the technician will stand to the side of the hatch and close it. During this process they are tied off 100%, either using the ladder cable device or the lanyards on the harness. The second technician will then climb the first section of the tower, so that no two workers are climbing on the same section of the ladder at the same time and will ensure that there is a closed hatch between them at all times.
+
+There is a large variety of harnesses that can be used to perform this work. The basic harness meets the minimum ANSI and OSHA criteria and can be enhanced to facilitate special jobs that need to be performed. Harnesses used by workers are generally universal for climbing, working internally, and externally. There are circumstances where certain rope work will require specific harness, but that would be analyzed during the job hazard analysis (JHAs) that was performed prior to the start of the job. For workers to carry multiple harnesses is cumbersome, costly, and not practical.
+
+Operations and Maintenance Work
+Most wind technician teams or wind turbine operations and maintenance technicians work in pairs. The majority of work that is done on the wind turbine is within the nacelle. The nacelle is fully protected from outside elements and remains dry in all weather conditions. There is also very little possibility of leaks from the equipment. Work outside of the nacelle is infrequent; however, work will be performed for external blade and exterior tower maintenance. All work is performed from work orders that have associated JHAs. Employees are required to perform JHAs prior to performing work where hazards would be addressed. JHAs are reviewed at the time the work order is assigned and signed prior to beginning the job.
+
+
+The teams will review and discuss the specific tasks that are to be performed during a daily "tailboard" or "tailgate" meeting, which is performed prior to the start of work at the specific turbine. The tailboard is to be redone if any of the identified job components, hazards or controls change, or if a new one is identified. During this process they will discuss the tools and equipment necessary for the job, the hazards of the job and the protective clothing and equipment needed for the job. If there are any specific hazards such as confined space assess or hot work it will be discussed at that time. The employee then will notify the personnel controlling the turbines, either local or remote, and inform them which turbine they will be working on and what task they will be performing. If work falls outside of a documented work instruction, a job plan is completed to fully plan the work and to identify and mitigate any potential work hazard prior going to the jobsite.
+
+Technicians spend approximately 4-5 hours a day at heights. Workers are only exposed to falls at very short time periods during normal maintenance, which would be during the climb up and down tower, access and work on the roof of the nacelle, exterior work on the tower or blades and entering the hub.
+
+The management system for operations and maintenance varies with each owner. Some owners will utilize their own direct employees for the operations and maintenance while others will contract the work out by hiring third party operations and maintenance companies or contract through warranty work provided by a manufacturer. Regardless of the contract situation, all owners will manage the overall work on their wind farms. The owner's employees will monitor and oversee the tasks being performed by their contractors by climbing up the towers along with the operation and maintenance teams. They will also climb to ensure the proper operations, maintenance, and housekeeping is being performed. In addition to oversight, many sites take responsibility for weather systems, FAA lighting, rescue equipment and communications systems within the turbine. In those cases they will climb to perform maintenance on those systems as well as perform inspections.
+
+Employees are rarely allowed to climb to the nacelle while the turbine is operating or generating electricity. There has to be a significant need and must to be approved by the site manager. Employees are allowed to access the nacelle and the top of the nacelle without the rotor being locked. In this condition the blades are
+
+turned or pitched parallel to the wind which prevents them from catching the wind. This allows for a very slow rotation of the blade called "pin wheeling." In this condition, the employee can work in the nacelle and on top of the nacelle. In the event that technicians need to work on the hub or blades, the rotor must to be locked by a Lock-Out-Tag-Out (LOTO) procedure prior to performing the work.
+
+Work within the blade, itself, is a very infrequent task that is highly controlled. There is an extensive planning process prior to starting any work within a blade. This assessment includes the equipment and chemicals to be used and any hazardous atmosphere that could be created. The inside of the blade is typically considered a permit required confined space and the entry must comply with all the requirements of OSHA's §1910.146 regulations. During this process, the blade is placed as close as possible to the horizontal position, parallel to the ground. Blades are pitch locked so they don't pivot, and the rotor is locked so the hub doesn't rotate. The blades are positioned so that the gravity works to pull the technician back into the hub rather than into the blade. This position reduces the risk of a fall hazards.
+
+Service Lifts
+In the United States, there are no requirements or regulations for installing service lifts or climb assists, as such, manufacturers will only install service lifts and climb assists as requested by the customer. Owners may retrofit any wind turbine after installation with service lifts or climb assists or have them installed during the construction process. OSHA requested information from Duke Energy and Edison Mission on the number of service lifts and climb assists within their wind turbines. Duke Energy's fleet of wind turbines has 130 service lifts of the 402 turbines or about 30%. Edison Mission Energy turbines have service lifts in 5% and climb assists in 75% of its 1,182 turbines. Approximately, 5-10% of the wind turbines in the U.S. will have service lifts installed, with a higher percentage of climb assists available. Some of the owners are attempting to install service lifts or climb assists in all of their turbines. Service lifts are becoming more common in the U.S. as more wind turbines are being retrofitted for them. AWEA currently has a service lift working group, and American Society of Mechanical Engineers (ASME) is developing a new regulatory code based on ANSI A17 but specific to wind turbines towers.
+
+Installation of service lifts and climb assists can be cost prohibitive for the wind turbine owners. Typically, if service lifts are bought with the turbine and installed as part of construction, they can be as low as $10,000 -
+
+$20,000 per turbine. After market post construction can be twice that amount. The cost of service lift may or may not include the time to install the device.
+
+Climb assist can cost approximately $5,000 or more. There are several different climb assist systems. Manufactures of these devices have descriptions, pictures and information on their company websites. Technicians will still be tied off using their fall protection system while using the climb assist. Some systems use counter weights. The technicians' harness is connected to a cable the goes to the top of the ladder, over a pulley and back down to a counter weight. The counter weight pulls the employee upward reducing the weight supported by the body during the climb. There are also systems that have a continuous cable that is driven by a motor. The employee connects their harness to the cable and they are assisted on the climb by the cable pulling them up which reduces the weight on the body. These are very general descriptions of a wide variety of climb assist systems that are available.
+
+During the informal public hearing for OSHA's Walking Working Surfaces proposed rulemaking, a representative from Standfast testified about a system that they had developed for the wind energy industry called TRAM (Total Restraint Access module.) AWEA is aware of the product and similar types of products. These are new systems that are under development and are not being utilized in the industry. According to some AWEA members, several of the units look promising; however, are untested and have not been used within the industry to date.
+
+Rope Descent Systems and Rope Access Systems
+AWEA acknowledges that at the moment, there are few circumstances where an employee would need to utilize rope access systems above 300 feet. Currently, the vast majority of turbines have tower heights between 60 and 80 meters although there are some 100 meter towers already installed in the United States. As AWEA testified, wind turbines will be taller in coming years. A maintenance task on an external blade root on a 100m or larger wind turbine might need to deploy rope access systems that would be greater than 300 feet.
+
+If OSHA restricts the ability for the utilization of rope access work over 300 feet, then larger teams of personnel would be necessary to perform the work. A greater usage of large cranes and suspended scaffolds
+
+would replace a team of technicians utilizing rope access to accomplish these tasks. A greater hazard would be created with the utilization of larger pieces of equipment and workers to accomplish a task that a trained technician utilizing rope access systems would be able to provide. These workers would need to be familiar with the additional equipment and processes. Extensive planning and coordination would be needed to ensure the safety of all workers and equipment to perform a task; this would create additional confusion and burden.
+
+Emergency Rescue Programs
+Every emergency rescue program is similar and yet varies in detail. Many wind technicians are trained to perform self-rescue and/or rescue of others in accordance with the ANSI Z359 standards and guidance. Some wind technicians carry a personal rescue system on their person; others will have the rescue system ready and available for them in the nacelle. An example of a rescue program would be, if a worker that falls and remains conscious will initiate self rescue with the assistance of the second wind technician assisting in coordinating with ground response. A technician that falls and loses consciousness will be rescued by the second technician, who will first radio for assistance to notify Emergency Medical Services (EMS). Training for emergency rescue programs not only includes those workers directly involved in the work but also that of the emergency response teams for the companies and local EMS.
+
+Another example practice of rescue could be if an employee is on top of the nacelle there will be at least one other employee in close proximity. If, for example, the employee slipped off the edge of the nacelle they would be hanging in their harness. The second employee would then obtain the high angle rescues kit, make another connection to the employee, transfer the employees harness to the new anchor point and remove the other lanyard. The employee would then be lowered to the ground. Technicians are trained for emergency rescue for various scenarios. (Sample Rescue Program Appendix D)
+
+
+
+
+Wind and Weather Policies
+In regards to weather conditions, many policies are base on the manufacturer's parameters for wind. Wind, along with different weather conditions have a different impact in different areas of the country. Work in
+
+the tower may be allowed in higher winds speeds than work in the hub or nacelle. Sample programs are available in Appendix E.
+
+AWEA appreciates this opportunity to provide comments on the Walking-Working Surfaces and Personal Protective Equipment (Fall Protection Systems) proposed rule.
+
+
+Sincerely,
+
+
+Michele Myers Mihelic
+Manager, Labor, Health and Safety Policy American Wind Energy Association
+
+
+
+
+
+
+Appendix A - AWEA 2009 Annual Report
+http://www.awea.org/documents/Annual_Market_Report_2009.pdf
+
+
+
+
+Appendix B - AWEA Fourth Quarter 2010 Market Report
+http://www.awea.org/learnabout/publications/loader.cfm?csModule=security/getfile&PageID=5083
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+202.383.2500 main | 202.383.2505 fax | 1501 M Street NW, Suite 1000 | Washington, D.C. 20005 | www.awea.org
+
+Appendix C - Sample Pictures of Anchor Points
+
+
+Standard wind turbine anchor for a single person load utilizing two 11mm ropes each rated to 7000 Lbs before the introduction of knots. With knots, the breaking strength of the rope will decrease approximately 25-30%.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An example of a single point anchor established on a rated fall protection anchor point on the interior of a wind turbine.
+
+
+
+
+Examples of several improvised anchors utilizing the massive steel structure of the wind turbine tower, a rated anchor point, and welded tower bosses. As with all industrial rope access, two separate ropes and anchors are used for every suspended worker.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+This is another example of anchoring to massive steel structures in a turbine. The plate steel through which the ropes are anchored is part of the nacelle structure.
+
+Appendix D: Sample Rescue Program
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SAMPLE RESCUE COMPONENT
+of the
+
+MANAGED FALL PROTECTION PLAN
+Wind Turbines
+
+A. Overview
+
+The purpose of this sample Rescue Component of a Managed Fall Protection Plan is to give a general outline of the basic principles of rescue from turbines. There are many different models of turbines in existence; this sample document does not cover all turbines. It is imperative that both supervisors and employees be trained before using both assisted-rescue and self-rescue equipment. Procedures described in this document do not necessarily represent the only acceptable solution for rescue in every situation.
+
+It is important that both supervisors and employees remember that the risk of injury is always present when working at heights, and while the information contained herein is aimed at reducing that risk, it cannot be eliminated completely. This document is not designed to replace initial and continued training for Competent Rescuers, Authorized Rescuers, or any individuals involved in a rescue operation.
+
+
+Components of this plan will include the designation and duties of the Competent Rescue Trainer, the Competent Rescuer, and the Authorized Rescuer, as well as outline sample appropriate Rescue Procedures and Special Considerations.
+
+A. Competent Rescue Trainer
+
+The Competent Rescue Trainer will assess current working conditions and practices for situations where rescue may be required. Either directly or through a third-party training provider, the Competent Rescue Trainer will conduct initial and continued rescue training that addresses these identified situations.
+
+1. The Competent Rescue Trainer will be responsible for the following duties:
+
+* The Competent Rescue Trainer will have a thorough knowledge of all current fall protection systems currently used by employer.
+
+* The Competent Rescue Trainer will have a thorough knowledge of all planned rescue standards, systems, regulations and equipment used by employer.
+
+* The Competent Rescue Trainer will evaluate the capabilities of all members responsible for providing rescue at heights at employer's facilities, including Competent Rescuer and Authorized Rescuer personnel. This knowledge and skills evaluation will include both written examinations and practical assessment.
+
+B. Competent Rescuer
+
+The Competent Rescuer will be responsible to evaluate all worksites and procedures in order to identify areas of possible rescue needs. In this evaluation, the Competent Rescuer will identify the particular hazards associated with rescue from heights and establish the requisite procedures to mitigate these hazards. The Competent Rescuer will develop appropriate planned rescue procedures and methods, as well as update and approve these procedures and methods before any work at heights begins.
+
+1. The Competent Rescuer will be responsible for the following duties:
+
+* The Competent Rescuer will have a thorough knowledge of all current fall protection systems currently used by employer.
+
+* The Competent Rescuer will have a thorough knowledge of all planned rescue standards, systems, regulations and equipment used by employer.
+
+* The Competent Rescuer will confirm that any person acting as an Authorized Rescuer has been properly trained and is capable of performing a timely rescue.
+
+* The Competent Rescuer will categorize all resources essential for a successful and safe rescue from heights and confirm that these resources are readily available in the event of a rescue situation. These resources include but are not limited to Assisted Rescue Kits, Self-Rescue Kits, rescue-compatible fall protection components, and communication capability.
+
+* The Competent Rescuer will be responsible for the maintenance, inspection, and proper storage of all rescue equipment.
+
+* The Competent Rescuer will confirm that a Competent Rescue Trainer evaluates the established rescue response and procedures annually. This evaluation will identify the effectiveness of the Rescue Plan and the performance capabilities of all Authorized Rescuers.
+
+
+C. Authorized Rescuer
+
+Persons certified as an Authorized Rescuer will be responsible to initiate, assist, and complete workplace rescues.
+
+1. Each Authorized Rescuer will be responsible for the following duties:
+
+* The Authorized Rescuer will have a thorough knowledge of the appropriate selection, use, storage and care of all equipment necessary to perform a rescue. The Authorized Rescuer will utilize inspection, storage, and use criteria established by both employer and the equipment's manufacturer to insure that all rescue equipment is properly protected, in working condition, and ready for use.
+
+* The Authorized Rescuer will review, understand, and by practical examination demonstrate a thorough knowledge of all applicable rescue equipment and procedures. This requirement will be completed prior to workers being subject to fall hazards in the workplace for which the Authorized Rescuer is responsible.
+
+* As part of annual training, each Authorized Rescuer will demonstrate a thorough knowledge and practical efficiency in the use and procedures of all applicable rescue equipment.
+
+* The Authorized Rescuer will be knowledgeable of current and potential hazards related to specific worksites that may endanger the rescuer during rescue operations. The Authorized Rescuer will evaluate these hazards and conditions and determine whether or not it is possible to conduct the rescue safely. The safety of rescuers will take priority over all other considerations.
+
+
+D. Rescue Training
+
+The quality of any rescue program is directly tied to a commitment to training. Both initial and continued education are crucial to a successful program. In order to provide workers the greatest possible opportunity for a timely rescue, employers will commit to a rescue training program consisting of specifically designed exercises and scenarios. The Competent Rescue Trainer will provide rescue training utilizing a variety of field applications and exercises designed to introduce and reinforce the proper use of tools and system components employed in rescue at heights. Rescue training will emphasize low-risk rescue methods and minimal rescuer exposure.
+
+1. Employer will adhere to the following training guidelines:
+
+* Competent Rescuers and Authorized Rescuers will be trained by a Competent Rescue Trainer at least annually. Training will occur more frequently if the nature of the work, workplace, control methods, rescue methods or rescue feasibility changes in such a way as to render previous
+
+training inadequate; or, if the Competent Rescuer or Competent Rescue Trainer considers the Authorized Rescuer's knowledge and skills deficient. Such training will include evaluation by written examination and practical assessment.
+
+* Certified rescue personnel will demonstrate via practical examination appropriate equipment selection, inspection, assembly and procedure involving all types of rescue equipment and systems currently in use by employer prior to workers being subject to fall hazards.
+
+
+* Training for certified rescue personnel will include but not be limited to fall hazard recognition, elimination, and control; site and rescue method assessment; rescue feasibility determination; and anchorage evaluation and selection.
+
+
+
+E. Rescue Equipment Maintenance, Storage, and Inspection
+
+1. Employer will develop appropriate maintenance and storage procedures for rescue equipment in accordance to manufacturer's instructions.
+
+2. Employer will develop an inspection schedule and appropriate documentation instruments for regular inspection of rescue equipment by a Competent Rescuer in accordance to applicable regulations and manufacturer's recommendations. In addition, the Competent Rescuer or Authorized Rescuer will inspect rescue equipment prior to use. These inspections will include but not be limited to:
+
+* Evidence of alteration, damage, or defects to hardware elements, straps, ropes, buckles, or stitching;
+
+* 	Absence or improper function of mechanical devices, connectors, or components;
+
+* Presence of chemical damage, sharp edges, cracks, corrosion, or deformation;
+
+* Excessive soiling, abrasion, aging, or wear;
+
+* Evidence or knowledge of impact loading;
+
+* Absent or illegible labels, tags, or markings; or
+
+* Any condition that would cause the user to have a loss of faith in the equipment when used for its intended purpose.
+
+3. Equipment that does not pass inspection will immediately be removed from service. A Competent Rescuer must approve any item removed from service before continued use of the equipment.
+
+
+F. Rescue Equipment Description and Procedure
+
+1. In order to provide a prompt rescue, employees will utilize rescue guidelines specifically designed for their wind facility. Employees shall be aware that these procedures are guidelines, and that many situations and conditions exist that are not specifically addressed herein. Authorized Rescuers shall maintain a high level of competence in emergency mitigation, including the ability to modify these procedures to match specific circumstances.
+
+2. Employers will adopt internal procedures and policies to aid their employees in providing a prompt rescue. These procedures and policies will include the utilization of rescue-compatible fall protection equipment, adaptable rescue components and methods, and ensuring timely access to rescue equipment.
+
+3. Any emergency at height will require common procedural steps, regardless of the nature of the incident. If an employee becomes aware of or suspects that an emergency situation exists, he/she shall immediately:
+
+* Notify emergency services (9?1?1)
+
+* Notify management - key supervisors will be called or paged and advised of the event
+
+* Attempt to make contact with the person(s) involved
+
+* Before beginning Rescue operations, confirm all safety mechanisms involving standard turbine entry are in place
+
+4. If the emergency includes a fall, this Rescue Plan identifies three procedures designed to provide prompt relief and/or rescue to the fallen member.
+
+* Refuge - providing relief in place from orthostatic intolerance and suspension trauma for the fallen worker. Further steps of Assisted Rescue or Self-Rescue are required to bring the victim to a level of safety.
+
+* Self-Rescue - involves an employee utilizing special tools (personal kits) and techniques to lower himself to a level of safety.	Self-Rescue
+
+procedures are designed both for incidents where an accident or fall has occurred as well as where the user is escaping from an untenable environment or because of other emergency conditions.
+
+
+* Assisted	Rescue	-	involves	members	utilizing	special	tools	and techniques to rescue injured/impaired members from elevated work areas.
+
+5. Instructions
+
+
+
+Refuge
+
+a. Equipment and Procedure
+
+1) Step-Wise(r) Fall Arrest Lanyard
+
+* Manually deploy webbed ladder to use as footholds / rest-steps in the event of a fall.
+* Place feet inside webbed rungs.
+* Transfer body weight off dorsal connection and full body harness while awaiting rescue.
+
+2) Suspension trauma loops
+* Attach to harness
+* Deploy loops
+* Place feet in loops
+
+Self-Rescue
+
+a. Equipment
+
+1) Step-Wise(r) Fall Arrest Lanyard
+
+2) SRK-11(tm) Self-Rescue	Kit	(containing	MCDII(tm),	anchor	strap, connecting carabiners)
+
+
+
+
+
+
+b. Procedure
+
+1) Emergency Egress
+
+* Remove MCDII(tm), anchor strap, and carabiners from pack
+* Wrap anchor strap around suitable anchorage point
+* Attach rope-end carabiner to anchor strap
+* Attach MCDII(tm) to full body harness
+* Move to selected egress point
+* Descend to safe location
+
+2) Self-Rescue from Step-Wise(r) Fall Arrest Lanyard
+
+* Remove MCDII(tm), anchor strap, and carabiners from pack
+* Attach MCDII (tm) to full body harness
+* Place feet inside webbed rungs and stand - climb up webbed rungs as necessary to reach designated Rescue D- ring anchor of the Step-Wise(r) Fall Arrest Lanyard
+* Attach rope-end carabiner to anchor D-ring
+* Disconnect from user end of Step-Wise(r) Fall Arrest Lanyard
+* Descend to safe location
+
+Assisted Rescue
+
+a. Equipment
+
+1) Assisted Rescue Kit (containing primary rope section, descender, hoisting system, anchor loops, edge pads, tag line, extension straps, and extra carabiners)
+
+
+b. Procedure
+
+The following procedures are designed to be utilized once a victim is suspended over the desired point of egress. The location of the victim at the beginning of a rescue operation may necessitate manipulating him/her to a location more suitable for lowering processes. Authorized
+
+Rescuers will refer to their practical Rescue Training for information and techniques concerning the manipulation of victims.
+
+1) Direct Rescue
+
+Set Up and Access
+
+¦ Attach anchor straps to suitable anchorage
+¦ Connect hoisting system to anchorage
+¦ Connect descender to anchorage
+¦ Use the Extension Strap to cover longer distances
+
+Raise and Transfer
+
+¦ Hoist victim with Pulley
+¦ Connect eye of primary rope to victim, or to Extension Strap (if used)
+¦ Disconnect victim's fall arrest device
+¦ Lower victim onto primary rope
+¦ Remove Pulley System from victim
+
+Tag and Lower
+
+¦ Connect Tag Line
+¦ Throw Tag Line bag to persons on ground
+¦ Using Rope Rider(r), lower victim to ground
+
+2) Remote Rescue
+
+Set Up and Access
+
+¦ Attach anchor straps to suitable anchorage
+¦ Connect Pulley System assembly to one anchor strap
+¦ Connect the solid eye of the descender to other anchor strap
+¦ Extend Pulley System
+¦ Extend Telescopic Pole
+¦ Connect Quik-Grab to end of Telescopic Pole (the Extension Strap will be pre-connected to the Quik-Grab)
+¦ Using pole and Extension Strap, connect Quik-Grab to victim's dorsal D-ring
+¦ Remove pole
+
+Raise and Transfer
+
+
+¦ Attach top of Extension Strap to bottom of Pulley System
+
+¦ Take up slack on Extension Strap
+¦ Hoist victim with Pulley System
+¦ Connect eye of primary rope to Extension Strap
+¦ Using Pulley System in reverse, lower victim onto primary rope
+¦ Remove Pulley System from Extension Strap
+¦ Disconnect victim's fall arrest device from original anchorage
+
+Tag and Lower
+
+¦ Connect Tag Line
+¦ Throw Tag Line bag to persons on ground
+¦ Using Rope Rider(r), lower victim to ground
+
+3) Pick-Off
+
+Set Up and Access
+
+* Attach one anchor strap to suitable anchorage
+* Attach Pulley System to harness
+* If tagging is necessary, attach tag line bag to harness
+* Connect terminated end of primary rope section to anchor strap
+
+
+* Remove remainder of rope load from Assisted Rescue Kit and lower or throw this line past the victim to the ground
+* If necessary, adjust location of Rope Rider(r) on the primary rope section to facilitate rescuer descent
+* Adjust	amount	of	wrap	on	stem	of	Descender	to accommodate weight of both rescuer and victim
+* Attach Rope Rider(r) to waist positioning rings of rescue harness with carabiner
+* Descend	to	a	position	just	above	suspended	victim (rescuer's feet should be no lower than victim's shoulders)
+
+Raise and Transfer
+
+* Attach Ropeman to primary rope section so that Pulley System will be positioned approximately at rescuer's eye level
+* Extend Pulley System and attach lower end to victim's dorsal D-ring
+* Attach top ring of Extension Strap to Rope Rider's(r) carabiner
+
+* Connect bottom end of Extension Strap to victim's dorsal D-ring
+* Take up slack in Extension Strap
+* Hoist victim using Pulley System, taking up slack in Extension Strap as victim is raised - this operation will create slack in victim's original fall arrest device
+* Disconnect victim's original fall arrest device
+* Using Pulley System in reverse, lower victim onto Extension Strap
+* Remove Pulley System from victim's dorsal D-ring
+
+
+Tag and Lower
+
+* If needed, attach tag line to either victim or yourself and throw bag to ground
+* Descend with victim to ground
+
+G. Sample Special Considerations can include:
+
+
+1. Turbine Types
+
+a. MHI 600 MKI (for example)
+
+a. Maximum height of tower at this facility: 60M (200')
+
+b. All Rescue Kits will be 67M (220'+)
+
+2. Anchor Points
+
+a. Rescues down tower
+
+i. Equipment hoisting eye (Pic.1)
+
+This anchor point can be used for rescues originating near top of ladder, on the yaw deck, or when the victim can be transferred to these areas. Hoisting pulley should be removed prior to threading anchor loop(s) through eye.
+
+ii. Option: A second point of attachment can be made by threading an anchor loop through U-shaped bracket at top of the ladder cable system. (Pic 2)
+
+b. Rescues from inside nacelle
+
+i. Turbine lifting eye. (Pic. 3)
+
+To affect a rescue from inside nacelle, victim must be manipulated either down to the yaw deck (after which, "Rescue down tower" procedures will be followed), or towards the rear of nacelle, in area of interior hatchway.
+If utilizing interior hatchway as point of victim egress, four bolts holding hatchway grating in place must be removed (Pic. 4). Rescuers shall ensure that both victim and rescue personnel remain attached to an appropriate anchorage whenever working in area of open hatchway
+
+c. Rescue from top of nacelle
+
+i. Reinforced lifting eyes, left and right sides, top of nacelle (Pic. 5)
+
+When building Rescue anchorage on top of nacelle, utilize eye that is opposite fallen worker/lowering side.
+
+ii. Option: Turbine/generator lifting eyes inside nacelle may be used, depending on location of victim.
+
+d. Rescue from nosecone/hub interior
+
+Rescue of incapacitated victim from interior of nosecone will necessitate removal of nosecone hatchway door from inside of nosecone (Pic. 6).
+
+i. Blade mounting assembly (Pic. 7)
+
+ii. Option: It may be possible to build anchorage inside nacelle utilizing appropriate lifting eyes, then extending anchorage into nosecone via extension straps supplied in ARK(tm).
+
+
+
+	
+
+Pic. 1	Pic. 2
+
+
+Pic. 3	Pic. 4
+
+
+
+Pic. 5
+
+
+Pic. 6	Pic. 7
+
+
+Self-Rescue:
+	
+
+
+In the event of a fall....
+
+Place feet into webbed ladder and
+
+
+
+	
+
+
+Take a minute to assess situation
+
+
+Connect rescue rope to anchor
+
+
+Disconnect dorsal connection
+
+Connect MCD to belt
+
+
+Lower back into sitting position
+
+
+Lower safely to ground.
+
+
+
+
+Appendix E - Sample Weather and Wind Policy
+
+Lightning Policy
+If lightning is detected within 30 miles of the site all personnel will evacuate the tower. Employees should get inside the vehicle and/or return to the O & M building. Employee should remain in the O & M building until no lightning has been detected within 30 miles of the site for 30 minutes.
+Due to a long travel time back to the O & M building or unsafe travel conditions, supervision may direct the employees to remain in their vehicle. If employee remains in their vehicles they should not be in direct contact with the external conductive surfaces. Additional information concerning being in a vehicle during lightning is provided.
+No crane or other extended boom work may take place if lightning is detected in the area. Operators should use the same criteria listed above.
+There are several resources for knowing the location of lightning. All site employees should be aware of the methods used to detect the presents of lightning in the area of the site. All site Duke Energy personnel will receive an e-mail message providing the distance to the closest lightning strike and the time that it occurred. Personal lightning detectors may also be used. Lightning information can also be obtained on the Duke Energy Portal at the Weather home page. The link to the page is http://weather1x.duke- energy.com/weather/degs_wind.shtml. At that location you can observe all the wind sites or specific wind sites. Each site has a 60 mile and 30 mile ring around them.
+In addition to these electronic means of detection personnel should be familiar with the local weather patterns. Personnel should also be aware of the weather conditions at all times when they are in a tower. If they hear thunder or lightning or even suspect the approach of a severe weather front they should exit the turbine and contact site management for approaching weather conditions. It would be a good practice for the local management to inform site personnel when lightning is with 60 miles of the site so that they can be prepared for evacuation.
+All sites should periodically review the lightning policy and review safety information concerning lightning during seasons when lightning is a high safety threat.
+
+~ National Lightning Safety Institute ~	August 13, 2009
+
+Section 4.4
+
+Personal Lightning Safety Tips
+
+1. PLAN in advance your evacuation and safety measures. When you first see lightning or hear thunder, activate your emergency plan. Now is the time to go to a building or a vehicle. Lightning often precedes rain, so don't wait for the rain to begin before suspending activities.
+
+2. IF OUTDOORS...Avoid water. Avoid the high ground. Avoid open spaces. Avoid all metal objects including
+
+
+
+
+202.383.2500 main | 202.383.2505 fax | 1501 M Street NW, Suite 1000 | Washington, D.C. 20005 | www.awea.org
+
+electric wires, fences, machinery, motors, power tools, etc. Unsafe places include underneath canopies, small picnic or rain shelters, or near trees. Where possible, find shelter in a substantial building or in a fully enclosed metal vehicle such as a car, truck or a van with the windows completely shut. If lightning is striking nearby when you are outside, you should:
+
+A. Crouch down. Put feet together. Place hands over ears to minimize hearing damage from thunder.
+
+B. Avoid proximity (minimum of 15 ft.) to other people.
+
+3. IF INDOORS... Avoid water. Stay away from doors and windows. Do not use the telephone. Take off head sets. Turn off, unplug, and stay away from appliances, computers, power tools, & TV sets. Lightning may strike exterior electric and phone lines, inducing shocks to inside equipment.
+
+4. SUSPEND ACTIVITIES for 30 minutes after the last observed lightning or thunder.
+
+5. INJURED PERSONS do not carry an electrical charge and can be handled safely. Apply First Aid procedures to a lightning victim if you are qualified to do so. Call 911 or send for help immediately.
+
+6. KNOW YOUR EMERGENCY TELEPHONE NUMBERS.
+
+Teach this safety slogan:
+"If you can see it, flee it; if you can hear it, clear it."
+
+~ National Lightning Safety Institute ~	August 13, 2009
+
+General Interest #2
+
+Vehicles and Lightning
+
+What happens when lightning strikes a vehicle? The answer, gleaned from anecdotal observations, is all the way from "Nothing" to "Wow! What a mess . . . my car is a disaster."
+
+Electrically speaking, at lightning's higher frequencies, currents are carried mostly on the outside of conducting objects. A thick copper wire or a hollow-wall metal pipe will carry most of the lightning on outer surfaces. This phenomenon is called "skin effect." The same holds true for lightning when it strikes metal vehicles: the outer surface carries most of the electricity. The persons inside this steel box can be likened to
+
+protected by a partial Faraday cage.
+
+
+But, consistent with lightning's capricious nature, situations alter results. Is the car dry or wet? If the car is made of fiberglass (a poor conductor) or a convertible, skin effect principles may not work. (Corvette and Saturn owners, please note this fact.)
+
+Some general recommendations include:
+
+1. Personal Safety Issues. Reported incidents and related injuries make it clear that a person inside a fully enclosed metal vehicle must not be touching metallic objects referenced to the outside of the car. Door and window handles, radio dials, CB microphones, gearshifts, steering wheels, and other inside-to-outside metal objects should be left alone during close-in lightning events. We suggest pulling off to the side of the road in a safe manner, turning on the emergency blinkers, turning off the engine, putting one's hands in one's lap, and waiting out the storm.
+2. Heavy Equipment. Backhoes, bulldozers, loaders, graders, scrapers, mowers, and other heavy equipment that employ an enclosed rollover systems canopy (ROPS) are safe in nearby electrical storms. The operator should shut down the equipment, close the doors, and sit with hands in lap, waiting out the storm. In no circumstances during close-in lightning should the operator attempt to step off the equipment to the ground in an attempt to find another shelter. Very dangerous step voltage and touch voltage situations are created when a "dual pathway to ground" is created. Lightning voltages will attempt to equalize themselves, and they may go through a person in order to do so.
+Smaller equipment without a ROPS is not safe. Small riding mowers, golf cars, and utility wagons are examples of unsafe vehicles. Rubber tires provide zero safety from lightning. After all, lightning has traveled for miles through the sky: four or five inches of rubber is no insulation whatsoever. People should safely abandon this machinery and get into a safe shelter.
+3. School Buses. Metal buses are good Faraday cages. Make sure all windows are closed and the "hands on laps" rule is observed. Pull over and wait out the storm.
+4. Damage. Reported damage to vehicles includes pitting, arcing, and burning on both exterior and interior places. See the photographs below, courtesy of Mr. Brown, of his Jeep Cherokee that was struck by lightning. Cases have been reported of total destruction of vehicle wiring, and associated electrical and electronic systems. Cases from police departments report bad burns to the hands and
+
+mouth where officers were using radio microphones when their vehicles were struck. Cases describe total blow-out of all four tires in passenger cars. A video in our NLSI library shows a station wagon being struck by lightning in a heavy rain storm, with no damage whatsoever occurring.
+
+Insurance adjusters and claims people note: In many cases you will not find physical damage. Lightning can induce indirect effects to a vehicle's electrical and electronic systems. These low- voltage components may be damaged or destroyed. Auto dealer diagnostics are limited to "it works or it doesn't work" without the ability to disclose the cause or source of malfunction. Sometimes a claims decision may have to be based upon "What else - other than lightning - could have done the damage?"
+
+Wind Site Icing Operation Policy
+
+It is very dangerous to be near a turbine during icing conditions. Personnel should not access the turbine during icing conditions. However, upon management approval, the following procedure is designed to ensure the safety of all personnel during icing conditions at Wind turbine sites. Icing on wind turbines may occur during freezing temperatures and high humidity. Ice can build up on wind turbine blades, nacelles, hub, and electrical system components as well as met towers. The formation of the ice on these components is normally followed by the shedding of ice. Ice from an operational turbine blade can travel more than 600' (200m). Even with the turbine stopped, large chunks of ice can fall from any part of the turbine system. Falling ice is a significant safety issue around a wind turbine. Ice can impact a large radius around the turbine, which can change dependent on the amount of ice present, and the wind speed and direction. Operators should consider the location of people, nearby roads, parking areas, and buildings.
+Unless suitable measures are taken there is a significant increase in risk to personnel as well as equipment. In addition to the icing concerns presented by the turbines, personnel should also consider the other related hazards. Walking and working surfaces could be very slippery for walking. Personnel should pay close attention to foot placement and be aware of surface conditions. The steps that access the tower at some facilities can be icy as the result of ice or hard packed snow. In some cases, it may be appropriate to wear ice cleats. In cold weather conditions personnel should also dress appropriately, and be aware of the signs of hypothermia. In addition, road conditions could be very hazardous. Ensure that your vehicle is properly equipped and if the ice is significant the operator should consider the use of tire chains. This policy is in addition to all other Duke Energy procedures. The policies in the Safe Work Practices Manual still apply.
+Site management has the authority to stop work anytime they feel personnel or equipment is in danger.
+Operation of turbines during icing conditions
+The operation of wind turbines during icing conditions can pose many problems. The main concern is personnel safety; operation during icing conditions is not worth the risk of personnel injury. There are also other things to contemplate. Icing reduces the efficiency of the turbine and may cause damage to the turbine or the component parts as well as cause damage to nearby equipment. Operation during icing can also create a hazard to the general public. To mitigate these situations care must be taken to ensure safe operation.
+The first and more difficult task is to determine if icing is occurring. This can be a very subjective process. Personnel assessing the turbine conditions and making the decision to continue operation need to take into account many factors. There are several ways to gather the information needed to make the determination. The first would be direct observation of the site. Is icing occurring at ground level on structures and components? Is any ice observable on the tower, hub, blades or nacelle? Is all the monitoring equipment operating properly? The cup anemometers not rotating to match the wind speed could be an indication that they are frozen giving indication that there is some amount of icing. The performance of the turbine compared to wind speed, and/ or louder than normal sound from the blades could indicate icing conditions. Some sites have leaf sensors or ice detectors which may provide information to consider.
+Once it has been determined that icing is occurring on the turbine, site management needs to make recommendations for continued turbine operation. All turbines that are close to public roads or facilities should be shut down. Any turbine that could cause injury to people or damage to equipment should be secured. Any turbine that is operating in such a way that it could be damaged should be shut down. All others should be continually monitored until icing conditions no longer exist.
+There are two types of icing conditions
+Glaze ice
+
+• Results of liquid precipitation striking surfaces at temperatures below the freezing point.
+• Transparent, hard, attaches well to surfaces
+
+Rime Ice
+• Primary concern in high elevations such as hills or mountaintops
+• Greater concern than glaze ice
+• Greater thickness
+• Attached more loosely
+
+General Precautions during icing conditions
+* All operations and control of the turbines should be done remotely.
+* Personnel should never work alone during icing conditions or assessment.
+* Personnel shall not exit the top of the nacelle during icing conditions.
+* Do not approach or park vehicles within 820' (250m) of an operating turbine base.
+* Do not approach or park vehicles within 300'with (100m) of a non operating turbine
+Assessment of icing conditions
+Any time there is a possibility of icing on at the site; personnel should perform a safety assessment prior to entering the site. If there is any question concerning safe entry into the site, do not continue. Contact site management or other personnel that may be on site for help in assessing the icing conditions. If access to the site is necessary, contact the remote turbine operator and request that the turbines along the travel path are secured. Even though the turbines are secured, there is still a possibility that ice can fall from the turbine during travel on site. If there is any indication that ice could potentially fall from the turbine during travel, personnel should not continue. This restriction should include other non site personnel. If access cannot be restricted, a warning sign should be posted to alert them of the hazardous conditions.
+After arriving on site during icing conditions, competent (OSHA 1926.32 f) personnel should assess the site conditions prior to performing any further work. This should include, but is not limited to, assessment of the recent and current weather conditions, observations of the surfaces at the site, information provided by an ice detector, if available, observation of the tower, nacelle, or blades by use of binoculars or remote cameras, and any other metrological data available.
+Assess the turbine icing condition by considering the following:
+* What is the current temperature? (Below 32o ice could still be forming. Above 32o ice may be thawing and loosening from the turbine components.)
+* Are there any other threatening weather conditions?
+* Is there ice or snow in the turbine area
+* Has the area received freezing rain, sleet, ice or snow fallen in the last 24 hours
+* Is there ice or compacted snow visible anywhere on the turbine?
+Icy conditions on the access route to the turbine sites.
+Use of the site access roads should be restricted while ice remains on the turbine structure or met tower. If personnel absolutely must use the access routes and approach within the defined limits stated above all the safety precautions included in this procedure should be followed. In addition the site management shall
+
+evaluate the area to be accessed and determine the path to be taken is safe for use by employees prior to access. In some cases, it may be necessary to place barriers or signs restricting access to the site.
+Do not park closer than 820' (250m) from an operating turbine and check the rotor blades for ice. This can be done by use of binoculars and the sound of the rotation of the blades. If the turbine is running and ice is present on the rotor blades, contact the remote operator and have the turbine stopped.
+Entry into turbine during icing conditions
+It is very dangerous to be near a turbine during icing conditions. Personnel should not access the turbine during icing conditions. The following exception is only provided for an extremely rare case that management feels there is a critical need for turbine access. After considering the extreme danger of turbine entry during icing condition the site manager will follow this process. The manager's approval shall be given and documented (appendix 1) prior to accessing the turbine during these conditions. The manager should perform a pre job briefing with the employees entering the turbine prior to entry. If the employees entering the turbine do not feel that safe they may decline the assignment.
+Request that the hub be rotated toward the opposite side of the turbine from the door. Once the blades have come to a complete standstill, verify that no parts of the blades are located over the entrance door of the turbine. The force and the direction of the wind should be factored into the decision. If the wind speed and direction will increase the likely hood of ice falling near the door, direct the operator to rotate the unit to the safest position. The operator should then lock the yaw motor operation to prevent the nacelle from turning. Next assess the ice conditions over the door. This can be done with binoculars or remote cameras. Verify that there are no ice hazards on the tower or the nacelle prior to proceeding.
+Once the above conditions have been met, ensure your vehicle is at a safe distance from the turbine. Watch out for falling ice as you approach the tower. If the wind is blowing against the opposite side of the door or into the rotor at this point, you must proceed with extreme caution, since falling ice could be blown in your direction.
+Leave the immediate vicinity of the turbine after completing your work. Watch out for falling ice. Get into your vehicle. Do not call for remote re-activation of the yaw drive and restart of the turbine until you are approximately 820' (250m) away from the turbine.
+Moving tools and equipment to the nacelle using the winch
+The outside winch line should not be used during icing conditions. The threat of ice falling or being blown off of the turbine is very high and would expose employees to a very high risk of injury. All personnel, vehicles, and equipment should be at least 300' (100m) from the turbine.
+Recovery from Icing Conditions
+The initial phase of start up after icing conditions can be very critical. As the temperature rises and ice begins to melt large sheets or chunks can be released from all parts of the turbine. These large pieces will normally fall near the base of the turbine. In some cases high winds could blow the pieces across a large area. Prior to restarting any turbine or accessing the area underneath the turbine, a qualified person should assess the site conditions. This should include, but is not limited to, assessment of the recent and current weather conditions, observations of the surfaces at the site, information provided by an ice detector, if available, observation of the tower, nacelle, or blades by use of binoculars or remote cameras, and any other metrological data available. All ice should be removed from the blades, the nacelle and the tower prior to any personnel access.
+
+Appendix 1
+Authorization for Personnel Entry During Icing Conditions
+
+There is a critical need for personnel to access turbine 	 during icing conditions. The critical need is:
+
+
+
+
+
+
+The following personnel are authorized by me to entry the turbine during icing conditions:
+
+
+
+
+I have performed a pre job briefing with all the personnel listed above. They are aware of the hazards and understand the precaution necessary to perform the task. This authorization is only for this event and any other entries will require an additional authorization.
+
+
+Managers Name	 Managers Signature	 Date of authorization	 
+
+Appendix E - Duke Energy Company Profile
+
+Duke Energy Corporate Facts
+Headquartered in Charlotte, N.C., Duke Energy Corporation is one of the largest electric power holding companies in the United States. A Fortune 500 company, Duke Energy is listed on the New York Stock Exchange under the symbol DUK. More information about Duke Energy can be found at: www.duke- energy.com.
+2009 Operating Revenues:
+$12.7 billion (for year ended Dec. 31, 2009)
+Total Assets:
+$57 billion (as of Dec. 31, 2009)
+Employees:
+Approximately 18,680 (as of Dec. 31, 2009)
+Total U.S. Generating Capacity:
+Approximately 35,000 megawatts (owned capacity)
+OPERATING SEGMENTS
+U.S. Franchised Electric and Gas:
+With approximately 27,000 megawatts (MW) of owned regulated generation capacity, U. S. Franchised Electric and Gas is the largest business segment and primary source of earnings growth.
+States Served - North Carolina, South Carolina, Ohio, Kentucky, Indiana
+Size of Service Territory - Approximately 50,000 square miles
+Total transmission lines - Approximately 20,900 miles Total distribution lines - Approximately 151,600 miles Total gas mains - Approximately 7,200 miles
+Total gas service lines - Approximately 6,000 miles
+Utility Customers:*
+Total Electric - Approximately 4 million
+Duke Energy Carolinas - Approximately 2.4 million
+Duke Energy Ohio - Approximately 685,000 (Transmission and Distribution)
+Duke Energy Indiana - Approximately 780,000
+Duke Energy Kentucky - Approximately 135,000
+Total Gas - Approximately 500,000
+Duke Energy Ohio - Approximately 400,000
+Duke Energy Kentucky - Approximately 100,000
+* Actual as of Dec. 31, 2009.
+Commercial Power:
+Commercial Power's assets, excluding wind energy generation assets, are comprised of approximately 7,550 net MW of power generation primarily located in the Midwestern United States.
+
+Duke Energy Generation Services:
+Duke Energy Generation Services, part of Duke Energy's Commercial Businesses, is a leader in developing innovative renewable energy solutions, including wind, solar and biopower projects. DEGS concluded 2009 with 735 MW of wind power in commercial operation, and has committed more than $1 billion to its wind power business since its launch in 2007. DEGS also builds, owns and operates electric generation for large energy consumers, municipalities, utilities and industrial facilities. DEGS manages 6,300 MW of power generation at 21 facilities in the U.S. DEGS is also working to build commercial transmission capacity to help the U.S. meet its energy needs of the future.
+Duke Energy
+526 South Church Street Charlotte, NC 28202-1802 704-594-6200
+www.duke-energy.com
+
+Guide to Getting EHS Right
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9. WEATHER CONDITIONS
+
+Guide to Getting EHS Right
+
+
+9. WEATHER CONDITIONS
+
+Always monitor an updated weather forecast before starting any work at the site.
+
+Before any task is carried out the site manager and/or designee has to decide whether work could be performed safely in the present weather conditions.
+
+9.1 EXTREME WIND
+
+• In storms, hurricanes and extreme wind in general, access to the WTGs and site area is strictly forbidden.
+• Before any task is carried out, the site manager or designee has to determine whether the limit for maximum allowed wind speed for the task has been exceeded per the following:
+
+Guide to Getting EHS Right
+
+
+
+
+Guide to Getting EHS Right
+
+
+• If cranes are involved, the site manager, in cooperation with the crane operator, has to decide whether the tasks can be completed within the maximum allowed wind speeds.
+
+9.2 WEATHER CONDITIONS AT HUB HEIGHT
+
+• Before climbing the WTG, make sure persons are using appropriate clothing. If the body gets wet, it loses temperature 25 times faster than under dry conditions. Also wind speeds, warm and humid weather can affect the body, as high temperatures and humidity may result in dehydration including a heavy loss of electrolytes and/or hypoglycemia.
+• Working inside the WTG can take many hours in all kinds of weather, warm, cold and wet. Make sure you have enough food and beverages with you when climbing the WTG.
+• When working at heights, the actual weather and wind conditions may differ from the ground. The temperature at 80 m hub height is approx. 0.5 °C less and the wind speed can be stronger than 3 m/s. Generally, the difference in the wind speed from ground to hub height increases with the wind speed on the ground.
+
+9.3 COLD INJURY PREVENTION
+(See EHSS-404 - Cold Injury Prevention for complete guidance)
+
+• Do not climb outside the nacelle or enter the hub when ice/snow is present on the walking surface. Consider that tower ladders might be icy/slippery especially directly after the installation of the WTG.
+
+Guide to Getting EHS Right
+
+
+• In cold weather and heavy snow there is a risk of ice or large amounts of snow falling from the blades or other WTG parts.
+• When the WTG starts up, especially after a period with cold weather, there is a risk of ice falling from the blades.
+• Do not approach a WTG if there is any risk of falling ice or snow.
+• Do not climb outside the nacelle or enter the hub when ice is present on the walking surface. Consider that tower ladders might be icy/slippery especially directly after the installation of the WTG.
+• All site personnel must be educated regarding prevention of cold injuries and the proper use of cold weather clothing. Consider the wind chill temperature before performing any work.
+• Wind chill is the apparent temperature felt on exposed skin due to wind. The degree of this phenomenon depends on both air temperature and wind speed. The faster the wind speed, the more readily the skin/body cools. See table on next page.
+• Ensure appropriate clothes and proper wearing of clothes:
+¦ Wear warm work clothing in layers
+¦ Wear warm and dry safety boots
+¦ Ensure hands, fingers, and head are covered and protected
+¦ Change wet, damp clothes as soon as possible
+¦ Keep moving
+¦ Avoid standing on cold, wet ground
+¦ Drink water or warm fluids to prevent dehydration
+
+Guide to Getting EHS Right
+
+
+Wind Chill Table - Metric
+
+
+m/sAir temperature (°C)
+5	2
+-1
+
+-4
+
+-7
+
+-9
+
+-12
+
+-15
+
+-18
+
+-21
+
+-23
+
+-26
+
+-29
+
+-32
+
+-34
+
+-37
+
+-40052-1-4-7-9-12-15-18-21-23-26-29-32-34-37-402.22-1-4-7-11-14-17-21-24-26-30-33-37-40-43-47-494.51-3-6-9-13-16-20-23-25-30-33-37-41-44-47-51-546.70-4-7-11-14-18-22-25-28-32-36-39-43-46-50-53-578.9-1-4-8-12-16-19-23-26-30-34-37-41-44-48-52-56-5911.2-2-5-9-13-16-20-24-27-31-35-38-42-46-50-53-57-6113.4-2-6-9-13-17-21-24-28-32-36-39-43-47-51-55-58-6215.6-2-6-10-14-18-22-26-29-33-37-41-44-48-52-56-60-6317.9-3-7-11-14-18-22-26-30-34-38-42-45-49-53-57-61-6420.1-3-7-11-15-19-23-27-31-34-38-42-46-50-54-58-62-6622.4-3-7-11-16-19-23-27-32-35-39-43-47-51-55-59-63-67
+
+• Frostbite occurs in > 2 hours in dry, exposed skin
+• Frostbite could occur in 45 minutes or less in dry, exposed skin Frostbite could occur in 5 minutes or less in dry, exposed skin
+
+Guide to Getting EHS Right
+
+
+9.4 COLD INJURY
+
+• Prior planning and adequate training are essential to minimize cold injuries. Managers must ensure appropriate training, physical activity, clothing, and support for conditions of cold temperatures, wind chill and ice and snow.
+• Recognition of cold injury types
+• Cold injuries include nonfreezing injuries (trench/immersion foot), freezing injuries (frostbite) and hypothermia. Most cold injuries are preventable with proper cold weather protection. Awareness of the magnitude of cold stress (temperature, wind chill, rain/water exposure/immersion) is important for making decisions on how to appropriately use clothing systems.
+• Conform to the precautions for each wind chill level, which are classified as green, yellow or red.
+• Follow these wind chill preventive measures, based on wind chill temperature:
+¦ 30°F and below, alert personnel to the potential for cold injuries.
+¦ 15°F and below, inspect personnel for wear of cold weather clothing. Provide warming breaks.
+¦ 0°F and below, inspect personnel for cold injuries. Increase the frequency of warming breaks (see table on next page).
+¦ -10°F and below, postpone nonessential outdoor activity. Initiate the buddy system for in-tower work; have
+
+Guide to Getting EHS Right
+
+
+personnel check each other for cold injuries.
+¦ -20°F and below, curtail non essential outdoor operations.
+
+Work / Warm-Up Schedule for Four Hour PeriodAir Temp.
+Sunny SkyNo Noticeable
+Wind5 mph Wind10 mph Wind15 mph Wind20 mph WindWork PeriodWarm UpWork PeriodWarm UpWork PeriodWarm UpWork PeriodWarm UpWork PeriodWarm Up30 to 15 FNormal BreakNormal BreakNormal BreakNormal Break2 Hour30 min15 to 0 FNormal Break2 hour30 Min2 hour30 Min90 Min30 Min
+Stop Work0 to -10 F2 Hour30 Min90 Min45 Min1 Hour1 Hour
+Stop Work-10 to -20F45 Min.45 Min45 Min45 MinStop Work< -20 FStop WorkStop Work
+• Ice and snow hazards - Managers will determine if the following working conditions are present and take the actions described.
+• Ice coating the exterior of the Nacelle or on turbine blades
+• Employees will not be allowed to climb outside the Nacelle or enter the hub when ice is present on the walking surface.
+• Employees are prohibited from being in proximity of the tower or entering the tower when the manager or their delegate determine there is ice on turbine blades.
+
+9.5 HEAT STRESS
+
+• Heat Stress: Occurs when the body strains to remove excess body heat and can result in any of the following heat illnesses:
+• Heat Rash: A skin irritation due to the skin being continuously wet from sweat.
+
+Guide to Getting EHS Right
+
+
+• Heat Cramps: Cramps developing in the muscle of arms, legs or stomach resulting from excessive loss of water and electrolytes.
+• Heat Exhaustion: A condition characterized by pale skin, profuse sweating and extreme weakness.
+• Heat Stroke: A life-threatening condition in which a person's temperature control system shuts down and the body temperature rises rapidly.
+
+Determining a Heat Stress Condition
+
+• The Manager should determine if the work area is a heat stress condition by performing the following:
+• Identify the most frequent work activity for determining the application of a Recommended Action Time. Refer to Work Activity Chart below.
+• Obtain the ambient air temperature and relative humidity for the site by referencing weather information websites (i.e. www.weather.com). Use the ambient air temperature and relative humidity figures below to establish the Wet Bulb Glob Temperature (WBGT) by using the Wet Bulb Globe Temperature Conversion Chart.
+• Reference the WBGT figure to establish the Recommended Action Time according to the clothing / work activity requirements for the task. Refer to Appendix 3 (Recommended Action Times).
+
+Selecting Heat Stress Prevention Controls
+
+Guide to Getting EHS Right
+
+
+• The Manager should select the appropriate control actions by referencing Appendix 4 (Heat Stress Prevention Controls).
+• A combination of Heat Stress Prevention Controls should be used whenever possible.
+
+Pre-Job Briefing
+
+• The Manager or designee shall perform a Pre-Job Briefing with employees before they enter the heat stress condition. The Pre- Job Briefing should include the following items:
+¦ Ask employees if any physical conditions exist that may reduce their tolerance to heat.
+¦ Employees should hydrate prior to, during and after the work task. Water is the preferred fluid. (Avoid caffeinated drinks).
+¦ Review signs and symptoms of heat stress.
+¦ Use of the Buddy System to monitor for signs and symptoms of heat stress. Leave the area if signs and symptoms of heat stress are experienced.
+¦ Review of the Recommended Action Times for the task being performed.
+¦ Use of Engineering, Administrative and PPE controls to reduce the affects of the heat stress condition.
+
+Guide to Getting EHS Right
+
+
+Monitoring the Heat Stress Condition
+
+• The Manager should ensure that employees are observed for signs and symptoms of heat stress.
+
+Work Activity Chart
+
+RatingActivitiesLight* Sit/stand still
+* Walk slowly
+* Inspect visually* Calibrate instruments
+* Operate equipment controls
+* Work with hands onlyModerate* System walk-down
+* Motor repairs in place
+* Light materials handling* Work with arms and hands
+* Ladder climbingHeavy* Heavy materials handling (Pitch Motor/Lust Drive Replacement)
+* Oil/Grease Clean-up* Hoist materials manually (Rope and Pulley)
+* Extensive ladder climbing
+Wet Bulb Globe Temperature (WBGT) Conversion Chart
+
+
+Guide to Getting EHS Right
+
+
+Recommended Action Times
+
+Adjusted WBGT
+°FWork Clothes Type of Work
+Light	Moderate	HeavyCotton Coveralls Type of Work
+Light	Moderate	Heavy79No LimitNo Limit6 HoursNo LimitNo Limit5 Hours80No LimitNo Limit4 Hr 30 MinNo Limit5 Hours3 Hr 30 Min82No LimitNo Limit3 HoursNo Limit3 Hours2 Hours84No Limit4 Hours2 Hr 25 MinNo Limit2 Hr 25 Min1 Hr 20 Min86No Limit3 Hours1 Hr 30 MinNo Limit1 Hr 30 Min45 Minutes88No Limit2 Hr 20 Min1 Hour5 Hours1 Hr 15 Min40 Minutes90No Limit1 Hr 45 Min45 Minutes4 Hours1 Hour40 Minutes934 Hours1 Hour30 Minutes3 Hours45 Minutes30 Minutes973 Hours45 Minutes30 Minutes1 Hr 45 Min30 Minutes20 Minutes1001 Hr 45 Min30 Minutes20 Minutes1 Hr 15 Min30 Minutes20 Minutes1041 Hr 15 Min30 Minutes20 Minutes1 Hour30 Minutes10 Minutes1081 Hour20 Minutes10 Minutes45 Minutes20 MinutesAppendix 411145 Minutes20 MinutesAppendix 430 Minutes10 MinutesAppendix 411530 Minutes10 MinutesAppendix 430 Minutes10 MinutesAppendix 4
+Engineering Controls
+
+• Air conditioned vehicles and office areas to enhance worker recovery from heat exposures during rest time periods.
+• Nacelle roof hatches to provide a means of natural ventilation.
+• Portable ventilation fans in the work area to increase convection cooling and reduce the ambient air temperature.
+• Power tools to reduce the worker energy exertion and job task time in the heat stress condition.
+
+Guide to Getting EHS Right
+
+
+Administrative Controls
+
+• Establish a Recommended Action Time to limit the time of employee exposure to heat.
+• Schedule work after the area has had an opportunity to cool (at night, cooler day, planned cool down time. Double shifts and overtime should be discouraged for work in heat stress conditions.
+• Allow employees time to become acclimated to working in the heat. Typical acclimation period is approximately 5 days.
+• Rotate employees to equalize exposure to heat.
+• Use the buddy system to monitor signs and symptoms of heat stress.
+• Encourage employees to pace themselves.
+• Employees should feel free to leave the heat stress condition immediately and notify their Manager if they feel they are not capable to continue safe work or they begin to experience signs and symptoms of heat stress.
+• Provide cool water or sports drinks and encourage employees to hydrate before, during and after the work task.
+• Multiple entries into heat stress conditions are permitted provided the employee feels able to do so safely and observes adequate rest times.
+• Monitor temperature changes during the job task and adjust the Recommended Action Times accordingly.
+
+Guide to Getting EHS Right
+
+
+Personal Protective Equipment
+
+• Use company approved personal cooling devices such as bandanas and skulls caps.
+
+9.6 LIGHTNING
+
+• Do not enter WTG site during a thunderstorm.
+• If a thunderstorm approaches, immediately evacuate the WTG site if possible against the main wind direction. Be cautious of blade parts falling to the ground due to lightning strikes.
+• Do not approach a WTG for at least one hour after the thunderstorm has passed due to the risk of static electricity.
+• If there are crackling noises or buzzing coming from the wet blades, the WTG is still charged with electricity. Do not approach or touch the WTG.
+• If the WTG has been struck by lightning and is visibly damaged, cut off the power supply to the WTG and contact the SUZLON Service Department for further inspection.
+• A lightning strike usually causes an automatic stop and only damages the transient protection block.
+
+Lightning safety is a key concern for crews at wind farms. Due to their height, turbines are prone to lightning strikes. Significant advance warning is needed because it takes substantial time to evacuate. It takes a long time to get down from a tower, and drive a vehicle out of a
+
+Guide to Getting EHS Right
+
+
+wind farm. Being in an enclosed vehicle is a safe place for protection against the strike itself. However, the normal practice is to evacuate the wind farm due to possible injury caused by flying debris. Because of the time required to reach safety, significant advance notice is required. As such, the following practices are to be followed by all Suzlon personnel:
+
+Prior to up tower work
+
+• Monitor the weather. This can be done via dedicated systems, internet, radio, or television.
+• Heed all warnings. If dangerous weather is imminent (within 25 miles), do not proceed to the wind farm.
+• Ensure that no crane or other extended boom work may take place if lightning is in the area.
+
+During up tower work
+
+• Remain in communication with down tower support and heed all warnings. Warnings will begin when lightning is 40 miles away.
+• Immediately begin to evacuate the tower if lightning is detected within 25 miles.
+• Immediately begin evacuation if thunder is heard. Thunder is a good indicator that lightning may be in the area.
+• Seek shelter once the tower is cleared. Shelter may be taken inside a closed vehicle or inside of an office. Vehicles must be moved away from the towers.
+
+Guide to Getting EHS Right
+
+
+Resume work
+
+• 1 hour after the last lightning strike and the all clear is given.
+• Once a review of the permit to work has been completed.
+
+9.7 TORNADO RESPONSE
+
+Since wind farms are constructed in mostly open rural areas of the country, they are highly susceptible to the damaging effects of a tornado. The following notifications should be observed:
+
+Tornado Watch: Conditions are favorable for tornadoes to develop.
+
+Tornado Warning: A tornado has been sighted or indicated by weather radar. If a tornado warning is issued for your area and the sky becomes threatening, move to your pre-designated place of safety.
+
+The following locations are most at risk to damage during a tornado:
+
+• Up tower in a wind farm.
+• In a motor vehicle.
+• In an open area with no shelter.
+• Inside of a mobile office building.
+
+Employees should never be located up tower in the event of a tornado. Since tornadoes are accompanied by lightning and severe weather, employees will receive warning of an approaching storm. In the event of no warning, proceed down tower as quickly as possible. Remain in the base of the tower for shelter if outside conditions warrant.
+
+
+Do not seek shelter inside of a motor vehicle. In the event of an approaching tornado, seek shelter inside of a permanent building. Proceed to an interior room with no windows if possible. If a permanent building is not available, exit the vehicle and proceed to a low lying area such as a ditch or depression. Lie flat on the ground until the storm passes. Abandon mobile office buildings if a storm approaches. Even if these structures are tied down, they offer very little protection. Proceed to the interior of the nearest permanent building. Shelter may be taken in a ditch or depression as a last resort.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10. MOTOR VEHICLE OPERATIONS
+
+
+
+
+
+Thermal Stress Program (08/10/09)Date Revised/ReviewedSummary of Changes (Includes Page Number)Revision By1/31/2011Revised the Cold Safe Work Practices on page 3J. Spencer
+
+Thermal Stress Management Overview
+
+Purpose
+The purpose of this program is to protect employees from thermal stress.
+
+Scope
+This program applies to anyone at Duke Energy sites who could be exposed to thermal stresses either outside or indoors.
+
+Where this manual sets forth safety & environmental related work requirements for DE employees, those same requirements also apply to employees of contractors.
+
+
+
+Thermal Stress Work Practices
+
+
+Thermal Safe Work Practices
+
+General
+1. Dress appropriately for the environmental conditions.
+2. Effectively plan, engineer, and schedule work/projects to eliminate, control, or minimize exposure to temperature extremes.
+3. Take adequate breaks and replace fluids frequentl .
+4. Maintain good physical condition to minimize and/or eliminate injuries/illnesses from exposure to heat or cold.
+5. When working in adverse weather conditions (e.g., snow/ice storms), take appropriate precautions.
+6. Wherever possible, utilize the buddy system if you must travel or work outdoors in dangerous conditions.
+
+Heat
+7. When working (or preparing to work) in areas of extreme heat, consume adequate and appropriate amounts of fluids to help avoid heat-related illnesses and dehydration. (Drink about one cup of water every 15 minutes; avoid carbonated drinks and those that contain caffeine.
+8. Adequately replace salt and other minerals through normal diet. (Supplements are usually unnecessary.)
+9. Plan work based on recommended stay times. Provide adequate personnel for rotation.
+10. Slowly build up a tolerance for heat exposure. Where appropriate, reduce stay time accordingly.
+11. When working in hot environments, wear appropriate clothing. Use ice vests if desired.
+12. Take precautions to protect from overexposure to the sun (e.g., clothing, eye protection, sun screen).
+13. Permit employees to interrupt their work if experiencing signs of heat-related disorders or extreme discomfort.
+
+Cold
+14. When working in cold environments, dress to stay warm and dry. Use rain gear or layered, insulated clothing as appropriate.
+15. Observe coworkers for symptoms of frostbite and hypothermia. When necessary, use warming shelters or vehicles
+cabs for temporary relief. Seek medical attention when appropriate.
+16. Walk carefully on snowy and icy surfaces.
+17. When shoveling snow, be very careful to avoid overexertion.
+18. Soaking wet clothing contributes to hypothermia and should be removed as soon as possible.
+19. Use of vibrating tools in extremely cold weather could aggravate a circulatory condition called Raynaud's Syndrome and should be avoided by affected individuals.
+
+
+Thermal Stress Compliance Program
+
+Section 1- Heat Stress
+Purpose
+The purpose of this program is to ensure that adequate safeguards and precautions are implemented to prevent
+
+personnel from
+
+having any
+
+illness, medical injuries
+
+or symptoms of heat
+
+stress where high temperature work
+
+environments are a known or potential co cern.
+This program provides guidelines for evaluating heat stress environments and recommending stay times.
+
+Scope
+This program applies to anyone at Duke Energy sites who works in extreme temperatures. This section is for Heat Stress.
+
+Definitions
+Acclimatization - physiological changes in the body usually gained over a period of time of working in heat stress conditions that enable the body to adapt and respond to the heat stress conditions.
+
+Adverse Environmental Conditions - any combination of dry bulb temperature, humidity, air velocity, and radiant heat
+that contributes to an increase in body temperature. These conditions may exist outdoors or indoors in locations such
+areas as, but not limited to, Reactor Buildings, High Pressure Injection Pump Rooms, Boiler Rooms, Fan Floors, and some parts of the Turbine Building.
+
+
+Heat Stress -
+
+any combination of adverse environmental conditions,( air
+
+temperature,
+
+humidity, air movemen )
+
+workload, radiation from hot and hot surfaces/sources, and clothing that increases the body temperature.
+
+Heat Disorders -Heat related physical responses, including heat stroke, heat exhaustion, cramps, fainting or heat rash. (See Heat Related Disorders section of th s program.)
+
+Metabolism - the transformation of chemical energy into energy which is used by the muscles for performing work. About 70-80% of the energy available is released as heat.
+
+Radiant Heat - electromagnetic heat transferred from one higher temperature mass to another without direct contact.
+
+Recovery Time - the amount of time required by an exposed individual's physiological state to return to its pre- exposure condition.
+
+Stay Times - the recommended amount of time that an employee is expected to safely work in a moderate to high heat stress environment, based on environmental conditions such as type of clothing being worn, and individual health and metabolism.
+
+Wet Bulb Globe Temperature ( WBGT) - a combination of wet bulb, globe and dry bulb temperatures that characterize the environmental effects on the body.
+
+
+Responsibilities
+
+Management
+Plant management has a responsibility to provide a safe and healthy workplace for all employees. This includes:
+
+
+1. Providing means of preventing heat stress and other heat-related health hazards; and
+
+2. Comm
+Supervisor
+
+nicating hazards and expectations associated with heat stress to employees.
+
+1. Identify and analyze jobs that could expose employees to heat stress.
+
+2. Ensure that employees are aware that medical conditions or drugs consumed may render them unfit for exposure to heat stress. Illness (i.e. colds, flu, high blood pressure, diabetes, or any illness that may cause weakness, dizziness or fever), prescription or over -the-counter medication, alcohol consumption, or a history of heat stress intolerance should be considered in determining assignment to work in heat stress environments. Duke Energy Medical Services or your Occupational Health Care Provider is available to assist employees or supervisors with heat stress concerns.
+
+3. Consult the site Health & Safety Professional to obtain the WBGT exposure reading.
+
+4. Discuss the following methods for reducing heat stress with employees.
+* radiant heat shielding
+* spot coolers
+* fans
+* ice vests
+* vortex tube cooling
+* cool resting areas
+* dividing work into small increments to be done by different teams
+* scheduling the job for cooler periods
+* mockup training/practice.
+
+5. Interact with Operations, Health & Safety or other personnel to ensure that all reasonable measures have been taken to reduce temperatures in the work area or to determine if protective clothing can be used to reduce the heat load.
+
+6. When possible, organize have employees into work teams that can monitor each other for heat related disorders and terminate a job if they observe signs or symptoms of any of the heat stress disorders.
+
+7. Ensure that employees are aware of the estimated stay times and observe them.
+
+8. It is the supervisor's responsibility to extend rest periods according to individual requirements and to allow a re- acclimatization period after an absence from work of a week or more or if the person is returning to work from an illness.
+
+9. If in doubt as to an employee's condition, remove them from the work area.
+
+10. Ensure that employees receive adequate recovery time between exposures in a normal environment around 70 degrees Fahrenheit while dressed in light, dry clothing as calculated by the following formula:
+
+Recovery Time = (Actual Exposure Time ÷ Maximum Stay Time) X 60 Minutes
+
+11. Arrange for water coolers (available from Supply Chain/Warehouse) for long duration projects.
+
+12. If in doubt about the potential adverse impact of a heart stress environment, do not enter that work area.
+
+
+Employees
+1. Inform supervision or Medical Services of any health concerns, prescription or over-the-counter drugs being taken that could exacerbate their current condition into heat related disorder or any physical problems encountered during past or current heat stress exposures.
+
+2. Inform supervision of any current off the job heat stress exposures so that recovery time from those exposures can be considered. Example; if an employee misses 3 days or more due to personal illness, they may need to be medically evaluated by their physician while working as well as be re-acclimatized before returning to work in temperature extremes.
+
+3. Know the signs and symptoms of heat related disorders described in the HEAT RELATED DISORDERS section
+
+of this
+
+document and monitor
+
+yourself and
+
+coworkers
+
+for the development of
+
+any of their symptoms.
+
+Immediately STOP work in heat stress conditions when these symptoms start to develop.
+
+4. Know the estimated stay times for the job and do not extend them.
+
+5. If in doubt about your or a co-worker's condition, leave the work area.
+
+6. Maintai  good physical condition for work in heat stress environments by exercising, eating a balanced diet, and
+getting sufficient rest.
+
+7. Drink plenty of water before, during (5 to 7 ounces every 15 to 20 minutes), and after heat stress exposures.. Avoid sugary drinks which do not absorb quickly and caffeinated drinks that reduce blood flow to the brain. Be aware that thirst is a lagging indicator of the amount of fluid needed.
+
+8. During extended exposures, covering several days, it is important to know your body weight before exposure and check it daily to confirm that sufficient fluids are being consumed to maintain it.
+
+9. Recognize that smoking reduces the size of blood veins limiting the ability to carry away heat and provide oxygen to the muscles. Smoking also has other interactions that reduce the body's ability to respond to heat stress.
+
+10. Work at a deliberate pace to avoid overexertion.
+
+Planners/Technical Team
+1. Alert teams to possible heat stress activities in work packages.
+2. Schedu e heat stress work at cooler times when feasible.
+3. Schedu e additional time and/or personnel for large heat stress activities.
+
+Health & Safety Professionals
+1. Health & Safety personnel are available for assisting supervisors and crews with evaluating and planning heat stress activities when requested.
+2. Assist sites in recommending instrumentation for taking WBGT readings.
+3. Assist in conducting evaluations of work areas and plan activities in anticipation of heat stress issues.
+
+Medical Services
+
+
+1. Medical Services may be available for assessment of medical concerns and to provide recommendations that
+
+may assist employees and supervisors in environments.
+
+Training
+
+determining
+
+suitability for assignment to work in heat stress
+
+Annual training, available through a read package or computed-based training (CBT),is recommended annually but not required. This will help refresh employees who work in extreme temperatures to be aware of the signs and symptoms of heat stress, actions to take to prevent heat related illnesses and disorders, and how to minimize the effects of heat stress. Training will be available through a read package or CBT.
+
+General
+Certain operations have a high potential for heat stress, particularly where high air temperatures, radiant heat sources, high humidity, d rect physical contact with hot surfaces, and/or strenuous physical activities are present. Such operations/places include, but are not limited to:
+* Boiler maintenance jobs;
+* Working on the higher elevation of the boiler house near the boiler ;
+* Working in close proximity to boilers/turbines when operational;
+* Working in confined spaces;
+* Hazardous materials response; and
+* Outdoor operations conducted during hot weather.
+
+Under conditions of high humidity, the evaporation of sweat from the skin is decreased and the body's efforts to maintain an acceptable body temperature may be significantly impaired. These conditions adversely affect an individual's ability
+to work in a hot environment. When large amounts of blood goes to the external surface of the body to be cooled,
+relatively less g es to the active muscles, the brain, and other internal organs; strength declines; and fatigue occurs
+sooner than it would otherwise. Alertness and mental capacity also may be affected. Workers who must perform delicate or detailed work may find their accuracy lessened, and others may find their comprehension and retention of information diminished.
+
+Safety Hazards
+Certain safety problems are common to hot environments. Heat tends to promote accidents due to the slipperiness of sweaty palms, dizziness, and/or the fogging of safety glasses. Wherever hot surfaces, steam, etc. exist, the possibility of burns from accidental contact also exists. See Appendix A, Temperature and Contact with Hot Surfaces.
+The frequency of accidents, in general, appears to be higher in hot environments than in more moderate environmental conditions. One reason is that working in a hot environment lowers the mental alertness and physical performance of an individual. Increased body temperature and physical discomfort promote irritability, anger, and other emotional states which sometimes cause workers to overlook safety procedures or to divert attention from hazardous tasks.
+Prevention
+Prevention is really the key to avoid heat related illness. Employee awareness and training are pivotal in preventing excessive heat stress by educating the supervisors and workers on the hazards of working in heat and the benefits of implementing proper controls and work practices. The sites should establish a program designed to acclimatize workers who must be exposed to hot environments and provide necessary work-rest cycles and water to minimize heat stress.
+According to OSHA, most heat-related problems can be prevented so that the risk of developing heat-stress symptoms is reduced. Follow these basic practices:
+
+
+
+* Acclimatization to heat through short exposures followed by longer periods of work in a hot environment.
+
+OSHA recommends that new employees and workers returning from an absence of two or more weeks have a five-day period of acclimatization.
+
+* Engineering controls, including general ventilation and spot cooling by local exhaust ventilation at points of high heat production are helpful but wil not reduce the radiant heat reaching workers depending on the temperature. Radiant hea can be controlled by lowering the surface temperature of heat sources; by placing a shield between the worker and the heat source; and by providing a reflective booth, which may need tempered air.
+
+* Drinking water helps prevent heat-related disorders and as much as one quart per hour per worker should be available at the work site.
+
+* Train supervisors to detect early signs of heat stress in workers, and train first-aid workers to recognize and treat heat- stress disorders is essential.
+
+* Educating employees to be aware of the need to replace fluids and salt lost through perspiring and to recognize the signs of dehydration, exhaustion, fainting, heat cramps and heat stroke is vital.
+
+* Workers are subject to exercise-induced heat stress year-round, regardless of the weather. With basic training and awareness, many heat-related disorders can be avoided.
+
+Health Hazard Identification
+A worker subjected to heat stress will experience increases in body temperature, heart rate, and sweating as normal physiological response to the exposure. However, depending on the conditions of the exposure, heat stress can cause decreased performance, lost time accidents, damage to equipment and fatalities.
+Excessive heat can contribute to physical and mental changes. These changes are early warning signs, alerting danger. Seek assistance when any of the following symptoms are observed:
+* Dizziness;
+* Vomiting;
+* Hot, dry skin (no sweating);
+* Rapid heartbeat;
+* Throbbing headache; or
+* Cramps and/or chest pain.
+
+Workers who are experiencing the signs and symptoms above may not realize they are suffering from heat stress. It is important that all exposed employees know these indicators and watch for them in other workers.
+
+Heat Related Disorders
+Excessive exposure to a hot work environment can bring about a variety of heat-induced disorders including:
+
+Transient Heat Fatigue - refers to the temporary state of discomfort and mental or psychological strain arising from prolonged heat exposure. Workers unaccustomed to the heat are particularly susceptible and can suffer, to varying
+degrees, a decline in task performance, c ordination, alertness, and vigilance. The severity of transient heat fatigue can
+be lessened by a period of gradual adjustment to the hot environment (heat acclimatization).
+
+
+Heat Rash (Pri kly Heat) - occurs where sweat is not easily removed from the surface of the skin and the skin remains
+wet most of the time. The sweat ducts become plugged, and a skin rash develops causing a prickly sensation. The individual can prevent this condition by resting in a coo place part of each day to allow sweat to evaporate and by
+regularly bathing and drying the skin. Symptoms include red bumpy rash with severe itching. For treatment change into
+dry clothes and avoid hot environments. Rinse skin with cool water. Wash regularly to keep skin clean and dry.
+
+Fainting - can occur in persons not accustomed to the heat who stay in one position for periods of time that allows the
+blood to pool in enlarged blood vessels and lower parts of the body. Fainting is caused by insufficient blood returned to
+the heart and bloodflow to the brain. Symptoms include sudden fainting after at least two hours of work with cool moist
+skin and weak pulse. Treatment requires immediate m dical attention, move to a cool area; loosen clothing; make
+person lie down; and if the person is conscious, offer sips of cool water. Fainting may also be caused by other illness.
+By moving around, and thereby preventin blood from pooling, the patient may prevent further fainting.
+
+Heat Cramps - are painful, involuntary muscle spasms that usually occur during heavy exercise in hot environments. Heat cramps are caused by salt imbalance resulting from failure to replace salt lost with sweat. Inadequate fluid intake often contributes to this problem. Muscles most often affected include calves, arms, abdomen and back, although the cramps may involve any muscle group involved in the exercise. Treatment involves resting briefly, cooling down, and drinking water or an electrolyte -containing sports drink. Practice gentle, range of motion stretching and gentle massage of the affected muscle group.
+CAUTION: Persons with heart problems or those on a low sodium diet who work in hot environments should consult a physician about what to do under these conditions.
+
+Heat Exhaustion - is caused by the loss of large amounts of fluid, sometimes with excessive salt loss. Symptoms include excessive sweating and may experience extreme weakness or fatigue, giddiness, nausea, or headache. More
+Serious cases involve vomiti g or loss of consciousness. The skin becomes clammy and moist, the complexion is pale
+or flushed, and the body temperature is normal or slightly elevated. In more serious cases, the victim may vomit or lose consciousness.
+In most cases, treatment involves placing the victim in a cool place and drinking plenty of liquids. Cool the person by spraying him or her with cool water and fanning. Victims with mild cases of heat exhaustion usually recover spontaneously with this treatment. Those with severe cases may require extended care for several days. Raise the victim's feet and legs 8-12 inches while cooling, if there is no suspicion of a spinal injury. (National Safety Council's current guidelines) There are no known permanent effects.
+CAUTION: Persons with heart problems or those on a low sodium diet who work in hot environments should consult a physician about what to do under these conditions.
+
+Heat Stroke - is the most serious of health problems associated with working in hot environments and occurs when the body's temperature regulating system fails and sweating is inadequate to cool the body. Symptoms of heat stroke are hot skin, usually dry, red or spotted. Body temperature is 105°F or higher. Unless the victim receives immediate and appropriate treatment, brain damage or death can occur. Treatment includes moving the victim to a cool area and taking actions to increase body cooling, thoroughly soaking the clothing with water, and vigorously fanning the body to
+increase cooling. Place cold packs or ice  ags on the victim's neck, armpits and groin. Further treatment at a medical
+facility includes continuation of the cooling process and the monitoring of complications that often accompany the heat stroke. Early recognition and treatment of heat stroke are the only means of preventing permanent brain damage or even death. Any person with signs or symptoms of heat stroke requires immediate medical attention and hospitalization.
+
+Heat Stress Evaluation
+Jobs to be performed under conditions that could lead to heat stress situations should be evaluated by the project
+supervisor and/ r Health and Safety professional. Use the ACGIH Heat Stress and Strain TLV Decision Flow Chart in
+Appendix B to help work through the process. The evaluation should include the following:
+
+
+* An asse sment using a heat stress monitor (3M, Quest, Reuter Stokes WIBGET Heat Stress Monitor or similar);
+* An estimation of metabolic heat load due to work activity and clothing and/or personal protective equipment resulting in a stay time estimation; and
+* Recommendations for hazard prevention using engineering and/or administrative controls.
+
+Hazard Control Methods
+Engineering Controls
+Heat Stress conditions can be reduced by implementing engineering resulting in changes in the job conditions. The
+supervisor and erhaps with Health and Safety input will decide if implementation of engineering controls are feasible
+and practical, based on the particular job situation. Engineering controls are typically categorized as follows:
+* Mechanical assists to reduce metabolic heat production redesign and /or mechanize the task to reduce the work time and /or effort and hence reduce metabolic heat load ;
+* Ventilation and Air Conditioning:- Modified air temperature and air movement to control convective heat; including the use of localized air conditioning or ventilation :
+o reduce the temperature and humidity though air cooling
+o increase the air movement (fans) if temperature is less then 95°F
+o exhaust hot air and steam produced by specific operation;
+* Humidity Reduction Measures: minimize humidity in the work environment to improve sweat evaporation from the surface of the skin. This can be accomplished by air conditioning or dehumidification and elimination of leaky steam valves or open water baths present in these areas;
+* Fans (or other air movers) to increase air velocity and enhance evaporative cooling and/or convective cooling;
+* Radiant Heat Shielding or Reflecting: To control radiant heat exposure, reflective or absorbent shields should be placed between the radiant source and worker, as applicable. Stainless steel, aluminum or other bright metal surfaces reflect heat back away from the job back towards the source. Absorbent shields, such as water-cooled jackets made of black- surfaced aluminum, can carry away heat.
+* Insulation of Hot Surfaces: a reduction in heat exchange between the heat source and the work environment can be achieved by insulating the source.
+* Shaded awnings: Utilize awnings, portable shade canopies or umbrellas for outside work whenever possible.
+A variety of engineering cont ols can be introduced to minimize exposure to heat. For instance, improving the insulation on a furnace wall can reduce its surface temperature and the temperature of the immediate area. In a laundry room, exhaust hoods installed over those sources releasing moisture will lower the humidity in the work area. In general, the simplest and least expensive methods of reducing heat and humidity can be accomplished by:
+* Opening windows in hot work areas;
+* Using fans; and
+* Using other methods of creating airflow such as exhaust ventilation or air blowers.
+Note: If relative humidity is over 75-80%, the air from the fan will no longer increase evaporation of sweat. The
+closer t e air temperature is to skin temperature (95-96.8 °F) the less effective the cooling. If the air temperatur
+exceeds skin temperature, then the fan may even heat up the body.
+
+
+Administrative Controls
+Individuals who work outdoors may be routinely exposed to hot weather exposure. The combination of high temperature and humidity can create overly stressful conditions. The following practices can help to reduce heat stress:
+* Postponement of nonessential tasks,
+* Permit only acclimatized workers to perform the more strenuous tasks; or
+* Provide additional workers to perform the tasks, keeping in mind that all workers should be acclimatized to the heat and have the physical capacity to perform the task.
+
+Stay Time Estimation
+Heat stress depends partly on the amount of heat the worker's body produces while a job is being performed. The amount of heat produced during hard, steady work is much higher than that produced during intermittent or light work.
+Rather than be exposed to heat for extended periods of time during the course of a job, workers should, wherever possible, be permitted to distribute the workload evenly over the day and incorporate work-rest cycles. Work-rest cycles give the body an opportunity to get rid of excess heat, slow down the production of internal body heat, and provide greater blood flow to the skin.
+
+Rest Areas
+Providing cool rest areas in hot work environments considerably reduces the stress of working in heat stress
+environments. There is no conclusive information available on the ideal temperature for a rest area. However, a rest
+area with a temperature near 76°F appears to be adequate and may even feel chilly to a hot, sweating worker, until acclimated to the cooler envi onment. The rest area should be as close to the workplace as possible. Individual work
+
+periods should not be length beneficial to the worker.
+
+Recovery Time
+
+ned in favor of prolonged rest periods.
+
+Shorter but frequent work-rest cycles are most
+
+Ensure that employees receive adequate recovery time between exposures in a normal environment around 72?F while dressed in light, dry clothing as calculated by the following formula:
+
+Recovery Time = (Actual Exposure Time / Maximum Stay Time) x 60 Minutes
+
+There are two physiological conditions which can be monitored as an indicator for heat stress which can help in the employee assessment of their work/rest periods; heart rate and body temperature.
+
+1. Heart Rate Monitoring - Recovery heart rate, measured during the last 30 seconds of the first minute after stopping work and sitting down (called P1), should be less than 110 beats per minute (bpm), or, in the last 30 seconds of the first three minutes (called P3), the rate should be less than 90 bpm. For acceptable recovery, P1 - P3 should be greater than 10 bpm. If the heart rate is higher, the individual may be at risk of heat strain. Discontinue any environmentally induced or activity -induced heat stress for an individual when the sustained heart rate is greater than 160 beats per minute for those 35 years of age and 140 bpm for those 35 years and older. This only applies to healthy adults taking no medication. For workers taking prescribed medication, specific recommendation should be provided by his/her medical provider.
+2. Body Temperature - Mea ure body temperature during the work period or as soon as possible in the
+rest period. If body temperature exceeds 99.4°F (oral). Then shorten the next work cycle by one -third
+and keep the rest period the same. If the temperature exceeds 99.4 °F (oral) at the beginning of next rest period, then shorten the next work cycle by 1/3 and keep the rest period the same. Continue this
+
+
+process until the body temperature is below 99.4 °F (oral). Do not permit a worker to re-enter a work area if his/her temperature is above 99.4 °F(oral)
+
+Drinking Water
+During a work day, in the heat, a worker may produce as much as 2 to 3 gallons of sweat. Because so many heat disorders involve excessive dehydration of the body, it is essential that water intake during the workday be about equal to the amount of sweat produced. Most workers exposed to hot conditions drink fewer fluids than needed because of a insufficient thirst drive. A wo ker, therefore, should not depend on thirst to signal when and how much to drink. Instead
+the worker should drink 8 ou ces of water or non-carbonated beverage, non-caffeinated beverage every 15 to 20
+
+minutes during to all workers.
+
+xertion to replenish the necessary fluids in the body. Sufficient potable water must be readily available
+
+
+Acclimatization
+Acclimation is a process by which the physiological processes of a worker's body adjust to the environment over a period of time. The adjustment may take weeks, although significant adaption occurs within a few days of the first exposure.
+
+The allowable WBGT-TLV exposure for u acclimatized workers is several degrees lower than that of someone who is
+fully acclimatized. Because t eir exposure to heat and their work loads may be inconsistent, some personnel may not,
+by definition, be acclimated to the heat they encounter in their shops. People who are not sufficiently acclimatized to the
+heat may experience transie t heat fatigue resulting in a decline in performance, coordination or alertness. They may
+also become irritable or depressed. This can be prevented through gradual adjustment to the hot environment. People in good physical condition tend to acclimatize better because their cardiovascular systems respond better.
+
+It is the supervisor's responsibility to extend rest periods according to individual requirements and to allow a re-
+acclimatization eriod after an absence from work of a week or more or if the person is returning to work from an illness
+
+Protective Clothing
+
+Selection of clothing will depend on the characteristics of a particular hot environment. Keep in mind that some employees are required to wear FR, flame retardant, clothing as a part of their job or other required clothing as part of a job task.
+
+1. Hot Temperatures, Humid Environment - Light clothing should be worn. Unless a particular task dictates
+otherwise, avoid impermeable fabrics which educe the body's ability to dissipate heat. Loose cotton fabrics
+are best suited for this environment. Light-colored clothing should be worn when working outside in the hot sun.
+
+2. Hot Temperatures, Dry Environment - In dry climates, adequate evaporation of sweat is seldom a problem. In extremely hot environments, air, water or ice-cooled insulated clothing should be considered. Ordinary
+clothing provides some protecti n from heat radiated by surrounding hot surfaces. In a high radiant heat
+situation, reflective clothing may help.
+
+3. Alternating Hot and Cold Environments - Workers who alternate between very hot, dry indoor environments and cold winter outdoor environments may choose to wear long underwear which have been shown to moderate the extremes in temperatures.
+
+The figures in Table 1 are the values that are to be added to the WGBT measured in the workplace.
+
+
+Table 1 - Clothing - Adjustment Factors for Some Clot ing Ensembles*
+
+Clothing typeWBGT addition*Work clothes (long-sleeved shirt and pants)0Cloth (woven material)
+overalls0Double-layer woven clothing5SMS polypropylene
+coveralls1Polyolefin coveralls2Limited-use vapor-barrier
+coveralls20*These values must not be used for completely encapsulating suits, often called Level A. For these situations workers should be evaluated when the temperature in the work area is above 70 °F.
+Clothing Adjustment factors cannot be ad ed for multiple layers. The coveralls assume that only modesty clothing is
+worn underneath, not a second layer of clothing. For example, the air within a totally encapsulating, vapor-protective suit (Level A worn by emergency spill responder) will quickly become saturated with moisture. This will prevent any evaporation of perspiration. Emergency responders may face life-threatening heat stress conditions even on a cool day. If workers are required to wear clothing that is not represented in the table such as a totally encapsulated suit or multiple
+layers where no data are available for adj stments. For these kinds of ensembles, Table 2 below is not a useful
+screening meth d and some risk must be assumed. Recommend using physiological and signs/symptoms monitoring
+described above to assess the exposure.
+
+Auxiliary Body Cooling systems are available and can be used in the appropriate situation. In situations where radiant heat is high, auxiliary cooling systems can be used under the reflective clothing:
+
+1. Commercially available ice vests, though heavy, may accommodate as many as 72 ice packets, which are usually filled with water. Carbon dioxide (dry ice) can also be used as a coolant. The cooling offered by ice packets lasts only 2 to 4 hours at moderate to heavy heat loads, and frequent replacement is necessary. However, ice vests do not encumber the worker and thus permit maximum mobility. Cooling with ice is also relatively inexpensive.
+2. Wetted clothing is another simple and inexpensive personal cooling technique. It is effective when reflective or other impermeable protective clothing is worn. The clothing may be wetted terry cloth coveralls or wetted two-piece, whole-body cotton suits. This approach to auxiliary cooling can be quite effective under conditions of high temperature and low humidity, where evaporation from the wetted garment is not restricted.
+3. Water-cooled garments range from a hood, which cools only the head, to vests and "long johns," which offer partial or complete body cooling. Use of this equipment requires a battery- driven circulating pump, liquid-ice coolant, and a container.
+
+Although this system has the advantage of allowing wearer mobility, the weight of the components limits the amount of ice that can be carried and thus reduces the effective use time. The heat transfer rate in liquid cooling systems may limit their use to low-activity jobs; even in such jobs, their service time is only about 20 minutes per pound of cooling ice. To keep outside heat from melting the ice, an outer insulating jacket should be an integral part of these systems
+
+
+4. Circulating air is the most highly effective, as well as the most complicated, personal cooling system. By directing compressed air around the body from a supplied air system, both evaporative and convective cooling are improved. The greatest advantage occurs when circulating air is used with impermeable garments or double cotton overalls.
+
+One type, used when respiratory protection is also necessary, forces exhaust air from a supplied-air hood ("bubble hood") around the neck and down inside an impermeable suit. The air then escapes through openings in the suit. Air can also be supplied directly to the suit without using a hood in three ways:
+
+¦ by a single inlet;
+¦ by a distribution tree; or
+¦ by a perforated vest.
+
+In addition, a vortex tube can be used to reduce the temperature of circulating air. The cooled air from this tube can be introduced either under the clothing or into a bubble hood. The use of a vortex tube separates the air stream into a hot and cold stream; these tubes also can be used to supply heat in cold climates. Circulating air, however, is noisy and requires a constant source of compressed air supplied through an attached air hose.
+
+One problem with this system is the limited mobility of workers whose suits are attached to an air hose. Another is that of getting air to the work area itself. These systems should therefore b used in work areas where workers are not required to move around much or to climb. Another concern with these systems is that they can lead to dehydration. The cool, dry air feels
+com ortable and the worker may not realize that it is important to drink liquids frequently.
+
+Respirator Usage: The weight of a self-contained breathing apparatus (SCBA) increases stress on a worker, and this stress contributes to overall heat stress. Chemical protective clothing such as totally encapsulating chemical protection suits will also add to the heat stress problem.
+
+Work-Rest Regimen
+
+Humidex
+
+To help simplify matters, the Occupational Health Clinics for Ontario Workers (OHCOW) devised in 2003 their Humidex Heat Stress Response Plan based on ACGIH TLVs. First piloted at the CAW-organized General Motors plant in Oshawa, Ontario, and since adopted by many workplaces, the plan among other things consists of a table listing Humidex measurements with corresponding recommended responses. It assumes the work to be moderate, with little or
+no radiant heat although instructions for adjusting the Humidex value for radiant heat indoors and outdoors are
+provided) and that the worke s are wearing regular summer clothing, in good physical health and unacclimatized.
+
+To arrive at the Humidex, a combination of temperature and relative humidity measurements, OHCOW recommends using a thermal hygrometer (type of thermometer) which costs $20 to $60 in a hardware store.
+
+See Appendix C for the Hum dex Method.
+
+How to use the WBGT Chart
+
+
+How to use the WBGT Chart and Guidelines and how to determine the WBGT, Allowable Stay times or Work times and Recovery time (Rest)*.
+
+*- assume typical work activity and allows for recovery periods.
+
+1. Identify the work and recovery locations and the work activity to be performed.
+2. Determine the WBGT for the area.
+* Determine the WBGT - measure the air temperature (dry bulb), radiant heat (globe temperature), humidity (wet bulb). If your measurement device does not calculate the WBGT, use the formula:
+
+WBGT Index is measured using the natural wet bulb temperature (NWB), the globe temperature (GT) and the dry bulb air temperature (DB). WBGT values are calculated by the following equations:
+
+a) Indoor exposure or outdoor exposure with no solar load:	WBGT = 0.7NWB + 0.3GT
+
+b) Outdoor exposure with solar load:	WBGT = 0.7NWB + 0.2GT + 0.1DB
+
+The table 2 below represents Permissible Heat Exposure Threshold Limit Values (TLVs) developed by ACGIH and refer to heat stress conditions under which it is believed that nearly all workers may be repeatedly exposed without adverse health effects. This should table should be used as a guide only, but judgment is required in applying it; primary control measures will be based on a complete hazard assessment of each identified "hot job" or "grouping of hot jobs" and these (measures) will be incorporated into standard operating procedures by the department supervisor.
+
+
+
+
+
+
+
+Table 2- Screening Criteria for TLV and Action Limit for Heat Stress Exposure
+TLV (WGBT value in °F )	Action Limit ( WBGT values in °F)
+
+Allocation of Work in a Cycle of Work and
+Recovery
+
+Light
+
+Moderate
+
+Heavy
+
+Very Heavy
+
+Light
+Moderate Heavy
+
+Very Heavy75% to 100%87.482.882.67750% to 75%88.284.381.783.678.8	75.625% to 50%89.286.183.982.384.881	78.376.30% to 25%90.288.486.985.786.183.8	8280.6
+WBGT values are expressed to the nearest 0.9°F
+
+The Thresholds are computed as a TWA-Metabolic Rate where the metabolic rate for rest is taken as 115W and work is the representative (mid- range) value of Tab e 3. The time base is taken as the proportion of work at the upper limit of the percent work range (e.g. 50% for the range of 25% to 50%).
+
+If work and rest environments are different, hourly TWA WBGT should be calculated and used. TWAs for work rates should also be used when the work demands vary with the hour, but note that the metabolic rate for rest is already factored into the screening limit.
+
+
+Values in the table re applied by reference to the "Work-Rest Regimen: section of the Documentation and assume 8-hour workdays in a 5-day
+workweek with conventional breaks as discussed in the Documentation. When workday are extended, consult the "Application of the TLV" section of the Documentation.
+
+Because of the physiological strain associated with Heavy and Very Heavy work among less fit workers, regardless of WBGT, criteria values are not provided for continuous work and for up to 25% rest in an ho r for Very Heavy work. The screening criteria are not recommended, and a detailed analysis and/or physiological monitoring should be used.
+
+
+Other heat stre s indices are available to measure heat stress, incl ding the wet globe temperature (WGT), or
+
+Botsball, and ISO 7933 Hot Environments - Analytical Determination and Interpretation of
+
+hermal Stre
+
+s Using
+
+Calculation of Required Sweat Rate. Under certain
+
+ircumstances, the Botsball may be us
+
+d instead of the WBGT.
+
+Also a new concept is the Humidex Heat Stress Plan found in Appendix C. This can be us d if you only have the
+relative humidity and tem erature.
+
+3. Determine the type of clothing worn during the work activity. See Table 1.
+
+4. Select the metabolic rate category that best describes the work demand or work to be performed. Use the following chart:
+
+
+Table 4 Metabolic Rate Categories and the Representative Metabolic Rate with Example Activities
+CategoryMetabolic Rate [W] *ExamplesRest115SittingLight180Sitting with light manual work with hand or hands and arms, and driving. Standing with some light arm work and occasional walking.Moderate300Sustained moderate hand and arm work, moderat arm and leg work, light pushing and
+pulling. Normal walking.Heavy415Intense arm and trunk work, carrying, shovelin , manual sawing; pushing and
+pulling heavy loads; and walking at a fast pace.Very Heavy520Very Intense activity at fast to maximum pace.* The effect of body weight on the estimated metabolic rate can be accounted for by multiplying the estimated rate by the ratio of actual body weight divided by 70 (154 lb)
+
+
+5. If a worker is  ssigned different tasks within the hour, it is necessary to determine a time-weighted average (TWA) for
+the work demands. An acceptable way of doing this is to assign a metabolic rate to each ta k performed during the
+averaging period (1 hour), using the values in Table 2, and multiply it by the duration of each task. The p oduct of work
+
+demand and
+
+uration for each task is then added up, and the sum is divided b
+
+the total duration of all tasks
+
+performed during the averaging period. The averaging period should be one h to calculate the time-weighted average WBGT.
+
+ur, the same period of time that is used
+
+
+
+Calculations to
+
+se if work d
+
+mands vary for the worker. The time-
+
+eighted average work demand is given by the
+
+following formula:
+
+
+
+
+With work demand (TWA) in watts, Table 4 can be used to select the appropriate column (i.e., work demand level: light,
+moderate, heavy, or very he vy) to use in Table 2. The work demands (TWA) and the WBGT (calculated earlier) are
+then compared to the heat stress exposure values listed in Table 2.
+
+Pr portion of	ork and recovery
+Table 2 gives four work/reco ery patterns, and the most appropriate one should be used for comparison with the WBGT
+
+calculated earlier. The recov include "resting" or light task
+
+ry period pe centage does not necessarily mean a complete break from work, but could such as those listed in Table 4.
+
+
+
+Note that the table does not
+
+rovide expo ure values f
+
+r "heavy" and "very heav
+
+" work demands in a continuous (75 -
+
+100% work) pattern and "very heavy" work demands for a 50 - 75% work pattern. This is because of the high
+ph siological strain associated with "very heavy" work among less fit workers, regardless of	BGT. In such cases, the
+screening criteria values are not recommended, and a detailed analysis and/or physiological	onitoring should be used
+
+
+Calculations to
+If a worker is e
+
+se if environments vary:
+ployed in two or more different work or recovery ar
+
+
+as during the hour, a time-weighted average WBGT
+
+sh uld be calculated in order to apply the heat stress exposure screening criteria. The time-weighted aver ge is
+determined by	easuring the WBGT for each task performed and multiplying them by the duration of each task. The
+
+product of WBGT and durati performed during the hour.
+
+n for each task is then added up, and the sum is di
+
+ided by the total duration of all tasks
+
+
+The time-weighted average WBGT is given by the following formula:
+
+
+
+
+
+
+
+
+
+
+
+
+Determining c
+
+mpliance with the expo
+
+ure levels
+
+Once the time- eighted averages for both workload and WBGT are calculated using the formula above, they are then
+compared to the levels listed in Table 2. The ACGIH T V(r) represents conditions that acclimatized workers who are
+
+healthy, unmedicated, and a
+
+equately hy
+
+rated may be repeatedly exposed to without adverse health effects. The
+
+Action Limit applies similarly for the protection of unacclimatized workers. It also represents c heat stress control plan.
+
+nditions that require a
+
+
+For instance using table 2, if the calculated time-weighted average for work demands is 415 watts, the work demands
+are considered heavy." If th worker is acclimatized, conducting 50 - 75% work and if the WBGT time-weighted average
+
+is 0 WBGT°F, then the TLV(r) level of 81.
+
+WBGT°F will not have been exceeded. The Action Limit of 75.6°F will have
+
+been exceeded and an exposure control plan needs to be developed. If the worker is unaccli
+
+atized, the
+
+ork pattern
+
+will need to be readjusted (e.g. by reducing the allocation of work in the work/recovery cycle,  y increasing the recovery
+period, or changing to less strenuous tasks until the worker is accli  atized).
+
+
+Table 5 combines all the above tables into one chart.
+
+
+Table 5
+
+Ranges of Stay Times in Minutes (or "h" Hours ) for Different WBGTs
+
+IN ?F BY COMBINATIONS OF CLOTHING ENSEMBLE AND METABOLIC RATE
+WBGT
+? F
+Work Clothes
+Cotton Coveralls
+Double Cottons
+Cotton Plus Plastics
+Metabolic Rate
+
+Metabolic Rate
+
+Metabolic Rate
+
+Metabolic Rate
+
+LightModHeavyLightModHeavyLightModHeavyLightModHeavy10460-9015-4510-2045-9015-405-1030-6010-25No Work20-455-20No Work10090-12020-4515-3060-9015-4510-2545-9015-305-1030-6010-25972h-4h30-6015-4090-12025-4515-3060-9015-4510-2045-9015-305-10933h-8h45-9020-452h-4h30-6015-4590-12020-4515-3060-9015-4510-2090NL90-12030-603h-8h60-10025-502h-4h30-6015-4090-12020-4515-3086NL2h-4h60-120NL1h-2h30-903h-8h45-9020-452h-4h30-6015-4082NLNL2h-4hNL1h-4h1h-3hNL90-12030-603h-8h45-9020-45METABOLIC RATELIGHTMODERATEHEAVYSit/MonitorSort MaterialsUse Respiratory Protection (Air Purifying)InspectionDescend Stairs or LaddersManual Valve Alignment (Easy)Slow WalkWalkingMaterials HandlingCalibrationInstall InsulationMop/SweepEquipment Operation (e.g. cranes, relays)Manual Valve Alignment (easy)Manual HoistingClimb Stairs or LaddersNL = No LimitExtension of Stay Time by using ice vest:Light Metabolic Rate = 30 min. Moderate Metabolic Rate = 25 min. Heavy Metabolic Rate = 20 min.
+NOTE: These stay time are the maximum recommended time to stay in a hot environment. It is the
+responsibility of the employee to leave the work area if they or their co-workers start to develop heat related disorders.
+
+NOTE: If in doubt, GET OUT.
+
+
+References
+
+* American Conference of Governmental Industrial Hygienists - TLV Pocket Guide
+* Heat-stress Management Program for Nuclear Power Plants, Electric Power Research Institute (EPRI),1986
+* Heat-Stress Management Program for Power Plants (Revision 1), Electric Power Research Institute (EPRI), 1991
+* The Occupational Environment - Its Evaluation and Control, American Industrial Hygiene Association (AIHA), 1997
+* Working In Hot Environments, National Institute for Occupational Safety and Health (NIOSH), April 1986 (Reprinted 1992, with Minor Changes)
+* Ergonomic Design for People at Work, Volume II, copyright 2004 by Eastman Kodak Company- 2nd ed.
+
+NOTE: Hea stress is covered under OSHA's "General Duty Clause"
+
+
+
+Annual Procedure Review
+Review this program every three years to determine the program effectiveness.
+
+
+Appendix A
+Temperatures and Contact with Hot Surfaces*
+
+
+Minimum Surface Temperature to Cause Pain or Burn with an Incidental Contact to Skin for Different Materials (adapted from Faulkner 1974; based on data in the literature, especially Wu 1972)
+
+MaterialPain Threshold °FFirst Degree Burn Threshold	°FWood (average)169275Brick138202Heat Resistant Glass129180Water127176Concrete122164Steel113143Aluminum112141Polystyrene GP171281Phenolics (average)141210ABS Resins166268
+Note: Data are based on a 1-second contact by the finger.
+The temperature of several materials( column 1) are shown at which pain ( column 2) or a first degree burn ( column 3) will result fro a 1-second finger contact. These values are maximum temperatures, so designs should not exceed them. Lower temperatures are desirable, since they accommodate longer contact times, contact with other skin (such as on the forearm), or the presence of breaks in the skin from cuts or abrasions.
+
+
+The following effects on the skin from contact with hot surfaces:
+
+
+100F
+109F
+118F
+
+Highest sustainable skin temperature
+Pain is usually reported and tissue damage will follow. Burns occur with brief sustained contact.
+
+
+ Rule of thumb for breathing hot air, there is little risk of causing injury to the respiratory passages if the wet bulb temperature of the air is less than 113 °F. Above the wet bulb temperature of 122 °F, the probability of individuals discomfort will increase (Bernard 2002).
+
+
+*- Reference information taken from Copyright 2004 by Eastman Kodak Company; Ergonomics Design for People at Work, Volume
+
+
+
+
+
+art
+
+Chapter 35
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+APPENDIX
+
+
+
+II, copyright 1986 by Eastman Kodak, al rights reserved. (pa es 611-612)
+
+
+
+Humidex Method
+The Humidex Based Heat R
+
+
+sponse Plan is a simplified method of protecting workers from h
+
+
+at stress, (developed by
+
+the Occupation
+
+l Health Clinics for Ontario Workers (OHCOW)). The method is
+
+ased on the American Conference of
+
+Governmental I
+
+dustrial Hygienists ( AC
+
+IH) heat stress/strain TL
+
+s(r) (Threshold Limit Values) and is a translation of
+
+wet bulb globe temperatures (WBGT) into Humidex values. Other factors - air m vement, workload, radiant heat
+so rces, and acclimatization - also need to be considered when assessing heat tress.
+
+
+Humidex values are obtained by measuring temperature (dry bulb)
+
+nd relative humidity and factoring the
+
+into the
+
+Humidex table below (Table 1). For example the Humi ex value for a temperature of 98.6°F (read across f om the left
+
+side of the Table) and a relat ve humidity
+
+f 50 percent (read down from the top
+
+f the Table) is 120.2°F. Temperature
+
+and relative hu  idity can be measured by a digital hyg ometer (available at most hardware stores) or a sli g
+ps chrometer (a wet/dry bulb thermometer for determi ing relative humidity). It is important that a reading be taken at
+
+the actual work
+
+lace as Humidex values can vary substantially from location to l
+
+cation.
+
+
+Table 1: Humidex Table
+
+Relative Humidity ( in %)Temp101520253035404550556065707580859095100120.2122118.4120116.6117122114.8115120.2113113116.6122111.2109114.8120.2109.4108113116.6120.4107.6106109.4114.8118.4122105.8104107.6111.2114.8118.4104102105.8109.4113116.6120.2102.298.6102.2105.8109.4113116.6120100.496.8100.4104107.6109.4113117120.298.69598.6102.2104107.6111.2113116.6120.296.893.296.898.6102.2104107.6111113116.6120.21229591.493.296.898.6102.2104108111.2113116.611812293.287.891.493.496.898.6102.2104107.6109.4113115118.412091.48689.691.493.296.898.6102104105.8109.4111114.811711812289.684.28689.691.493.496.898.6102.2104105.8108111.2113115118120.212287.882.484.28689.691.493.29598.6100.4102.2104107.6109111113116.61181201228680.682.484.28687.891.493.49596.898.6102104106108109111.211511711884.278.880.682.484.28687.889.693.49596.898.6100.4102104106107.610911311582.47778.880.682.484.28687.889.691.493.29596.898.610010210410610810980.67778.880.682.484.287.887.889.691.493.29596.898.6100.410210410678.67778.880.682.484.28687.889.691.491.493.29596.898.6100102777778.878.882.482.484.28687.889.691.491.493.2959798.675.27778.880.682.482.484.28687.889.691.491.4939573.4777778.880.682.482.484.28687.887.89091.471.6777778.880.680.682.484.2868687.869.87778.878.880.682.48484.2
+
+Appare nt temper
+ature
+
+Heat Stress Risk with Physical Activity and/ or Prolonged Exposure90- 05
+F
+Heat cramps or heat exhaustion possible105-
+130 FHeat Cramps or heat exhaustion likely Heat Stroke
+likely130
+and Up
+Heat Stroke highly likely
+
+
+The following must also be considered (a
+
+ded) when calculating a
+
+umidex value:
+
+
+
+The Humidex method assumes that work
+
+rs are weari
+
+g regular summer clothing (light shirt, pants, underwear, socks
+
+and shoes). If workers wear
+
+overalls (e.g., cotton cov
+
+ralls) over s
+
+mmer clothes, then 7°F should be added to the
+
+workplace Humidex value. G oves and/or hard hat would each add  °F and an apron (or vest) would add 4°F to the
+Humidex value. For workers who wear encapsulating suits, do not use the Humi ex method.
+
+
+o To adjust for radiant heat in direct sunlight (betwee (pro-rate according to percentage cloud cover).
+
+10 am and 4 pm), add 4 - 6°F to the
+
+umidex value
+
+o For indoor radiant heat exposures, use training, knowledge, and experience to adjust the 4 - 6 °F sunlight correction factor by estimating whether the exposure is more or less than the heat exposure to
+
+direct sunlig lines, etc.) s
+
+t. Workplaces with signifi ant process-related heat load (e.g. from boilers, furnaces, steam ould measure the WBGT.
+
+o Humidex values should be measured be based on the highest reading).
+
+t several locations in the work area (s
+
+fe work procedures should
+
+o Do not base Humidex values on weather station or media reports. Use meas worksite.
+
+rements taken at the
+
+o Measureme
+
+t should be recorded hou ly if the Humidex is abov
+
+86°F.
+
+o Never ignore anyone's symptoms regardless of the measureme ts.
+
+
+In order to determine the procedures to b
+
+followed to protect workers from heat stress, the c
+
+lculated Hu
+
+idex value
+
+must then be compared to the Humidex guidelines in t
+
+e Humidex
+
+eat Respon
+
+e Plan table (Table 2). The response
+
+(H midex 1 or
+
+umidex 2) d
+
+pends on th
+
+amount of physical work being done
+
+nd the level of acclimatiz
+
+tion of the
+
+workers.
+
+Humidex 1 - corresponds to the ACGIH Action Limit and applies to moderate work loads (e.g., pushing and lifting) for
+unacclimatized workers, or heavy work lo ds (e.g., shoveling sand) for workers acclimatized to heat
+
+
+Humidex 2 - corresponds to the ACGIH T unacclimatized workers.
+
+V(r) and applies to moderate work for acclimatized workers or lig
+
+t work for
+
+
+
+Note: An unacclimatized worker is a work
+
+r who is not accustomed to working in a hot enviro
+
+ment or who has been out
+
+of a hot environment for seven consecutive days. It may take sever
+
+l days for workers to bec
+
+me acclimatized.
+
+
+
+
+
+
+
+
+Table 2: Humidex Based H at Response Plan
+
+Humidex 1 Moderate
+unacclimatized & Heavy
+acclimatized
+
+
+Response
+      Humidex 2 Moderate acclimatized &
+Light unacclimatized77-84.2Supply water to workers on an "as needed" basis89.6-95
+
+86-91.4Post heat Stress Alert notice: Encourage workers to drink extra water; ensure workers are trained to recognize
+symptoms
+
+96.8-102.2
+
+93.2-98.6Post heat Stress Alert notice: Encourage workers to drink extra water; ensure workers are trained to recognize symptoms
+
+104-107.6
+
+
+100.4-102.2Work with 15 minutes relief per hour can continue' provide adequate cool water ( 50-59 °F) at least 1 cup of water every 20 minutes workers with symptoms should seek medical attention.
+
+
+109.4-111.2
+104-105.8Work with 30 minutes relief per hour can continue in addition to the provisions listed above.
+113-114.8
+107.6-111.2If Feasible, work with 5 minutes relief per hour can continue in addition to the provision listed above.
+116.6-120.2113 or overOnly Medically Supervised work can continue122 and over
+
+
+At Humidex exposures abov
+
+113°F, heat stress should be managed as per the ACGIH TLV(r). The above
+
+dministrative
+
+co trol measures do not preclude using other means t
+
+reduce exc
+
+ssive heat exposures, such as providi
+
+g additional
+
+air conditioners or fans for spot cooling. In fact, engine
+
+ring controls are the most effective means to contr
+
+l heat stress
+
+and should be considered fir t and in conjunction with the above steps as part of the heat stress plan.
+
+
+
+
+
+Section 2 Cold
+Purpose
+
+
+
+tress
+
+Thermal Stress Work Practices
+
+The purpose of this program is to assure that adequate safeguards and precautions are implemented to prevent
+personnel from having any i lness, medical injuries or symptoms of cold stress where extremely cold temperatures or work environments are a known or potential concern.
+This program will also provide guidelines for evaluating cold stress environments and recommending stay times.
+
+Scope
+This program applies to anyone at Duke Energy sites who works in extreme temperatures. This section is Cold Stress.
+
+Cold injuries are classified as either localized such as frostbite or generalized as in hypothermia (a lowering of the body's core temperature).
+
+Definitions
+Chilblain - also called perniosis or blain, when occurring on the feet, is a medical condition that is often confused with frostbite and trench foot. Chilblains are ulcers, affecting the extremities that occur when a predisposed individual is exposed to cold and humidity. The cold exposure damages capillary beds in the skin, which in turn can cause redness, itching, blisters, and inflammation.
+
+Frostbite- is the medical condition wherein localized damage is caused to skin and other tissues due to extreme cold.
+
+Hypothermia - is a condition in which a body's temperature drops below that required for normal metabolism and bodily functions.
+
+Trench Foot - is a medical condition caused by prolonged exposure of the feet to damp, unsanitary and cold conditions.
+
+Responsibilities Management
+1. Ensure all provisions of the program are implemented.
+2. Ensure that all workers are aware of the possibilities of cold related injuries and prevention.
+Health and Safety Professionals
+1. Assist supervisors with monitoring ambient temperatures and conducting cold stress monitoring when the threshold temperature is reached. Refer to Hazard Control for threshold temperature information.
+2. Assist supervisors with the implementation of changes recommended to reduce employee's potential for developing cold-related disorders.
+3. Assist supervisors on the detection of early signs of cold stress and recommend training for employees on cold stress recognition, prevention, and control measures prior to working in a cold environment.
+4. Recommend changes to the work environment, as needed, to reduce employees' potential for developing cold-related disorders.
+5. Provides emergency room interface after hospital evaluation, if necessary.
+Supervisors
+
+
+1. 	Identify employees who will be potentially exposed to temperature extremes, especially where wind speed or humidity may increase the cold stress.
+2. Receive initial or seasonal refresher training on the detection of early signs of cold stress and first aid for initial response to cold stress disorders.
+3. Educate employees on the symptoms of cold stress. Conduct safety briefings regarding health hazards an control measures associated with cold stress whenever conditions require the implementation of cold stress monitoring. Permit employees to interrupt their work if they demonstrate physical signs of cold stress.
+4. In a cold-related emergency:
+a. Notify local emergency medical services (EMS) for transport to a local emergency room.
+b. Provide cold stress first aid until EMS arrives.
+5. Monitor ambient air conditions to determine applicable work/warm-up regimens.
+6. Encourage employees to notify them if the employee has an underlying medical condition or is taking medication that increases cold intolerance. Management will work with the employees to explore accommodations.
+7. Permit employees to interrupt their work if they demonstrate signs of cold-related distress or extreme discomfort.
+8. Ensure employees have access to drinking water.
+Employees
+1. Notify supervision if being exposed to temper ture extremes through regular work practices, or when a change
+in work practices increases exposure to temperature extremes.
+2. Consult with physician or physician assistant if medications are taken or an underlying medical condition develops that is adversely affected by cold.
+3. Receive training on cold stress recognition, prevention, and control measures prior to working in a cold environment.
+4. Follow safe work practices to reduce cold stress as specified in this program.
+5. Wear personal protective equipment as specified in this program to help prevent cold stress disorders from developing.
+
+Training
+
+Employees and supervisors eed to be trained to be able to detect early signs of cold stress. Training will be available
+through a read package or CBT.
+
+Hazard Control Methods
+The risk of dev loping cold related injuries will be reduced by using one or more of a selection of engineering controls,
+work practices, employee tra ning, and exposure (cold stress) monitoring.
+1. Exposure Monitoring. This program applies at temperatures below 40°F. Initial monitoring should be conducted to determine the first warm-up break, measuring air temperatures and estimating wind velocity (for outdoor operations), as follows:
+
+
+a. When temperatures approach -19 °F use the work/warm-up schedule for properly clothed employees using the Threshold Limit Values (TLVs) outlined in Appendix D, "TLVs Work/Warm-Up Schedule for a 4-Hour Shift."
+b. For exposed skin, continuous exposure must not be permitted when the air speed and temperature result in an equivalent chill temperature of -25°F. Refer to the Wind Chill Chart in Appendix E on making an exposure determination.
+c	At air temperatures of 40°F or less, employees who become immersed in water, or whose clothing has become wet, should immediately change their clothing and be treated for any symptoms of hypothermia
+2. Engineering Controls will be implemented to reduce risk, when feasible, and will include such measures as;
+a. Use an on-site source of heat (e.g., air jets, radiant heaters).
+b. Shield work areas from drafty or windy conditions.
+c. Provide a heated shelter for employees who experience prolonged exposure to equivalent wind-chill
+temperature of 20°F or less.
+d. Use thermal insulating material on equipment handles when temperatures drop below 30°F.
+3. Safe work practices, such as changes in work scheduling and practices, will be implemented to combat the effects of cold temperature extremes. This can include:
+a. Allowing employees a period of adjustment to the cold before scheduling a full work shift in a cold work area.
+b. Permitting employees to interrupt their work if they demonstrate signs of cold-related disorders or extreme discomfort.
+c. Establishing work periods and rest periods in a warm area. If work is performed continuously in the cold at or below an equivalent chill temperature of 20°F, heated warming shelters should be made available nearby. Employees need to be encouraged to use these shelters at regular intervals. When entering a warming shelter, employees should remove their outer layer of clothing, and loosen the remainder of clothing to permit sweat evaporation.
+d. Reducing the number of activities performed in cold environments as much as possible. When employees must work outside in cold temperatures, supervisors shall select the warmest hours of the day. Arrange work tasks to minimize sitting or standing still for long periods of time.
+e. Protecting employees from drafts to the greatest extent possible.
+f. Establishing a "buddy system" while working in cold climates/temperatures, so employees can monitor each other for signs of cold stress if possible.
+g. Encouraging employees to remain hydrated; provide drinking water/electrolyte-replenishing fluids.
+h. Adaptation of work schedules should help prevent cold-related disorders from occurring. If possible, schedule heavy work during the warmer parts of the day.
+4. Personal Protective Equipment (PPE). If work is performed in an environment at or below 40°F, employees are to wear appropriate clothing and adequate layers of insulation to prevent cold stress. Do not wear tight clothing. Loose clothing allows for better ventilation. Dependant on the temperature extreme these may include, but are not limited to:
+a. An outer wind-breaker layer that allows some ventilation (e.g., Gore-Tex, nylon, Fire Retardant outer gear where appropriate);
+
+
+b. A middle layer of wool, down or synthetic fabric that absorbs sweat and retains insulation in a damp environment; and
+c. An inner layer of cotton or synthetic weave fabric that allows ventilation.
+d. Insulated protection for feet, hands, face, and head (hat and gloves, as a minimum), to protect against cold and dampness. Up to 40 percent of body heat may be lost when the head is exposed.
+e. A change of clothing is to be kept available and changed into immediately if work clothes become wet (to prevent hypothermia).
+5. Emergency First-Aid Procedures. When in areas where Emergency Services personnel are readily available to transport victims of cold related disorders to a hospital facility, minimum manipulation and first aid interventions are necessary. Hospital facilities have current protocols, procedures and equipment for effective, gentle warming of cold induced injuries. In most cases removing wet clothing and covering affected area with blankets or towels should suffice until EMS arrives. Applying too much heat or warming too quickly can result in further injury.
+
+Hazard Identification
+When the body s unable to warm itself, cold stress disorders may result, including tissue damage and possibly death. Four environmental factors affect the amount of cold stress employees may face in a cold work area. The following factors are to be considered in the evaluation:
+* Wind velocity;
+* High hu idity at low temperatures causes condensation, lowering body temperatures
+* Dampness; and
+* Contact with cold water or cold surfaces. Also see the Safe Work Practice for Water Safety.
+1. Major Risk Factors for Cold Stress
+Personal risk factors that may affect the amount of stress employees may face in a cold work area include:
+* Wearing inadequate or wet clot ing increases the effects of cold on the body.
+* Taking certain drugs or medications such as nicotine, caffeine, and medication that inhibits the body's response to the cold or impairs udgment.
+* Having an upper respiratory infection, or certain chronic diseases, such as diabetes, heart, vascular, and
+thyroid problems, may make an individual m re susceptible to cold environments.
+* Being a male; men experience  reater death rates due to cold exposure than women (possibly due to inherent
+risk-taking activities, body-fat composition, or other physiological differences).
+
+* Becoming exhausted or immobilized, especi temperatures.
+
+lly due to injury or entrapment, may speed up the effects of cold
+
+* Older/elderly persons are more susceptible to the effects of cold stress.
+
+2. Recognition of Cold  elated Disorders. Cold body parts are difficult to warm gently to prevent further harm.
+Symptoms must be readily identifiable and prompt first aid to gently increase the temperature and promote warmed blood flow to prevent the death of tissue or the need for amputation. The following information must be clear and readily accessible to those needing immediate first aid directions to prevent severe frostbite. The cold stress disorders and treatment outlined below are listed from the least to the most serious disorder; death is possible if the person is not removed from the cold stress situation.
+
+
+a. Trench Foot - caused by long, continuous exposure to a wet, cold environment, or actual immersion
+in water. Symptoms include a tingling and/or itching sensation, burning, pain, and swelling;
+sometimes blisters form in more extreme cases. Treatment: Soak feet in warm water, wrap with dry cloth bandages and drink a warm, sugary drink.
+b. Chilblain-Red swollen skin which is tender, hot to the touch and may itch. Condition may worsen to
+aching/prickly sensation to actual numbness. Treatment is the same as frostbite.
+c. Frostbite - occurs when skin tissue actually freezes, causing ice crystals to form between cells and
+draw water from them, which leads to cellular dehydration. Although frostbite typically occurs at
+temperatures below 30°F, wind chill effects may cause frostbite at above-freezing temperatures (see Appendix E).
+(1) Initial effects of frostbite include uncomfortable sensations of coldness; tingling, stinging, or aching of the exposed area followed by numbness. Ears, fingers, toes, cheeks, and noses are
+primarily affected. Frostbitten areas appear white and cold to the touch. The appearance of
+frostbite varies depending on whether re-warming has occurred. Treatment: do not rub the area, wrap with soft cloth. Do not use direct heat to warm the affected area. Do not attempt to burst blisters that form during thawing.
+(2) Deeper frostbite involves freezing of deeper tissues (e.g., muscles, tendons, etc.), causing exposed areas to become numb, painless, and hard to the touch.
+d. General Hypothermia - occurs when your body temperature falls to a level where normal muscle
+and brain functions may be impair d. While hypothermia is generally associated with freezing
+temperatures, it may occur in any climate where a person's body temperature falls below normal.
+
+(1) The first symptoms of mild hypothermia, such as shivering, an inability to perform complex motor functions, lethargy, and mild confusion, occur as the core body temperature decreases to approximately 95°F. Treatment: move to warm area, stay active, remove wet clothes and replace with dry clothes or blankets, cover the head, and drink warm (not hot) sugary drink.
+
+(2) As body temperature continues to fall, hypothermia becomes more severe. The individual falls into a state of dazed consciousness, failing to complete even simple motor functions. The victim's speech becomes slurred and their behavior may become irrational. Treatment: same a above, call 911, and cover all extremities completely. Place warm objects, such as hot packs or water bottles on the victim's head, neck, chest and groin.
+(3) The most severe state of hypothermia occurs when body temperature falls below 90°F. The body moves into a state of hibernation, slowing the heart rate, blood flow, and breathing. Unconsciousness and heart failure may occur in a severely hypothermic state. Treatment Call 911, treat victim very gently. Do not attempt to re-warm, the victim should receive treatment in the hospital.
+
+References
+
+1. American Conference of Governmental Industrial Hygienists (ACGIH), "Threshold Limit Values for Chemical Substances and Physical Agents, and Biological Exposure Indices," "Physical Agents - Thermal Stress." 2006.
+2. "Protecting Workers in Cold Environments," OSHA Fact Sheet No. 98-55. 12/22/1998.
+3. OSHA, "Emergency Preparedness and Response: Safety and Health Guidelines - Cold Stress." February 23, 2005.
+
+
+4. 	"OSHA Offers Tips to Protect Workers in Cold Environments," OSHA Trade News Release. January 8, 2002.
+5. "Warehousing - Freezer/Cooler Hazardous Situation and Possible Solutions," OSHA Poultry Processing Industry eTool. 2007
+NOTE: Heat stress and Cold stress are covered under OSHA's "General Duty Clause"
+
+Annual Procedure Review
+Review this program every three years to determine the program effectiveness.
+
+
+
+TLVs Work/Warm-Up Schedule for a 4-Hour Shift
+
+Source: Adapted from Threshold Limit Values (TLV) and Biological Exposure Indices (BEI) booklet: published by ACGIH Cincinnati, OH, 2007
+Notes from Table:
+1. Schedule applies to any 4-hour period with moderate to heavy work activity, with warm-up periods of ten (10) minutes in a warm location and with an extended break (e.g., lunch) at the end of the 4-hour work period in a warm location. For Light-to Moderate Work (limited physical movement): apply the schedule one step lower. For example, at -35C ( -31 °F ) with no noticeable wind ( Step 4 ) a worker at a job with little physical movement should have a maximum work period of 40 minutes with 4 breaks in a 4-hour period (Step 5).
+
+
+2. The following is suggested as a guide for estimating wind velocity if accurate information is not available: 5 mph: light flag moves; 10 mph: light flag fully extended; 15 mph: raises newspaper sheet; 20 mph: blowing and drifting snow.
+3. If only the wind chill cooling rate is available, a rough rule of thumb for applying it rather than the temperature and wind velocity factors given above would be: 1) special warm-up breaks, should be initiated at a wind chill cooling rate if about 1750 W/m2; 2) all non-emergency work should have ceased at or before a wind chill of 2250 W/m. In general, the warmup schedule provided above slightly under-compensates for the wind at the warmer temperatures, assuming acclimatization and clothing for winter work. On the other hand, the chart slightly over-compensates for the actual temperatures in the colder ranges because windy conditions rarely prevail at extr mely low temperatures.
+4. TLV's apply only for workers in dry clothing.
+
+
+Appendix E Wind Chill Chart
+Cooling Power of Wind and Exposed Flesh Expressed as Equivalent Temperature (under calm conditions)
+
+
+
+
+Estimated wind Speed ( in (MPH)	Equivalent Chill Temperatures ( °F)
+Calm50403020100-10-20-30-40-50-605483727166-5-15-26-36-47-57-68104028164-9-24-33-46-58-70-83-951536229-5-18-32-45-58-72-85-99-1122032184-10-25-39-53-67-82-96-110-1212530160-15-29-44-59-74-88-104-118-133302813-2-18-33-48-63-79-94-109-125-140352711-4-20-35-51-67-82-98-113-129-145402610-6-21-37-53-69-85-100-116-132-148
+
+
+
+
+
+(Wind speeds greater than 40
+
+
+LITTLE DANGER In< hr
+with dry skin. Maximum danger of false sense of security.
+
+
+INCREASING DANGER
+Danger from freezing of exposed flesh within one minute.
+
+
+
+
+GREAT DANGER Flesh may freeze within 30 seconds
+
+mph have little additional effect.)	Trench foot may occur at any point on this chart.
+
+
+
+
+Appendix F - Company Profile Duke Energy and Edison Mission Group
+
+
+Duke Energy Corporate Facts
+Headquartered in Charlotte, N.C., Duke Energy Corporation is one of the largest electric power holding companies in the United States. A Fortune 500 company, Duke Energy is listed on the New York Stock Exchange under the symbol DUK. More information about Duke Energy can be found at: www.duke- energy.com.
+2009 Operating Revenues:
+$12.7 billion (for year ended Dec. 31, 2009)
+Total Assets:
+$57 billion (as of Dec. 31, 2009)
+Employees:
+Approximately 18,680 (as of Dec. 31, 2009)
+Total U.S. Generating Capacity:
+Approximately 35,000 megawatts (owned capacity)
+OPERATING SEGMENTS
+U.S. Franchised Electric and Gas:
+With approximately 27,000 megawatts (MW) of owned regulated generation capacity, U. S. Franchised Electric and Gas is the largest business segment and primary source of earnings growth.
+States Served - North Carolina, South Carolina, Ohio, Kentucky, Indiana
+Size of Service Territory - Approximately 50,000 square miles
+Total transmission lines - Approximately 20,900 miles Total distribution lines - Approximately 151,600 miles Total gas mains - Approximately 7,200 miles
+Total gas service lines - Approximately 6,000 miles
+Utility Customers:*
+Total Electric - Approximately 4 million
+Duke Energy Carolinas - Approximately 2.4 million
+Duke Energy Ohio - Approximately 685,000 (Transmission and Distribution)
+Duke Energy Indiana - Approximately 780,000
+Duke Energy Kentucky - Approximately 135,000
+Total Gas - Approximately 500,000
+Duke Energy Ohio - Approximately 400,000
+Duke Energy Kentucky - Approximately 100,000
+* Actual as of Dec. 31, 2009.
+
+
+
+202.383.2500 main | 202.383.2505 fax | 1501 M Street NW, Suite 1000 | Washington, D.C. 20005 | www.awea.org
+
+Commercial Power:
+Commercial Power's assets, excluding wind energy generation assets, are comprised of approximately 7,550 net MW of power generation primarily located in the Midwestern United States.
+Duke Energy Generation Services:
+Duke Energy Generation Services, part of Duke Energy's Commercial Businesses, is a leader in developing innovative renewable energy solutions, including wind, solar and biopower projects. DEGS concluded 2009 with 735 MW of wind power in commercial operation, and has committed more than $1 billion to its wind power business since its launch in 2007. DEGS also builds, owns and operates electric generation for large energy consumers, municipalities, utilities and industrial facilities. DEGS manages 6,300 MW of power generation at 21 facilities in the U.S. DEGS is also working to build commercial transmission capacity to help the U.S. meet its energy needs of the future.
+Duke Energy
+526 South Church Street Charlotte, NC 28202-1802 704-594-6200
+www.duke-energy.com
+
+Edison Mission Group is a holding company which acts through numerous subsidiaries to manage the competitive power generation business and other unregulated subsidiaries of Edison International.
+
+Headquartered in Irvine, California, EMG subsidiary Edison Mission Energy (EME) is an independent power producer engaged in the business of owning, leasing, operating and selling energy and capacity from electric power generation facilities. EME conducts price risk management and energy trading activities through Edison Mission Marketing and Trading (EMMT), which is based in Boston. EMMT also manages retail electric power and energy sales made by Edison Mission Solutions, LLC
+
+EME's continuing operations consist of owned or leased interests in 45 power generation facilities, with an aggregate capacity of 11,274 megawatts (MW), of which EME's ownership share is 10,174 MW.
+
+EME's power generation assets include fossil-fuel power plants in California, Illinois, Pennsylvania, West Virginia and Doga, Turkey; a biomass facility in New York; and one of the largest portfolios of wind energy projects in the U.S. As of November 2010, the wind portfolio comprised 29 projects currently in operation or under construction in Illinois, Iowa, Minnesota, Nebraska, New Mexico, Oklahoma, Pennsylvania, Texas, Utah and Wyoming. EME has a development pipeline of potential wind projects with projected installed capacity of approximately 3,700 MW.
+
+EME subsidiary Midwest Generation (MWG) operates six electric power generating plants in Illinois and supervises operation of the EME Homer City Generation plant in Homer City, Pennsylvania. The MWG and Homer City plants are coal-fired merchant plants, producing power that is not committed to be sold under long-term contracts. Most of these plants' output is sold into the PJM Interconnection, LLC, commonly referred to as the PJM marketplace (Pennsylvania-Jersey-Maryland), a 13-state region which extends from the Atlantic coast westward to Illinois.
+
+EME subsidiary Edison Mission Operations & Maintenance, Inc. (EMOMI), operates nine natural gas plants in partnership with other companies in California and a waste coal plant in West Virginia. EMOMI also operates EMG's wind farms. Power from most of these facilities is sold under contracts to various utilities.
+
+EME employs approximately 1800 people and generates $2,423 (millions) in revenue. Operating income for EME is $307 million. Edison International employs over 20,000 employees, with an operating budget of
+$2,126 million and revenue of $12,409 million.
+
+Appendix G - Sample NAICS Codes
+This is not an all-inclusive list of NAICS codes for the Wind Energy Industry
+
+22111, 221121
+221119
+236210
+237130
+237310
+237990
+238110
+238210
+238910
+238990
+313900 313930 313950
+325211
+325998
+327320
+331422, 331421, 331319, 332618, 335929, 421510
+333613 336350 548450
+332311
+332312
+332510
+3252111
+332722
+332911
+332919
+332991
+332999
+333120
+333611
+333991
+333992
+334416
+334519
+335312
+335931
+335932
+335932
+336111
+423510
+423610
+483113/211
+54110
+522220
+531190
+532412
+532490
+541330
+541380
+562000
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

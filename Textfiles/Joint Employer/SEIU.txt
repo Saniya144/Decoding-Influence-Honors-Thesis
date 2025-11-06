@@ -1,0 +1,311 @@
+Comment of the Service Employees International Union
+Standard for Determining Joint Employer Status, 87 Fed. Reg. 54641 (Sept. 7, 2022)
+National Labor Relations Board, RIN 3142-AA21 December 7, 2022
+Ms. Roxanne Rothschild Executive Secretary
+National Labor Relations Board 1015 Half Street SE Washington, D.C. 20570
+
+Dear Executive Secretary Rothschild:
+
+      The Service Employees International Union (SEIU) submits these comments in response to the National Labor Relations Board's (Board) Notice of Proposed Rulemaking on the Standard for Determining Joint Employer Status, 87 Fed. Reg. 54641 (Sept. 7, 2022) (Proposed Rule).
+The 2020 joint employer rule is repugnant to the National Labor Relations Act (NLRA or Act) and the common law principles that must govern joint employer determinations. The Proposed Rule correctly rescinds it. SEIU also supports the new standard articulated in the Proposed Rule, with a few modifications suggested below. That standard will forward the purpose of the Act by promoting collective bargaining as a means of meaningfully adjusting industrial disputes.
+      SEIU represents approximately two million working people employed in property services, healthcare, and public service. SEIU also supports not yet union fast food workers organizing with the Fight for 15 and a Union. Workplace "fissuring" pervades all of our industries. An improperly narrow joint employer standard effectively extinguishes the
+
+collective bargaining rights of millions of workers in these industries by permitting companies that control their jobs to absent themselves from the bargaining table. SEIU is committed to dismantling structural racism. Because workers of color are disproportionately represented in these industries, a proper joint employer standard is both an economic and a racial justice imperative.
+I. Introduction
+
+      The term "fissured workplace" was first coined by Dr. David Weil to refer to increasingly common business arrangements in which companies offload work previously performed by their own employees to other, smaller companies each charged with performing a discrete service.1
+      A classic example: a hospital that once hired its own physician assistants (PAs), janitors, and cafeteria workers may now retain a PA staffing contractor, a janitorial contractor, and a cafeteria contractor. The PAs, janitors and cafeteria workers go to the same hospital, wear the same uniforms, and perform the exact same work as their predecessors, but the hospital now disclaims any employment relationship with them or any obligation to bargain with them over the terms and conditions under which they work. But the hospital wants to have its cake and eat it too: while refusing to accept responsibility as workers' employer, it continues to control their working conditions, sometimes through power it holds in reserve or exercises through a contractor. Despite the hospital's control, only the contractors are compelled to participate in collective bargaining - and they cite the hospital's control as the reason they are unable to grant most improvements. Even when workers do win improvements, they can be too fragile to be meaningful. For example, the workers might bargain for an equitable rotation system with the contractor that ultimately proves useless because the hospital reserves the final authority to make
+
+1 David Weil, THE FISSURED WORKPLACE: WHY WORK BECAME SO BAD FOR SO MANY AND WHAT CAN BE DONE
+TO IMPROVE IT 7 (Harvard Univ. Press, 2014).
+
+scheduling changes. This bargaining is a hollow shell of the collective bargaining envisioned by the Act because an essential participant or participants - entities with the power to make changes improving workers' jobs - are absent. Under these circumstances, the collective bargaining process cannot effectively redress workers' grievances, which produces strife and industrial instability just as the NLRA Congress predicted.2
+      The NLRA must not be so easily defeated. Its text, case law and purpose are clear: it imposes liability broadly in order to effect broad remedial purposes.3 Corporate employers have resisted the Act since its passage and have experimented with countless structures and arrangements to evade its requirements. But "[t]he responsibility to adapt the Act to changing patterns of industrial life is entrusted to the Board."4 The Board is right to propose a rule that is faithful to the Act by making its promises real and durable against novel iterations of age-old attempted evasions. As required by the Act, the Proposed Rule will encourage the practice and procedure of collective bargaining. SEIU supports the Proposed Rule's rescission of the 2020 standard and supports its proposed standard with a few suggested modifications.
+II. Fissured Workplaces Pervade the Property Services, Healthcare and Fast Food Industries, Underscoring the Need for a Strong Joint Employer Standard
+
+A. Property Services
+
+      SEIU locals represent over 200,000 workers in the property services industry. The largest groups of these workers are commercial office cleaners and security officers. They are often hired as temporary or permanent workers by staffing companies that supply labor previously
+
+
+2 See 29 U.S.C. § 151 ("The denial by some employers of the right of employees to organize and the refusal by some employers to accept the procedure of collective bargaining lead to strikes and other forms of industrial strife or unrest . . .").
+3 See United Nurses Associations of California v. NLRB, 871 F.3d 767, 783 (9th Cir. 2017) ("the NLRA must be construed consistent with its remedial purposes of encouraging collective bargaining and protecting 'the right of employees to engage in concerted activities for their own benefit.'").
+4 NLRB v. J. Weingarten, Inc., 420 U.S. 251, 266 (1975).
+
+performed in-house.5 This problem is compounded when staffing companies further outsource the work by hiring even "smaller businesses to provide workers for specific facilities or shifts."6 Subcontracting obfuscates companies' identity as employers and makes it harder for workers to hold larger companies accountable7 while still permitting them to benefit from (and effectively control) workers' labor. And the fissuring of the janitorial services industry shows no signs of abating as employment in the industry is projected to grow over the next decade.8
+      Many janitorial service contractors hired by building owners find it easy to enter the janitorial services industry, but hard to remain. Often, janitorial contractors have almost no control over non-labor costs, and their only expense to reduce when bidding for work is workers' wages, enabling only those contractors who pay the lowest wages possible to win building contracts. As a result, janitorial work is one of the lowest paid occupations, with median wages increasing by only four dollars per hour over the past seven years.9 Building owners use their purchasing power not only to control wages, but also to determine where and how janitors' work is performed, down to minute details like which chemicals to use. Building owners' constant pressure has led contractors to cut costs by requiring workers to perform more services than they did previously in the same periods of time.10 Under so called "3-2" schedules, janitors must
+
+
+5 Sara Hinkley, Annette Bernhardt, & Sara Thomason, Race to the Bottom: How Low-Road Subcontracting Affects Working Conditions in California's Property Services Industry, UC Berkeley, Center for Labor Research and Education 6 (March 2016).
+6 See Tanya Goldman & David Weil, Who's Responsible Here? Establishing Legal Responsibility in the Fissured Workplace, 42 Berkeley J. Emp. & Lab. L. 55, 66 (2021) (emphasis added).
+7 Id.
+8 Employment for janitors and building cleaners is expected to grow by 4% from 2021-2031. Bureau of Labor Statistics, U.S. Department of Labor, Occupational Outlook Handbook, Janitors and Building Cleaners Sept. 8, 2022, https://www.bls.gov/ooh/building-and-grounds-cleaning/janitors-and-building-cleaners.htm.
+9 Based on U.S. Bureau of Labor statistics, janitors' median earnings were $10.98 in 2014 and $14.31 in 2021. Bureau of Labor Statistics, U.S. Department of Labor, Occupational Employment and Wage Statistics, 37-2011 Janitors and Cleaners, Except Maids and Housekeeping Cleaners, March 31, 2022, https://www.bls.gov/oes/current/oes372011.htm.
+10 Suzanne Teran and Evan vanDommelen-Gonzalez, Excessive Workload in the Janitorial Industry: An Emerging Health and Safety Concern, UC Berkeley Labor Occupational Health Program 15 (March 2017).
+
+perform specific tasks on specific days to reduce labor costs: "Under '3-2,' different tasks are carried out on assigned days, so that instead of vacuuming every day, for example, workers vacuum on Wednesdays. While this was adopted in order to stretch out work over the week or justify less personnel, and perhaps potentially reduce workload by distributing tasks over time, janitors described that this has greatly affected them by creating more work. Workers described how vacuuming only once a week meant that on the day that they do vacuum, the work is that much harder because a whole week of dust and dirt has accumulated . . ." 11 Building owners' determinative influence over the structure and shape of the work makes them an essential participant in bargaining over issues like grueling workloads because their demands often drive this high-pressure race to the bottom. It is important to note that the stress of these increasing workloads significantly affects the health and wellness of property service workers, in an industry that already has one of the highest rates of sexual harassment and safety incidents.12
+      SEIU also represents security officers, who face similar issues. Like janitors, they have seen significant growth in their industry, accompanied by a significant increase in outsourcing. A 2016 study found that, in California, at least 70% of security officers were employed by contractors.13 And contracted security workers earned 18% less than non-contracted security officers.14 Building owners have enormous sway over these workers. They often demand that contractors restructure work to reduce costs in ways that result in changes to hours and
+
+
+
+
+
+11 Id. at 17 (emphasis added) .
+12 Sara Hinkley, Annette Bernhardt, & Sara Thomason, Race to the Bottom: How Low-Road Subcontracting Affects Working Conditions in California's Property Services Industry, UC Berkeley, Center for Labor Research and Education 16, 18 (March 2016).
+13 Id. at 4.
+14 Id. Contracted security workers earned about $11.91 per hour versus non-contracted security workers earned
+$14.48 per hour in 2014. See id.
+
+workloads.15 Their contracts will often also direct how work is to be performed, requiring officers to both guard fixed locations and patrol along specified routes.16
+      The real-world experience of SEIU locals in both janitorial and security services illustrate these purported nonemployers' vast control over workers' lives. SEIU United Service Workers West (USWW) represents more than 45,000 janitors, security officers, airport service workers, and other property service workers across California. USWW reports that one of the key mechanisms through which building owners control the terms and conditions of security guards' employment is "client removal." This is a common provision in security (and janitorial) contracts whereby a building owner reserves to itself the power to remove or direct the contractor to remove specific employees from the job site. When a guard is "client removed," she will often face extended periods of unemployment while she is forced to apply for work at other locations and will usually receive lower paying assignments at any subsequent location. These are injuries to the most fundamental employment terms: wages and employment itself. Client removals are not usually challengeable under just cause provisions in collective bargaining agreements.
+Contractor employers will wash their hands of responsibility, citing the client's power under the contract. Because clients do not need to justify removals, they frequently exercise this power arbitrarily, removing guards on the basis of mere personality differences, not any problem with their work performance.
+      Worse, client removals can be a potent tool to retaliate against workers for exercising NLRA-protected rights. For example, Jesse Smith,17 a vocal USWW supporter employed by a large company's contractor, was client-removed immediately after engaging in protected
+
+
+15 Id. at 19.
+16 See id. at 21.
+17 This is a pseudonym. Given the retaliation he already has experienced, he fears further retaliation.
+
+concerted activity. Mr. Smith participated in a protest in solidarity with other USWW members who were on strike at the same location. He passed out a flier supporting the strikers, seeking to build further support for them at the workplace. A supervisor employed by the contractor cornered him and asked what he was passing out and then took a picture of the flier. Immediately thereafter, he was client-removed, allegedly for impermissibly taking a video at the workplace, which was an incident that occurred weeks earlier and which the contractor previously told Mr. Smith was already resolved. The contractor disclaimed any responsibility for the removal, claiming that it was beyond its control and solely the decision of the company.
+      SEIU Texas members' experience with building owners mirrors that of USWW's. SEIU Texas unites thousands of healthcare workers, janitors, municipal security officers, and airport workers in Texas. Mr. Hernan Trujillo, an SEIU Texas staff member, previously worked as a janitor employed by a contractor named Pritchard to clean an office building. It was abundantly clear to Mr. Trujillo that, despite the name on his paycheck, the building really controlled his job. "My first day was the only day I saw any supervisor from Pritchard, and they told me right then that the building engineer would be the one telling me my tasks for the day," Mr. Trujillo said. "Basically, Pritchard was there just to give me my paycheck but all of the decisions came from the building's manager or its engineer." It was the building, and not the contractor Pritchard, that would give Mr. Trujillo specific assignments, tell him how to do his job, and manipulate his working schedule on a daily basis.
+      In his current capacity as a union staff member, Mr. Trujillo has also seen how client removals often function as a retaliation tool. Mr. Trujillo has seen contractors refuse to give work to vocal union supporters and put the blame on a "client request," which the union has no mechanism to challenge. Additionally, Ms. Agustina Juarez, a former SEIU Texas organizer,
+
+recalls a client removal based on a worker's language. "The client demanded that a worker not return because she didn't speak English," said Ms. Juarez. "We filed a grievance but the only resolution we could get was to reassign her because the client wasn't subject to the grievance procedure." Mr. Trujillo added, "There's no way to challenge a removal in the union contract because this is about what the building wants - and the building is not in the room . . . This is why both parties need to be at the table."
+      If collective bargaining (and not industrial strife) is to adjust disputes effectively as the Act envisions, both clients and contractors must be at the bargaining table to set the rules governing issues like removals and to remedy any related unfair labor practices.
+B. Healthcare
+
+      SEIU is the largest healthcare union in North America with 1.1 million members working as doctors, nurses, home care and nursing home workers, lab techs, environmental service workers, and dietary aides.18 Many SEIU healthcare members work in large hospitals and service more than 60 million patients and clients.19 Like property service employers, the fast-growing healthcare industry has also sought to drive down labor costs by fissuring the healthcare workplace, hiring workers through third party subcontracting agencies and creating confusion about true employers' identity.20
+      In the past forty years, hospitals and nursing homes have ramped up outsourcing with a shift to focusing on "core competencies" and subcontracting out ancillary services.21 The trend towards outsourcing only accelerated during the COVID-19 pandemic, specifically in the period
+
+
+18 SEIU, SEIU Healthcare: we care for our communities, Everything you need to know about SEIU Healthcare (2022) https://www.seiu.org/cards/everything-you-need-to-know-about-seiu-healthcare.
+19 Id.
+20 James van Wagtendonk, Is there an Employer in the House? Evaluating the NLRB's Joint Employer Standard in the Fissured Healthcare Workplace, 98 B.U. L. Rev. 1105, 1109 (2018).
+21 Id.
+
+between March 2019 and March 2022.22 In March 2022, contract labor accounted for five percent of total hospital hours, compared to one percent in March 2019.23 As healthcare workers were getting sicker and having to call out of work, they were replaced with contract workers employed by staffing agencies,24 some of which have been accused of price gouging.25 The contract workers also need to familiarize themselves with a new hospital and its procedures and technologies, which can lead to burnout and other issues among the remaining, more experienced hospital workers who need to help the contract workers get acclimated.26
+      While healthcare employers have increasingly contracted out their workforces, they continue to maintain extensive control over the workers, due in part to government regulation.27 This includes Medicare and Medicaid regulations that govern staffing levels, credentialing procedures and quality control measures, compelling hospitals to control even contracted out workers.28 This control can be broad ranging, including directing workers' day to day activities, shaping their schedules, and instructing them on how to perform their jobs.29
+      The experience of 1199SEIU United HealthCare Workers East (1199SEIU), the largest healthcare local union in the country, illustrates the problem. When 1199SEIU has demanded in collective bargaining that healthcare contract employers (like physician groups, dietary service companies and laundry companies) raise healthcare workers' wages, it is often told that the
+
+
+22 Victoria Bailey, Rising Contract Labor Utilization Booted Hospital Labor Expenses, RevCycle Intelligence (May 2022) https://revcycleintelligence.com/news/rising-contract-labor-utilization-boosted-hospital-labor-expenses.
+23 Id.
+24 Impact of the COVID-19 Pandemic on the Hospital and Outpatient Clinical Workforce, Challenges and policy responses, Issue Brief, Department of Health and Human Services 10 (May 3, 2022).
+25 Y. Tony Tang & Diana J. Mason, Covid-19's Impact on Nursing Shortages, The Rise of Travel Nurses and Price Gouging, Health Affairs (Jan. 28, 2022).
+26 Impact of the COVID-19 Pandemic on the Hospital and Outpatient Clinical Workforce, Challenges and policy responses, Issue Brief, Department of Health and Human Services 11 (May 3, 2022).
+27 James van Wagtendonk, Is there an Employer in the House? Evaluating the NLRB's Joint Employer Standard in the Fissured Healthcare Workplace, 98 B.U. L. Rev. 1105, 1126-28 (2018).
+28 Id. at 1127.
+29 Id.
+
+contract employer can only increase wages if it is paid more by the hospital or nursing home in which the workers work. In addition to wielding this power over wages, hospitals and nursing homes also set the hours and schedules under which 1199SEIU members work. Entities with this much power over core employment terms must be at the bargaining table if collective bargaining is to produce agreements that effectively redress workers' concerns.
+C. Fast Food
+
+      Fast food corporations such as McDonald's, Domino's, Burger King,30 and Wendy's participate in franchise relationships. A majority of these restaurant locations are now franchised operations, and the number of company-operated stores is on the decline.31 Generally, in a franchising operation, the company or owner (franchisor) enters into an agreement with another person or organization (franchisee), granting the franchisee a license to use its systems, brand name, and other promotional materials in order to operate the business. The franchisor-franchisee distinction is usually imperceptible to the consumer as a result of brand marketing and enforced uniformity of products and operations. Franchisor advocates usually present the relationship between franchisors and franchisees as mutually beneficial: the franchisor guides the franchisee and permits it to benefit from the established brand; in return the franchisee pays royalties and other fees to the company.32 However, franchisors are almost always much larger corporations
+
+
+
+30 Burger King is now a subsidiary of Restaurant Brands International. Restaurant Brands International Inc., 2020 Summary Annual Report 4 (Apr. 6, 2021).
+31 The data show that franchising has significantly grown in this industry between 2013 and 2021. In their recent Form 10-K filings with the Securities and Exchange Commission, each of these companies report that worldwide: McDonald's operates 2,736 (7%) of its over 40,000 restaurants (down 11% from 2013); Dominos operates 363 (2%) of its 5,992 stores (down 2% from 2013); Burger King/Restaurant Brands International owns none of its stores and all stores in RBI are franchised (down .4% since 2013); and Wendy's operates 403 (0.06%) of its 5,535 restaurants (down 16.4% since 2013). See McDonald's Co., Annual Report (Form 10-K) (Feb. 24, 2022); Domino's Pizza, Inc., Annual Report (Form 10-K) (Feb. 25, 2021); Restaurant Brands, International Inc., Annual Report (Form 10-K) (Apr. 6, 2021); The Wendy's Co., Annual Report (Form 10-K), (Mar. 1, 2022).
+32 See Minwoong Ji & David Weil, The Impact of Franchising on Labor Standards Compliance, ILR Review 977, 978 (Oct. 2015).
+
+with vastly superior bargaining power, and some ultimately control how each franchisee runs its business down to minute details, including the terms and conditions of workers' employment.33
+      Often, franchisees lack meaningful control over their own restaurant's business plans and model. Franchisees must comply with strict standards imposed by franchisors. In McDonald's 2021 10-K Form, for example, the company emphasizes, "the business relationship between McDonald's and its independent franchisees is supported by adhering to standards and policies including Global Brand Standards defined in 2021, and is of fundamental importance to overall performance and to protecting the McDonald's brand."34 Franchisees fear departing from these standards in any way that could be perceived to damage the "McDonald's brand."
+      Franchisors also wield control over franchisees by increasing royalty fees and imposing additional sourcing and quality control requirements,35 and other technology and monitoring requirements, all of which burden the franchisee. Franchisees are often so squeezed by the obligations imposed by the franchisor that the only way for them to profit is to drive down labor costs.36 This predictably results in labor law violations, wage reductions and threats to workers' health and safety.37 A 2015 study conducted by Minwoog Ji and David Weil found that franchisees are more likely to violate labor standards than restaurants owned by franchisors.38
+      Franchisors often engage in extensive monitoring of franchised restaurants to ensure that their requirements are met. The monitoring includes video surveillance, point of sale (POS) tracking, and other systems to monitor workers during the workday. Franchisees sometimes oppose (usually in vain) newly imposed technologies because they will increase the fees
+
+33 Catherine L. Fisk & Amy W. Reavis, Protecting Franchisees and Workers in Fast Food Work, Issue Brief: American Constitutional Society 4 (Dec. 2021).
+34 See McDonald's Co., 2021 Summary Annual Report 3 (Feb. 24, 2022).
+35 See Fisk & Reavis, supra note 33 at 4.
+36 Id.
+37 Id.
+38 See Ji & Weil, supra note 32 at 1003.
+
+franchisees must pay the franchisor,39 which once again cuts into franchisee profit margins and incentivizes labor violations in franchised restaurants.
+      Sometimes, franchisor control over workers is even more extensive. For example, through "Station Observation Checklists" (SOCs) and computer-based training, McDonald's literally directs the manner in which franchisee employees' jobs are performed. Through SOCs, McDonald's imposes detailed instructions on how workers should: greet guests, make various products, clean windows and restrooms, react to a robbery, spot counterfeit bills, use a fire extinguisher, prevent falls by mopping floors at certain intervals, sweep debris in a particular direction, and other tasks.40 McDonald's monitors franchisees' use of SOCs and grades their compliance. Through its computer-based training system, and other means, McDonald's instructs managers on its policies against discrimination and harassment and its social media policy, including instructions on how to manage a shift and react to particular employee scenarios.41 While McDonald's contends that much of its systems are voluntary, franchisees' compliance with these systems are evaluated by McDonald's and non-compliance can have adverse consequences for the franchisees.
+      When fast food workers engage in core NLRA-protected activities like collectively protesting working conditions, franchisors snap into action to respond, sometimes even more
+
+
+
+39 Jonathan Maze, McDonald's franchisees want more control over technology, Restaurant Business (Dec. 21, 2020) https://www.restaurantbusinessonline.com/financing/mcdonalds-franchisees-want-more-control-over-technology.
+40 The General Counsel introduced voluminous evidence in a trial regarding McDonald's joint employer status. However, soon after former General Counsel Peter Robb took office, he rushed to cut the trial short just days before it was to close by imposing a settlement over the objection of the Charging Party. The Administrative Law Judge rejected the settlement, but the previous Board majority reversed her decision. McDonald's USA, LLC, 368 NLRB No. 134 (Dec. 12, 2019).
+At the trial, training records were entered through a witness named Diana Thomas and given the prefix "Tr." It is our understanding that the full set of documents introduced through Ms. Thomas can be found at "GC Tr.003 - GC Tr. 144." The SOCs can be found at GC Tr.015(a)-(o).
+41 See GC Tr.036; see also Ex. F-39, Salazar v. McDonald's Corp., No. 14-cv-2096 (N.D. Cal. June 20, 2016), ECF No. 169-1.
+
+comprehensively than franchisees. For example, when McDonald's workers organizing with the Fight for $15 and a Union struck and engaged in other protected, concerted activities, McDonald's:
+1) "formulated and implemented from its corporate headquarters," the company's "response to the Fight for $15 campaign" including "notifications of upcoming campaign activities, summaries of events, and suggested policies developed and distributed by a high-level official";
+2) "specifically created corporate positions to focus on responding to the Fight for $15 campaign";
+3) "communicat[ed] with McDonald's franchisees regarding impending, ongoing, and completed campaign activities";
+4) "organized" a "legal training . . . provided by attorneys to franchise owners and managers at franchise owner-operator organizations, which specifically addressed labor relations issues";
+5) was "involve[d] in the retention of labor consultants by" franchisees; and
+
+6) was "involve[d] in No Solicitation and No Loitering policies for use by its franchisees."42
+      McDonald's also "established hotlines for questions from personnel at both franchised and McDonald's-owned restaurants."43 In California, McDonald's distributed "Demonstration
+
+
+
+42 McDonald's USA, LLC, 368 NLRB No. 134 (Dec. 12, 2019) (Member McFerran dissenting).
+43 Order Denying Motions to Approve Settlement Agreements 35, n.49, McDonald's USA, LLC, NLRB Case 02-CA- 093893 (Administrative Law Judge Jul. 17, 2018); see also id. at 36 ("McDonald's for its part has never denied that it provided assistance to the Franchisee Respondents in connection with the Fight for $15 campaign."); Lorenzo Franceschi-Bicchierai & Lauren Kaori Gurley, McDonald's Secretive Intel Team Spies on 'Fight for $15' Workers, Internal Documents Show, Vice (Feb. 24, 2021) https://www.vice.com/en/article/pkdkz9/mcdonalds-secretive-intel- team-spies-on-fight-for-15-workers.
+
+Guidelines" that described procedures for responding to "any form of protest," including handbilling, leafleting, and picketing.44
+      When franchisors' have extensive control over franchisee workers' jobs, they are essential participants in collective bargaining if the bargaining process is to actually resolve labor disputes as the Act envisions. The Board must not permit the mere existence of a franchise relationship to become a device to rob franchisee workers of core NLRA rights.
+III. The Proposed Rule is Faithful to the National Labor Relations Act, but the Board Should Make a Few Adjustments
+
+A. The Proposed Rule Correctly Rescinds the 2020 Rule, Which Defies the Act and Governing Common Law Principles
+
+      The joint employer rule finalized in 2020 (the 2020 Rule)45 cannot stand: it is at war with the Act and the common law principles which must govern joint employer determinations. The Board is correct to rescind it.
+      The Act does not expressly define "joint employer," but two or more companies can become "employers" of the same workers by jointly holding or exercising control over their terms and conditions of employment. Determining whether each company "possesse[s] sufficient indicia of control to be an 'employer' is essentially a factual issue" for the Board to determine.46 The Taft-Hartley amendments to the Act require the Board to follow common law agency principles when making such determinations.47 Under those principles, companies' control over
+
+
+
+
+
+
+44 Ex. F-76, Salazar v. McDonald's Corp., No. 14-cv-2096 (N.D. Cal. June 20, 2016), ECF No. 169-17; see also Ex. S-30, Salazar v. McDonald's Corp., No. 14-cv-2096 (N.D. Cal. June 20, 2016), ECF No. 175-13 (McDonald's Pacific Sierra Region HR Director to franchisees: "I will continue to update you on all NLRB-related issues as new information becomes available.").
+45 Joint Employer Status Under the National Labor Relations Act, 85 Fed. Reg. 11184 (Feb. 26, 2020).
+46 Boire v. Greyhound Corp., 376 U.S. 473, 481 (1964).
+47 See 29 U.S.C. § 152; NLRB v. United Insurance Co. of America, 390 U.S. 254, 256 (1968).
+
+workers' terms and conditions of employment is probative of employer status, regardless of whether control is exercised or held in reserve or whether it is exercised directly or indirectly.48
+      The 2020 Rule creates arbitrary distinctions between forms of control and then makes the joint employer analysis turn on those distinctions in a manner foreign to common law agency principles, as SEIU explained in its comment on that rule.49 Under the 2020 Rule, a company is a joint employer only if it "possess[es] and exercise[s] such substantial direct and immediate control over one or more essential terms or conditions of [employees'] employment as would warrant finding that the entity meaningfully affects matters relating to the employment relationship with those employees."50 Indirect and reserved, unexercised control are relevant under the 2020 Rule only to the extent that they reinforce evidence of direct, exercised control and therefore may not establish joint employer status standing alone.51 Further, the 2020 Rule defines "essential terms and conditions of employment" to include only a brief and exhaustive list, omitting core employment conditions like worker health and safety.52
+
+
+
+48 Determining joint employer status under the NLRA is wholly different from determining whether an air carrier exercises sufficient control over a service contractor to warrant Railway Labor Act (RLA) jurisdiction. The RLA jurisdiction test determines whether a carrier's control over another company is sufficient to bring that company within RLA jurisdiction while the NLRA joint employer test determines whether a company's control over workers is sufficient to render it a joint employer under common law agency principles. The Board does not use a joint employer analysis in determining jurisdiction. Mgmt. Training Corp., 317 NLRB 1355, 1358 n.16 (1995) (whether government was joint employer of contractor's employees irrelevant to NLRA jurisdiction over contractor). By contrast, the RLA jurisdiction test is derived from a statute with a text, legislative history, and judicial interpretation that excludes independent contractors from the RLA's jurisdiction. See, e.g., Reynolds v. Northern Pacific Railway Co., 168 F.2d 934, 935 (8th Cir. 1948) (Congress excluded independent contractors as a group from the system of railway labor legislation); Martin v. Federal Security Agency, 174 F.2d 364, 366 (3d Cir. 1949). The results of the two inquiries are different. The RLA test determines jurisdictional coverage, while the NLRA joint employer test determines employer responsibility for bargaining. While the NLRA joint employer test assumes that two joint employers have an arm's-length relationship, RLA jurisdiction requires a closer than arm's-length relationship. See NLRB v. Browning-Ferris Indus. of Pa., Inc., 691 F.2d 1117, 1122 (3d Cir. 1982) (joint employers are "independent legal entities").
+49 Comment of the Service Employees International Union, The Standard for Determining Joint Employer Status, 83
+Fed. Reg. 46681(Sept. 14, 2018) available at https://www.regulations.gov/comment/NLRB-2018-0001-27518 (filed Jan. 28, 2019).
+50 29 C.F.R. § 103.40 (emphasis added).
+51 Id.
+52 Id.
+
+      The 2020 Rule's attempt to divide up control into vague categories, and then exclude some of those categories, has no basis in the common law or the Act. The common law has never blinded itself to control just because it is held in reserve and not formally exercised. As the D.C. Circuit has recognized, "the 'right to control' runs like a leitmotif through the Restatement (Second) of Agency," which "starts right out of the box with the definitional provision of the master-servant relationship: a 'master' 'controls or has the right to control the physical conduct of [another] in the performance of [a] service,' while a 'servant' likewise 'is controlled or is subject to the right to control by the master[.]'"53 The Restatement (Second) of Agency is a particularly important guidepost because it has shaped the Supreme Court's employment determinations under agency common law.54 Consistent with the common law's right of control principles, the Board in joint employer cases traditionally "found it probative that employers retained the contractual power to reject or terminate workers; set wage rates; set working hours; approve overtime; dictate the number of workers to be supplied; determine 'the manner and method of work performance'; 'inspect and approve work,' and terminate the contractual agreement itself at will . . . stress[ing] that "the power to control is present by virtue of the operating agreement."55 For example, where "license agreements . . . expressly g[a]ve [a licensor] the power to control effectively the hire, discharge, wages, hours, terms, and other conditions of employment of employees of the two licensees in dispute[,]" the Board concluded "[t]hat the licensor has not exercised such power is not material, for an operative legal predicate for establishing a joint-employer relationship is a reserved right in the licensor to exercise such
+
+
+
+
+53 Browning-Ferris Indus. of California v. NLRB, 911 F.3d 1195, 1211 (D.C. Cir. 2018) (emphases in original) citing Restatement (Second) of Agency § 2, at 12 (Am. Law Inst. 1958).
+54 Browning-Ferris, 911 F.3d at 1213.
+55 Browning-Ferris Indus. of California, 362 NLRB 1599, 1607 (2015) (footnotes omitted) (emphasis added).
+
+control . . ."56 Reviewing courts repeatedly endorsed this approach.57 The Board veered off course between 1984 and 2015, however, when it began to require a heightened showing of actually-exercised control without rooting this new requirement in the common law.58 The Board rectified this error in its 2015 Browning-Ferris decision, which restored the agency's traditional, wider consideration of control, including unexercised rights to control.59 The D.C. Circuit's 2018 decision in the appeal of Browning-Ferris heartily approved of the 2015 Board's treatment of reserved control.60
+      The 2020 Rule regresses, requiring anew that companies actually exercise control before they are deemed joint employers. This results in arbitrary and capricious distinctions among employers. For example, under the 2020 Rule, a company is a non-employer if it retains control over workers under a contract, but the same company becomes an employer when it first exercises that control. A contractor employer that understands the wishes of a more powerful client company holding reserved control will often set terms and conditions for its employees according to what it knows the client wants, even without that client having to "exercise" its control in any formal way. A contractor may, for example, discharge a worker labeled a "troublemaker" by a client company without the client company ever having to formally ask for the discharge. In the real world, this kind of reserved control can be extensive enough to effectively dictate working conditions such that conditions will not change at all after the company's first formal exercise of control. Yet the 2020 Rule turns on this distinction, even if nothing in a workplace has actually changed. This is arbitrary and capricious.
+
+
+56 Jewel Tea Co., 162 NLRB 508, 510 (1966).
+57 See Ref-Chem Co. v. NLRB, 418 F.2d 127, 129 (5th Cir. 1969); Ace-Alkire Freight Lines, Inc. v. NLRB, 431 F. 2d 280, 282 (8th Cir. 1970); Carrier Corp. v. NLRB, 768 F.2d 778, 781 (6th Cir. 1985).
+58 Browning-Ferris, 362 NLRB at 1599.
+59 Id.
+60 Browning-Ferris, 911 F.3d at 1209.
+
+      The 2020 Rule also wrongfully prohibits the Board from finding a company to be a joint employer on the basis of its exercise of indirect control over workers. First, this is in tension with the plain text of the Act itself, which defines "employer" to "include[] any person acting as an agent of an employer, directly or indirectly . . ."61 Second, control is probative of joint employer status under common law agency principles even if it is exercised indirectly. Agency common law's "subservant" doctrine recognizes that "[a] subservant necessarily acts both for his immediate employer and the latter's master, who is also his own master."62 The D.C. Circuit's 2018 Browning-Ferris decision also approved of the Board considering indirect control in its joint employer determinations (although it criticized the 2015 Board's application of that concept, as discussed further below).63 As the D.C. Circuit put it, "the common-law inquiry is not woodenly confined to indicia of direct and immediate control; an employer's indirect control over employees can be a relevant consideration."64
+      The Proposed Rule is correct to rescind the 2020 Rule and free the agency from its arbitrary distinctions between forms of control, which are wholly unmoored from the common law.
+B. The Proposed Rule is Necessary to Promote Collective Bargaining and make the Act Meaningful
+
+      For the reasons explained above, SEIU supports the Proposed Rule's rescission of the 2020 Rule. SEIU also supports the standard the Proposed Rule would put in the 2020 Rule's place. The Proposed Rule's standard re-anchors the analysis in the common law with helpful
+
+
+
+
+
+61 29 U.S.C. § 152(2) (emphasis added).
+62 Restatement (Second) of Agency § 226 cmt. a (1958).
+63 Browning-Ferris, 911 F.3d at 1209.
+64 Id.
+
+clarifications that serve the Act's core purpose of promoting collective bargaining as a means of resolving disputes and minimizing strife.
+Because the Proposed Rule explicitly codifies the common law, it is faithful to the Act.
+
+Proposed subsection (a) provides: "An employer, as defined by section 2(2) of the National Labor Relations Act (the Act), is an employer of particular employees, as defined by section 2(3) of the Act, if the employer has an employment relationship with those employees under
+common-law agency principles."65 Consistent with the governing common law principles, the Proposed Rule further clarifies that arbitrary and capricious distinctions between forms of control have no place in the analysis: under proposed subsection (c), the Proposed Rule makes clear that companies can become joint employers if they "possess the authority to control" or "exercise the power to control . . . one or more of the employees' essential terms and conditions of employment."66 And the Proposed Rule provides, in proposed subsection (f), that control is only relevant when it bears on the essential terms and conditions of workers' employment, not when it bears on matters immaterial to those subjects.67 This is an accurate articulation of common law principles and will promote meaningful collective bargaining.
+      As the experiences of workers organizing with SEIU described above show, meaningful collective bargaining cannot happen unless all entities that control the conditions under which workers labor are at the bargaining table negotiating over those conditions. Permitting a company to evade the bargaining table while holding or exercising control over terms and conditions of employment makes bargaining over those terms a mere shell of what the Act envisions. The Act promotes "the friendly adjustment of industrial disputes arising out of
+
+
+65 Proposed Rule at 54663.
+66 Id.
+67 Id.
+
+differences as to wages, hours, or other working conditions" through a negotiation process which "restor[es] equality of bargaining power between employers and employees."68 Workers cannot adjust disputes through a "friendly" process if one of the disputants is not engaged in that process. Workers understand that often, in the real world, the player with the true power is the one wielding the threat of reserved control like a cudgel or exercising control through an intermediary (or otherwise indirectly). As a matter of fact, workers do, and will continue to, have disputes with those entities because they understand that they control their working lives. The only question is whether these disputes will be resolved as the Act envisions or through the industrial strife the Act seeks to prevent. Further, permitting such entities to evade the bargaining table destroys the "equality of bargaining power" the Act seeks to establish because the bargain- evading employer will not face workers as a collective. Acting and bargaining collectively is the means through which individual workers, who "do not possess . . . actual liberty of contract" and are "commonly helpless . . . to obtain acceptable terms and conditions of employment" when acting alone, together form the strength necessary to improve their working conditions.69
+      The Board correctly declines to readopt "prong 2" of its 2015 Browning-Ferris decision. That decision adopted a two-step framework under which companies would be found to be joint employers if they 1) held or exercised enough control over workers to be a common law employer and 2) the control was sufficient to permit meaningful collective bargaining.70 The
+D.C. Circuit faulted the Board for inadequately applying the "meaningful collective bargaining" prong to the facts of Browning-Ferris, finding that the Board "never delineated what terms and conditions are 'essential' and to make collective bargaining 'meaningful,'" and failed to "clarify
+
+
+68 29 U.S.C. § 151.
+69 29 U.S.C. § 151; 29 U.S.C. § 102.
+70 Browning-Ferris, 911 F.3d at 1221.
+
+what 'meaningful collective bargaining' might require" under those facts.71 The Proposed Rule deals with this by declining to incorporate a requirement akin to Browning-Ferris's second prong into its new standard. The Board is correct to do so. The Board's initial view is that "by focusing on whether a putative joint employer possesses the authority to control or exercises the power to control employees' essential terms and conditions of employment, any required bargaining under the new standard will necessarily be meaningful."72 This is correct; the second prong was duplicative and confusing. If an entity holds or exercises control over terms and conditions of employment over which workers have a statutory right to bargain, those companies must be at the bargaining table for bargaining over those subjects to be meaningful and result in true resolution of labor disputes. Applying prongs 1 and 2 of the 2015 Browning-Ferris standard should always result in the same entities being found joint employers as applying prong 1 alone.
+      Applying this analysis to the client removal problem described above proves the point. A client with the contractual power to remove any worker from the job site must be at the bargaining table for collective bargaining over the terms of such removals to be meaningful, i.e., to result in (or at least strive in good faith to obtain) agreed-upon terms that can actually resolve the removal issue by binding every party with power over the issue to the agreed-upon resolution. Any bargained-for removal "protections" lack meaning when an outside party holds the power to unilaterally negate them without bargaining. Moreover, that power need not be formally exercised to change workers' terms and conditions of employment. Suppose a client with reserved removal power suggests to a contractor that a particular worker be removed, which would result in a reassignment of the worker to a different, lower-paying assignment or potentially even a period of unemployment. The contractor, fully understanding the client's
+
+71 Id. at 1221-22.
+72 Proposed Rule, 87 Fed. Reg. at 54645 n.26.
+
+removal power reserved in the contract, executes the "suggestion" even though the particular contract provision was never formally invoked. The workers' terms and conditions of employment have been materially altered due only to the client's reserved control without any formal invocation of the contract. It is no answer that some clients may, hypothetically, never invoke, threaten to invoke, or even hint at invoking the reserved power. The NLRA protects workers' right to negotiate over the terms and conditions of their employment as a mechanism to actually resolve industrial disputes. A dispute is not resolved if a party outside the bargaining relationship can at any time snap its finger and unravel the resolution. A collectively bargained protection subordinate to that power is no protection at all.
+C. The Board Should Clarify Several Items in the Final Rule
+
+1. The Board Should Substitute the Category of Mandatory Bargaining Subjects for its List of "Essential" Terms and Conditions of Employment
+
+      The D.C. Circuit concluded in Browning-Ferris that consideration of control exercised only indirectly is fully consistent with common law principles. The court found, however, that the Board failed to sufficiently distinguish between indirect control over "matters governing essential terms and conditions of employment" on the one hand and "decisions that set the objectives, basic ground rules, and expectations for a third-party contractor" on the other.73 According to the D.C. Circuit, the latter form of control may not establish joint employer status.74 Having a clear universe of terms and conditions over which control may lead to joint employer responsibility - and clearly delimiting the consequences of such responsibility - will add needed clarity and address the D.C. Circuit's concerns with the 2015 standard. Accordingly, SEIU urges the Board to substitute for its proposed list of "essential" terms and conditions the
+
+73 Browning-Ferris, 911 F.3d at 1219-20.
+74 Id.
+
+already familiar category of mandatory bargaining subjects and make clear, in its changes to the substantive provisions of the C.F.R., that joint employers are only required to bargain over the mandatory subjects over which they hold or exercise control.
+      First, the Proposed Rule enumerates a non-exhaustive list of "essential" terms and conditions of employment over which a company's reserved or exercised control may render it a joint employer.75 The Proposed Rule further clarifies that control over matters that do not bear on these terms and conditions is irrelevant to the joint employer analysis.76 This is the Proposed Rule's answer to the D.C. Circuit's concern that the 2015 standard inadequately distinguished between control over "essential" working conditions and control over common company-to- company contract provisions establishing the basic ground rules of performance and related parameters. Under the Proposed Rule, only control held or exercised over a non-exhaustive list of essential working conditions may lead to joint employer status.
+      The Board is correct that the 2020 Rule's exhaustive list of essential terms is impermissibly narrow: it arbitrarily excludes fundamental terms and conditions of employment like health and safety issues.77 The Board's proposed non-exhaustive formulation is rational, but we think the agency could add yet more clarity by simply substituting for its current list of "essential" terms the already familiar universe of mandatory bargaining subjects. The D.C. Circuit has hinted some degree of skepticism toward the "non-exhaustive" approach.78 Simply grafting the category of mandatory bargaining subjects onto the joint employer analysis leaves little room for doubt; labor law practitioners deal with this category every day, and it is well
+
+
+75 See Proposed Rule at 54663 (proposed subsection (d)).
+76 See Proposed Rule at 54663 (proposed subsection (f)).
+77 See Proposed Rule at 54657.
+78 See Browning-Ferris, 911 F.3d at 1221-22. ("the Board never delineated what terms and conditions are 'essential' to make collective bargaining 'meaningful,' instead declaring that it would adhere to an "inclusive" and "non- exhaustive" approach. . .").
+
+fleshed out in Board law. Also, mandatory subjects are indisputably terms and conditions of employment, not common provisions of company-to-company contracts like setting the end goal of contract performance.79 These are the terms and conditions over which workers have a statutory right to bargain collectively.80 The approach proposed here best serves the policies of the Act by ensuring that bargaining over each and every term over which workers have a right to bargain is meaningful by pulling in all of the entities with control over such terms. Excluding any subcategory of mandatory subjects from a defined list of "essential" terms would permit an employer to wield control over issues the Act subjects to bargaining while allowing that same employer to escape the bargaining table. This cannot be reconciled with the Act's policy of free collective bargaining as a means of effectively adjusting industrial disputes.
+      Second, the Final Rule should make clear in its substantive amendments to the C.F.R. that joint employers are only required to bargain over the terms and conditions they control or have the right to control. The Proposed Rule already makes this point in a footnote in its discussion of Browning-Ferris's second prong,81 but it would add clarity if this point is codified. Doing so would also preemptively refute the "parade of horribles" likely to emanate from employers, who have resisted any form of liability under the Act since its passage. These interests might point to a seemingly minor mandatory bargaining subject and decry the imposition of a broad employer responsibility flowing from control over that subject alone.
+These complaints should be easily dismissed for two reasons. First, the Proposed Rule requires the party asserting joint employer status to demonstrate by a preponderance of the evidence that,
+
+
+79 See Allied Chem. & Alkali Workers of Am. Local 1 v. Pittsburgh Plate Glass Co., 404 U.S. 157, 178 (1971) (mandatory bargaining subjects "include[] only issues that settle an aspect of the relationship between the employer and employees.").
+80 See 29 U.S.C. § 158(a)(5); 29 U.S.C. § 158(d); NLRB v. Wooster Div. of Borg-Warner Corp., 356 U.S. 342, 349 (1958).
+81 See Proposed Rule at 54645 n.26
+
+inter alia, the putative joint employer has a common law employment relationship with the employees in question.82 Second, if a common law employer only controls or has the power to control one mandatory bargaining subject, its only obligation under the rule would be the duty to bargain in good faith over that subject. If such companies object to being required to bargain regarding subjects they control - subjects over which workers have a statutory right to bargain - their complaint is with the Act and not the rule.
+      For these reasons, the Board should modify proposed subsection (d) of the Proposed Rule to read "'Essential terms and conditions of employment' are the mandatory subjects of collective bargaining." And the Board should add, within whichever subsection it thinks appropriate, that joint employers are only required to collectively bargain over the terms and conditions they control or have the right to control.
+2. The Board should Eschew Formalistic Distinctions in Its Proposed Rule
+
+      SEIU agrees with the AFL-CIO that the Board should reduce proposed subsection (e) to its first sentence, move that sentence to the end of proposed subsection (c), and modify proposed subsection (c)83 to read as follows:
+To "share or codetermine those matters governing employees' essential terms and conditions of employment" means for an employer to possess the authority to control, or to exercise the power to control, one or more of the employees' essential terms and conditions of employment. Whether an employer possesses the authority to control or exercises the power to control one or more of the employees' terms and conditions of employment is determined under common-law agency principles.
+
+      What is essential to the joint employer determination is companies' control over workers, not the particular form that control takes or the manner in which it is wielded. The Board should
+
+
+82 See Proposed Rule at 54663 (proposed subsection (g)).
+
+83 SEIU also agrees with the AFL-CIO's minor proposed edits to the Proposed Rule's subsection (b).
+
+avoid overly taxonomizing the different forms that control may take because, as explained above, all forms are relevant to the common law analysis (so long as the control is over working conditions, as the D.C. Circuit's Browning-Ferris decision and proposed subsection (f) make clear). As the Board correctly explains, control is probative of joint employer status under the common law irrespective of whether it is exercised in fact or held in reserve or whether it is exercised directly or indirectly. The central ill of the 2020 rule is that it distorts this analysis by dividing control into ill-defined categories and then excluding some of those categories, while the common law, by contrast, flexibly considers all of them to determine whether a company is an employer.
+      The revision suggested here will drive home the centrality of control and avoid inadvertently reinforcing distinctions between forms of control on which the joint employer analysis should not turn.
+3. The Board should Strengthen the Severability Provision
+
+      The Proposed Rule appropriately includes a robust severability provision in proposed subsection (h).84 However, the Board should strengthen this subsection by replacing "paragraph" with "paragraph or sentence" and replacing "paragraphs" with "paragraphs or sentences" to ensure that as much of the rule as possible is preserved in the event that a reviewing court should wrongfully enjoin any part of it, even for a time.
+      The Board should also make explicitly clear that the 2020 Rule is so repugnant to the Act and the common law principles which must guide its joint employer determinations, that the new rule's rescission of the 2020 Rule is, standing alone, severable85 from all of the other provisions
+
+84 Proposed Rule at 54663.
+85 Alternatively, as the Communications Workers of America (CWA) proposes, the Board could issue two final rules, one rescinding the 2020 Rule and another implementing the proposed standard. As CWA explains in detail in its comment, there is ample precedent for such an approach.
+
+of the new rule. While the Proposed Rule is clear, firmly grounded in the law, and preferable to the state of the law before the 2020 rule, a return to that state of the law is vastly preferable to permitting the 2020 Rule to stand. The Board should make clear (explaining its reasoning in detail) that the 2020 Rule shall not stand even if all the other provisions of its new rule are wrongfully enjoined. The Board should explain that its accurate critique of the 2020 Rule independently justifies its rescission of that rule even if it were not to go further and articulate its new, better standard.
+Conclusion
+
+      SEIU supports the Proposed Rule because it will carry out the Board's responsibility to make the Act's promises real for millions of workers in fissured workplaces. The Board should swiftly finalize the Proposed Rule with the few changes suggested above.
+
+
+Respectfully submitted,
+
+Nicole G. Berner
+General Counsel
+
+John M. D'Elia
+Assistant General Counsel
+
+Kalan Andrews
+Law Fellow
+
+

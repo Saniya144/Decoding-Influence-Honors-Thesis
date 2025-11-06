@@ -1,0 +1,141 @@
+
+
+
+
+October 10, 2023
+
+Mr. Raymond Windmiller
+Executive Officer, Executive Secretariat
+U.S. Equal Employment Opportunity Commission 131 M Street, N.E.
+Washington, DC 20507
+
+By electronic submission: http://www.regulations.gov
+
+Re: Proposed Regulations to Implement the Pregnant Workers Fairness Act; 88 Fed. Reg. 54714 (August 11, 2023); RIN 3046-AB30
+
+Dear Mr. Windmiller:
+
+The National Automobile Dealers Association (NADA)1 respectfully submits the following comments to the Equal Employment Opportunity Commission (the "Commission" or "EEOC") in response to its Notice of Proposed Rulemaking ("NPRM") regarding the Pregnant Worker Fairness Act ("PWFA").2 As a preliminary matter, NADA supports the U.S. Chamber of Commerce's ("Chamber") comments. The following feedback is intended to build upon those comments and offer NADA's perspective.
+
+NADA supports the Commission's goal to assist workers affected by pregnancy to remain on the job by providing them with accommodations quickly. The PWFA aligns with NADA's commitment to amplify the voices of women working in the automotive retail industry and increase female employment in dealerships. This is best exemplified by NADA's Women Driving Automotive Retail initiative and dealers nationwide who are taking steps to invest in their pregnant workers.3 While NADA is supportive of the PWFA, it is imperative that the EEOC's proposed regulations are clear and appropriately tailored to ensure businesses have an
+
+1 NADA represents over 16,000 franchised automobile and truck dealers in all 50 states who sell, finance, and lease new and used motor vehicles and engage in service, repair, and parts sales. This includes approximately 1,800 commercial truck dealers. NADA members collectively employ 1.2 million people nationwide, with the majority being small businesses as defined by the Small Business Administration.
+2 Regulations To Implement the Pregnant Workers Fairness Act, 88 Fed. Reg. 54714-54794 (Aug. 11, 2023), https://www.federalregister.gov/d/2023-17041/p-1.
+3 A new breast pumping law, known as the PUMP Act, is now in effect, NPR, May 8, 2023, https://www.npr.org/2023/05/08/1174703755/a-new-breast-pumping-law-known-as-the-pump-act-is-now-in-effect.; Walser Automotive Group to Launch Paid Parental Leave, Care.Com Partnership, BUSINESS WIRE, Nov. 2, 2018, https://www.businesswire.com/news/home/20181102005539/en/Walser-Automotive-Group-to-Launch-Paid- Parental-Leave-Care.Com-Partnership.; Dealerships say the reward for offering a family-friendly environment is improved staff productivity and loyalty, AUTOMOTIVE NEWS, Oct. 12, 2016, https://www.autonews.com/article/20161012/RETAIL07/310179995/dealerships-say-the-reward-for-offering-a- family-friendly-environment-is-improved-staff-productivity-and-loyalty.
+
+
+
+
+
+
+
+
+
+established path forward to compliance when supporting pregnant workers. This is particularly true for small businesses, which typically do not have access to in-house human resources or legal departments.
+
+A. The EEOC must align regulations under the PWFA with the ADA where Congress intended.
+The EEOC acknowledges that most of the PWFA's provisions will be familiar to covered entities because the PWFA borrows intentionally and extensively from, Title VII of the Civil Rights Act of 19644 and the Americans with Disabilities Act (ADA).5 As, the EEOC states:
+
+The PWFA borrows the definition of "reasonable accommodation" and "undue hardship" from the ADA and uses the same interactive process used under the ADA. By borrowing language and concepts from existing civil rights laws, the PWFA allows employers to build on existing policies and processes.6
+
+This approach is valuable because the PWFA is relying on proven laws and processes which significantly eases the compliance burden on businesses while ensuring that employees receive quick and consistent support from their employers. However, as outlined below, the EEOC's proposed rule has strayed from the PWFA's intention to align with the ADA in several instances.
+
+1. The interplay between the ADA and the PWFA is ambiguous.
+The PWFA was intended to fill gaps in current federal protections, including the Pregnancy Discrimination Act (PDA) and ADA, particularly with respect to reasonable accommodations for pregnant workers because an uncomplicated pregnancy is not a disability entitling a worker to reasonable accommodation under either law.7 Still, there may be situations where conditions covered under the PWFA could also fall under the ADA. And while the PWFA mirrors the ADA in requiring reasonable accommodations, the PWFA has a more lenient standard than the ADA because it requires employers to consider removing essential job functions as part of the reasonable accommodation.8
+
+Recommendation: Due to the potential for overlap between laws and varying applicable standards, employers need guidance and clarity on when to address requests under the ADA or
+
+4 42 U.S.C. 2000e et seq.
+5 42 U.S.C. 12111 et seq.
+6 Id. at 54,717.
+7 Id. at 54,715.
+8 As long as the inability to perform an essential function is temporary, the essential function can be performed again in the near future, and accommodating the inability to perform the essential function can be reasonably accommodated. 42 U.S.C 2000gg(6).
+
+
+
+
+
+
+the PWFA. This should be fully and clearly addressed in the rulemaking. Further, small businesses would benefit from EEOC guidance which addresses the interplay between the ADA and the PWFA in more detail and provides examples. Such guidance will ensure that both employers and employees understand the process of requesting a reasonable accommodation.
+
+2. The interactive process should be upheld.
+The Commission's approach to "predicable assessments" does not align with the ADA and corrodes the interactive process. Under the ADA, disability is determined based on an individualized assessment through an interactive process. However, the ADA recognizes that the individualized assessment of certain impairments will virtually always result in a determination of disability.9 These "predictable assessments" under the ADA include an impairment which clearly and substantially limits a specific major life activity and includes:
+
+* Deafness substantially limits hearing.
+* Blindness substantially limits seeing.
+* An intellectual disability substantially that limits brain function.
+* Partially or completely missing limbs or mobility impairments requiring the use of a wheelchair substantially limit musculoskeletal function.10
+
+The Commission has expanded the application of predictable assessments under the PWFA to include specified accommodations or "modifications" which the EEOC is also calling "predictable assessments." These include: (1) allowing an employee to carry water and drink, as needed, in the employee's work area; (2) allowing an employee additional restroom breaks; (3) allowing an employee whose work requires standing to sit and whose work requires sitting to stand, and (4) allowing an employee breaks, as needed, to eat and drink.11 Here, the EEOC is skipping the individual assessment and interactive process and prescribing accommodations for pregnant employees. In comparison, the ADA's predictable assessments are meant to fast track the individual assessment of a disability and the interactive process which would potentially result in a reasonable accommodation for the employee.
+
+The EEOC's justification is that these instances "will virtually always be reasonable accommodations that do not impose an undue hardship."12 This assumption is made without any thorough analysis of the diversity of workplaces and jobs and completely undermines the individual assessment process and interactive process that is the foundation of the ADA. There are jobs or workplaces where these predictable assessments would impact an essential function and would necessitate an interactive process to ensure the requested accommodation is available,
+
+
+9 29 C.F.R. 1630.2(j)(3)(ii).
+10 29 C.F.R. 1630.2(j)(3)(iii).
+11 Id. at 54,785.
+12 Id. at 54,734.
+
+
+
+
+
+
+appropriate, and not an undue burden. For example: 1) certain manufacturing jobs cannot provide employees access to water in their immediate work areas because it may compromise the product quality or safety of the employee; and 2) jobs such as service technicians, auto detailers, or commercial drivers where sitting or standing is essential function of the job.
+
+NADA supports the EEOC's goal to streamline support for pregnant workers, but this cannot be done at the expense of a process that is vetted, known, and works for all parties involved. The interactive process need not be complicated or time consuming, particularly for certain basic reasonable accommodations, but it is essential that all parties have a clear understanding of how to proceed and that all parties' interests are recognized.
+
+Recommendation: The Commission should restore the requirement that employers and pregnant workers engage in an interactive process under the PWFA and remove the "predictable assessments" from the proposed regulations in totality.
+
+3.  The PWFA regulations should follow the ADA documentation standard.
+Under the ADA, an employer can require documentation to support a request for accommodation except when the need for the accommodation is obvious.13 However, the proposed regulations only permit an employer to require supporting documentation when it is "reasonable under the circumstances."14 A rule without a concrete documentation standard could increase the compliance burden on employers and delay accommodations for employees. Employers will be forced to analyze in each instance whether documentation is appropriate under a reasonableness standard. This level of analysis is an additional hurdle which increases litigation risk for employers, raises concerns about administering documentation requests fairly between employees, and may necessitate involvement of legal counsel.
+
+NADA acknowledges that there are difficulties with obtaining medical documentation for pregnancy. For example, the first prenatal visit will generally be around eight weeks after a person's last menstrual period,15 meaning employees could wait two months or more before seeing a doctor to confirm pregnancy and obtain medical documentation. Prenatal appointments then proceed on a specified schedule to ensure the health of the fetus and pregnant person. It is important to note, however, that employees are supported in attending all pregnancy-related
+
+13 29 C.F.R. pt. 1630 app. § 1630.9 (1997). See also: Enforcement Guidance on Reasonable Accommodation and Undue Hardship under the ADA, EEOC, Oct. 17, 2002,
+https://www.eeoc.gov/laws/guidance/enforcement-guidance-reasonable-accommodation-and-undue-hardship- under-ada.
+14 Id. at 54,738.
+15 Your First Prenatal Visit, AMERICAN PREGNANCY ASSOCIATION, https://americanpregnancy.org/healthy- pregnancy/planning/first-prenatal- visit/#:~:text=If%20you%20did%20not%20meet,you%20know%20you%20are%20pregnant (last visited Oct. 10, 2023).
+
+
+
+
+
+
+appointments under the PWFA. Understanding that employees may not have access to immediate medical documentation, employers can provide temporary accommodations conditioned upon the receipt of documentation within a reasonable period. This ensures a fair and clear process for documentation for both employer and employee.
+
+Recommendation: The Commission should align documentation requirements of the PWFA with the ADA. The Commission should state that employers can provide temporary accommodations conditioned upon the receipt of documentation within a reasonable period of time and provide guidance and examples to ensure employers and employees have a clear understanding of how this would work in practice.
+
+B. The EEOC must revise the definition of "Pregnancy, childbirth, or related medical conditions."
+The Commission defines pregnancy, childbirth, and other related medical conditions to include "potential or intended pregnancy" and further provides examples including the use of birth control, menstruation, fertility treatments, and endometriosis.16 However, in the PWFA, Congress referred only to a "physical or mental condition related to, affected by, or arising out of pregnancy, childbirth, or related medical conditions"-a narrower category.17 While the EEOC's support of women's health prior to pregnancy is laudable, it is clearly outside the scope of the statute, which does not contemplate potential or intended pregnancies in text or legislative history.18
+
+As the EEOC notes in the NPRM, the PWFA is intended to fill a gap in the definition of disability under the ADA as to uncomplicated pregnancy and conditions related to pregnancy or childbirth.19 The goal of the PWFA is to protect the pregnant worker by ensuring pregnancies which are uncomplicated have accommodations to avoid pregnancy complications. Without a present or recent pregnancy, there is no pregnancy, childbirth, or related medical condition to accommodate. The inclusion of medical conditions that do not directly arise out of actual pregnancy or childbirth would inappropriately broaden the scope of the PWFA and distract from its intended purpose of protecting pregnant workers. This increase in scope was not contemplated by the PWFA's bipartisan advocates or those who drafted the bill and deserves a more thorough analysis. Further, in practicality, this expansion would also be difficult for businesses to administer and could lead to unfairness or even discrimination in the workplace as the Chamber has noted.
+
+
+
+
+16 Id. at 54,767.
+17 42 U.S.C 2000gg(4).
+18 See Chamber's comment for related to legislative history of this definition.
+19 Id. at 54,720.
+
+
+
+
+
+
+Recommendation: The Commission should narrow the definition of "related medical conditions" for the PWFA to clarify that only conditions directly related to an actual pregnancy are covered by the PWFA.
+
+C. Conclusion
+Thank you for this opportunity to comment, and for your consideration of these views. We would welcome the opportunity to discuss these comments or any other related issues with the Commission at any time.
+
+Respectfully submitted,
+
+/s/
+
+Kaye Lynch-Sparks
+
+Associate Director | Legal and Regulatory Affairs National Automobile Dealers Association klynchsparks@nada.org
+703.468.8170
+
+

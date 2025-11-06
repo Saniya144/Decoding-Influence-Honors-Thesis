@@ -1,0 +1,216 @@
+
+
+
+
+and a foreign payee, the broker or dealer that has an ongoing customer relationship with the foreign payee with respect to that transaction (generally the clearing firm) must determine whether the potential section 871(m) transaction is a section 871(m) transaction.
+  (iv) Responsible party for certain structured notes, warrants, and convertible instruments. When a potential section 871(m) transaction is a structured note, warrant, convertible stock, or convertible debt, the issuer is the party responsible for determining whether a potential section 871(m) transaction is a section 871(m) transaction.
+
+DEPARTMENT OF LABOR
+Occupational Safety and Health Administration
+
+29 CFR Part 1910
+Walking-Working Surfaces, Personal Protective Equipment (Fall Protection Systems), and Special Industries (Electric Power Generation, Transmission, and Distribution); Corrections
+AGENCY: Occupational Safety and Health Administration (OSHA), Labor.
+ACTION: Final rule; corrections to standards.
+
+adopted in 1971 (36 FR 10474), as well as by the rule proposed in 1990 (55 FR 13360, 13363), are not covered by the current standard. In the 2010 proposed rule and the 2016 final rule, OSHA referred to these stairs as ''stairs serving floating roof tanks'' but did not call them ''articulated stairs.'' (75 FR 28862,
+28882; 81 FR at 82555). OSHA is now
+clarifying that all articulated stairs used in general industry, not just those serving floating roof tanks, remain excluded from coverage by § 1910.25. By not including this exception, the standard would require all articulated stairs that do not serve floating roof tanks, including those that were
+
+*	*	*	*	*
+
+	  previously excluded, to meet the
+
+
+  (5) Example. The following example illustrates the rules of paragraph (p) of this section.
+  (i) Example 1: Responsible party for a transaction with multiple broker-dealers. (A) Facts. CO is a domestic clearing organization and is not a broker as defined in paragraph (a)(1) of this section. CO serves as a central counterparty clearing and settlement service provider for derivatives exchanges in the United States. EB and CB are brokers organized in the United States and members of CO. FC, a foreign corporation, instructs EB to execute the purchase of a call option that is a specified ELI (as described in paragraph
+(e) of this section). EB effects the trade for FC on the exchange and then, as instructed by FC, transfers the option to CB to be cleared with CO. The exchange matches FC's order with an order for a written call option with the same terms and then sends the matched trade to CO, which clears the trade. CB and the clearing member representing the person who sold the call option settle the trade with CO. Upon receiving the matched trade, the option contracts are novated and CO becomes the counterparty to CB and the counterparty to the clearing member representing the person who sold the call option.
+  (B) Analysis. Both EB and CB are broker- dealers acting on behalf of FC for a potential section 871(m) transaction. Under paragraph (p)(1)(iii) of this section, however, only CB is required to make the determinations described in paragraph (p) of this section because CB has the ongoing customer relationship with FC with respect to the call option.
+(ii) [Reserved]
+*	*	*	*	*
+Sunita Lough,
+Deputy Commissioner for Services and Enforcement.
+Approved: November 14, 2019.
+David J. Kautter,
+Assistant Secretary of the Treasury (Tax Policy).
+[FR Doc. 2019-26977 Filed 12-16-19; 8:45 am]
+BILLING CODE 4830-01-P
+
+SUMMARY: OSHA is issuing corrections to the Walking-Working Surfaces, Personal Protective Equipment, and Special Industries standards.
+DATES: The effective date for the corrections to the standards is December 17, 2019.
+FOR FURTHER INFORMATION CONTACT:
+  Press inquiries: Frank Meilinger, Director, OSHA Office of Communications; telephone: (202) 693-
+1999; email: meilinger.francis2@dol.gov. General and technical information:
+Mark Hagemann, Director, Office of Safety Systems, OSHA Directorate of Standards and Guidance; telephone:
+(202) 693-2222; email:
+hagemann.mark@dol.gov.
+SUPPLEMENTARY INFORMATION:
+I. Summary and Explanation
+Ladders (§ 1910.23)
+  Current § 1910.23(d)(4) requires employers to ensure that the side rails of through or side-step ladders extend 42 inches above the top of the access level or landing platform served by the ladder. As stated in the preamble to the final rule, the agency intended workers to have sufficient handholds ''at least 42 inches'' above the highest level on which they will step when reaching the access level (81 FR 82494, 82542).
+OSHA is correcting this error by revising § 1910.23(d)(4) to state that 42 inches is the minimum-not the exact- measurement for fixed ladder side rail extensions.
+Stairways (§ 1910.25)
+  Current § 1910.25(a) sets forth the types of stairways covered under this section. These include all stairways except for stairs serving floating roof tanks, stairs on scaffolds, stairs designed into machines or equipment, and stairs on self-propelled motorized equipment. In this correction, OSHA is clarifying that articulated stairs, which were excluded from coverage by the rule
+
+requirements set forth in § 1910.25. OSHA did not intend for any types of articulated stairs to be covered by the standard.
+The figure at 29 CFR 1910.25(c)
+immediately after Table D-1 does not have a title even though it is referred to as Figure D-8 in § 1910.25(c)(4). The title of the figure was included in the proposed rule (75 FR at 29137) but mistakenly left out of the final rule (81 FR at 82989). This document adds the missing title to the figure: ''Figure D-8- Dimensions of Standard Stairs''.
+Scaffolds and Rope Descent Systems (§ 1910.27)
+  In paragraph (b)(1)(i) of § 1910.27, OSHA is correcting a typographical error in the metric parenthetical for 5,000 pounds. The parenthetical currently states the metric equivalent to 5,000 pounds is 268 kg. The correct metric equivalent is 2,268 kg.
+Fall Protection Systems and Falling Object Protection-Criteria and Practices (§ 1910.29)
+  OSHA is correcting Figure D-11 to include labels identifying the top rail and end post in the top diagram of the figure. The words ''top rail'' and ''end post'' were mistakenly omitted when the final rule was published in the Federal Register (81 FR at 82995).
+Personal Fall Protection Systems (§ 1910.140)
+  Current § 1910.140(c)(8) requires D- rings, snaphooks, and carabiners to be proof tested to a minimum tensile load of 3,600 pounds without cracking, breaking, or incurring permanent deformation. The provision also requires the gate strength of snaphooks and carabiners to be proof tested to 3,600 pounds in all directions. In the November 18, 2016, final rule (81 FR at 82653), OSHA intended to be consistent with the ANSI/ASSE Z359.12-2009
+consensus standard, Connecting
+
+Components for Personal Fall Arrest Systems. That consensus standard requires snaphooks, carabiners, and D- rings (and other hardware) to be proof tested to 3,600 pounds (ANSI/ASSE Z359.12-2009, section 3.1.1.6) and requires the gate of snaphooks and carabiners to be capable of withstanding a minimum load of 3,600 pounds without the gate separating from the nose of the snaphook or carabiner body by more than 0.125 inches (ANSI/ASSE Z359.12-2009, section 3.1.1.3). OSHA
+correctly added the first requirement to the 2016 final rule-namely the requirement that snaphooks, carabiners, and D-rings be proof tested to 3,600 pounds. When it came to the gate strength requirement, OSHA mistakenly added the requirement that the gate strength of snaphooks and carabiners be proof tested to 3,600 pounds in all directions instead of adding the intended requirement that the gate of snaphooks and carabiners be capable of withstanding a minimum load of 3,600 pounds without the gate separating from the nose of the snaphook or carabiner body by more than 0.125 inches. It should also be noted that proof testing of the gates of snaphooks and carabiners could be destructive to the equipment, rendering them unsafe for workers in the field. In this document, OSHA is correcting the gate strength provision to be consistent with the national consensus standard, as originally intended, and as stated in letters of interpretation to the National Association of Tower Erectors (NATE) (see response to question 5 here: https:// www.osha.gov/laws-regs/standard interpretations/2017-08-18) and the International Safety Equipment Association (ISEA) (see response to question 1 here: https://www.osha.gov/ laws-regs/standardinterpretations/2017-  08-31).
+Electric Power Generation, Transmission, and Distribution (§ 1910.269)
+  Section 1910.269(h)(2) contains references to ladder standards
+
+(§§ 1910.25(d)(2)(i) and (iii) and 1910.26(c)(3)(iii)) that are not the correct references. OSHA is revising
+§ 1910.269(h)(2) by replacing the incorrect references with the correct references, which are § 1910.23(c)(4) and (9).
+II. Exemption From Notice-and- Comment Procedures
+  OSHA determined that this rulemaking is not subject to the procedures for public notice and comment specified in Section 4 of the Administrative Procedures Act (5 U.S.C. 553), Section 6(b) of the Occupational Safety and Health Act of 1970 (29 U.S.C. 655(b)), and 29 CFR 1911.5. This
+rulemaking only corrects typographical, formatting, and clerical errors, and provides more information about the requirements of some provisions. As it does not affect or change any existing rights or obligations, no stakeholder is likely to object to these corrections.
+Therefore, the agency finds good cause that public notice and comment are unnecessary within the meaning of 5
+U.S.C. 553(b)(3)(B), 29 U.S.C. 655(b), and 29 CFR 1911.5.
+List of Subjects in 29 CFR Part 1910
+  Special industries, Walking-working surfaces.
+Authority and Signature
+  This document was prepared under the direction of Loren Sweatt, Principal Deputy Assistant Secretary of Labor for Occupational Safety and Health. This action is taken pursuant to 29 U.S.C.
+653, 655, 657; Secretary of Labor's Order
+1-2012 (77 FR 3912 (1/25/2012)), and
+29 CFR part 1911.
+Signed at Washington, DC.
+Loren Sweatt,
+Principal Deputy Assistant Secretary of Labor for Occupational Safety and Health.
+Final Regulatory Text
+  For the reasons set forth in the preamble, OSHA amends part 1910 of title 29 of the Code of Federal Regulations as follows:
+
+PART 1910-OCCUPATIONAL SAFETY AND HEALTH STANDARDS
+Subpart D-Walking-Working Surfaces
+
+¦ 1. The authority citation for part 1910, subpart D, continues to read as follows:
+Authority: 29 U.S.C. 653, 655, 657;
+Secretary of Labor's Order No. 12-71 (36 FR 8754), 8-76 (41 FR 25059), 9-83 (48 FR
+35736), 1-90 (55 FR 9033), and 1-2012 (77
+FR 3912), as applicable; and 29 CFR part 1911.
+¦ 2. Amend § 1910.23 by revising paragraph (d)(4) to read as follows:
+§ 1910.23  Ladders.
+*	*	*	*	*
+(d) * * *
+  (4) The side rails of through or side- step ladders extend at least 42 inches (1.1 m) above the top of the access level or landing platform served by the ladder. For parapet ladders, the access level is:
+  (i) The roof, if the parapet is cut to permit passage through the parapet; or
+  (ii) The top of the parapet, if the parapet is continuous;
+*	*	*	*	*
+¦ 3. Amend § 1910.25 by revising paragraph (a) and the figure following Table D-1 in paragraph (c)(5) to read as follows:
+§ 1910.25  Stairways.
+  (a) Application. This section covers all stairways (including standard, spiral, ship, and alternating tread-type stairs), except for articulated stairs (stairs that change pitch due to change in height at the point of attachment) such as those serving floating roof tanks, stairs on scaffolds, stairs designed into machines or equipment, and stairs on self- propelled motorized equipment.
+*	*	*	*	*
+(c) * * *
+(5) * * *
+
+
+
+
+
+
+¦ 4. Amend § 1910.27 by revising paragraph (b)(1)(i) to read as follows:
+§ 1910.27 Scaffolds and rope descent systems.
+*	*	*	*	*
+(b) * * *
+(1) * * *
+  (i) Before any rope descent system is used, the building owner must inform the employer, in writing that the building owner has identified, tested, certified, and maintained each anchorage so it is capable of supporting at least 5,000 pounds (2,268 kg), in any
+
+direction, for each employee attached. The information must be based on an annual inspection by a qualified person and certification of each anchorage by a qualified person, as necessary, and at least every 10 years.
+*	*	*	*	*
+¦ 5. Amend § 1910.29 by revising paragraph (b)(1) and Figure D-11 to read as follows:
+§ 1910.29 Fall protection systems and falling object protection-criteria and practices.
+*	*	*	*	*
+
+(b) * * *
+  (1) The top edge height of top rails, or equivalent guardrail system members, are 42 inches (107 cm), plus or minus
+3 inches (8 cm), above the walking- working surface. The top edge height may exceed 45 inches (114 cm), provided the guardrail system meets all other criteria of paragraph (b) of this section (see Figure D-11 of this section).
+*	*	*	*	*
+
+
+
+
+
+
+*	*	*	*	*	Subpart I-Personal Protective Equipment
+
+¦ 6. The authority citation for part 1910, subpart I, continues to read as follows:
+
+Authority: 29 U.S.C. 653, 655, 657;
+Secretary of Labor's Order No. 12-71 (36 FR 8754), 8-76 (41 FR 25059), 9-83 (48 FR
+35736), 1-90 (55 FR 9033), 6-96 (62 FR 111),
+3-2000 (65 FR 50017), 5-2002 (67 FR 65008),
+5-2007 (72 FR 31160), 4-2010 (75 FR 55355),
+
+or 1-2012 (77 FR 3912), as applicable, and
+29 CFR part 1911.
+¦ 7. Amend § 1910.140 by revising paragraph (c)(8) to read as follows:
+§ 1910.140 Personal fall protection systems.
+*	*	*	*	*
+(c) * * *
+  (8) D-rings, snaphooks, and carabiners must be proof tested to a minimum tensile load of 3,600 pounds (16 kN) without cracking, breaking, or incurring permanent deformation. The gate strength of snaphooks and carabiners must be capable of withstanding a minimum load of 3,600 pounds (16 kN) without the gate separating from the nose of the snaphook or carabiner body by more than 0.125 inches (3.175 mm).
+*	*	*	*	*
+Subpart R-Special Industries
+¦ 8. The authority citation for part 1910, subpart R, continues to read as follows:
+Authority: 29 U.S.C. 653, 655, 657;
+Secretary of Labor's Order No. 12-71 (36 FR 8754), 8-76 (41 FR 25059), 9-83 (48 FR
+35736), 1-90 (55 FR 9033), 6-96 (62 FR 111),
+5-2007 (72 FR 31159), 4-2010 (75 FR 55355),
+or 1-2012 (77 FR 3912), as applicable; and
+29 CFR part 1911.
+¦ 9. Amend § 1910.269 by revising paragraph (h)(2) introductory text to read as follows:
+§ 1910.269 Electric power generation, transmission, and distribution.
+*	*	*	*	*
+(h) * * *
+  (2) 
+Special ladders and platforms. Portable ladders used on structures or conductors in conjunction with overhead line work need not meet
+§ 1910.23(c)(4) and (9). Portable ladders and platforms used on structures or conductors in conjunction with overhead line work shall meet the following requirements:
+*	*	*	*	*
+[FR Doc. 2019-27114 Filed 12-16-19; 8:45 am]
+BILLING CODE 4510-26-P
+
+
+
+DEPARTMENT OF COMMERCE
+National Oceanic and Atmospheric Administration
+
+50 CFR Part 648
+[Docket No. 151211999-6343-02; RTID 0648-XX021]
+Fisheries of the Northeastern United States; Northeast Multispecies Fishery; Closure of the Regular B Days-at-Sea Program for the Remainder of Fishing Year 2019
+AGENCY: National Marine Fisheries Service (NMFS), National Oceanic and Atmospheric Administration (NOAA), Commerce.
+ACTION: Temporary rule; inseason closure.
+
+
+SUMMARY: This action closes the Regular B Days-at-Sea Program and prohibits the use of Regular B Days-at-Sea for all Northeast multispecies vessels for the
+
+remainder of fishing year 2019, through April 30, 2020. This action is being taken because the common pool fishery is projected to have caught 77 percent of the Incidental Catch Total Allowable Catch for Gulf of Maine Cod. We have projected that continuation of the program would undermine the achievements of the objectives of the Northeast Multispecies Fishery Management Plan and the Regular B Days-at-Sea Program.
+DATES: This action is effective December 16, 2019, through April 30, 2020.
+FOR FURTHER INFORMATION CONTACT:
+Spencer Talmage, Fishery Management Specialist, (978) 281-9232.
+SUPPLEMENTARY INFORMATION: Federal
+regulations at 50 CFR 648.85(b)(6)(vi) authorize the Regional Administrator to close the Regular B Days-at-Sea (DAS) program by prohibiting the use of Regular B DAS when the continuation of the program would undermine the achievement of the objectives of the Northeast Multispecies Fishery Management Plan (FMP) or the Regular B DAS Program.
+  Framework Adjustment 58 to the Northeast Multispecies FMP (84 FR 34799, July 19, 2019) implemented Common Pool Incidental Catch Total Allowable Catches (TAC) for the Regular B DAS Program for the 2019 and 2020 fishing years, listed in Table 1 below.
+The Incidental Catch TAC for Gulf of Maine (GOM) Cod is very small, at 242.5 lb (110 kg).
+
+TABLE 1-FISHING YEARS 2019-2020 INCIDENTAL CATCH TACS FOR THE REGULAR B DAS PROGRAM
+[mt, live weight]
+
+Stock20192020Georges Bank (GB) Cod ...................................................................................................................................0.54 (1,190.5 lb)0.67 (1477.1 lb)GOM Cod ...........................................................................................................................................................0.11 (242.5 lb)0.11 (242.5 lb)GB Yellowtail Flounder ......................................................................................................................................0.02 (44.1 lb)0.04 (88.2 lb)Cape Cod/GOM Yellowtail Flounder .................................................................................................................0.21 (463.0 lb)0.21 (463.0 lb)American Plaice .................................................................................................................................................1.57 (3,461.3 lb)1.46 (3,218.7 lb)Witch Flounder ...................................................................................................................................................1.15 (2,535.3 lb)1.15 (2,535.3 lb)Southern New England/Mid-Atlantic Winter Flounder .......................................................................................0.74 (1,631.4 lb)0.74 (1,631.4 lb)
+
+  Based on information reported through October 12, 2019, the common pool fishery is projected to have caught approximately 186 lb (84.4 kg), or 77 percent of the 242.5-lb (110-kg) Incidental Catch Total Allowable Catch (TAC) for GOM cod.
+  The trip limit for GOM cod for common pool vessels participating in the Regular B DAS Program is 25 lb per trip. At this trip limit, the common pool fishing has only two trips remaining before it achieves the Incidental Catch TAC.
+  
+Given the current trip limit, and past fishing behavior, the common pool may achieve or exceed the GOM Cod Incidental Catch TAC in a very short amount of time. Additionally, this may happen sooner if effort in the Regular B DAS Program increases. Even at the current low level of effort in the Regular B DAS Program, we may not be able to close the program in time to prevent the common pool from exceeding the GOM Cod Incidental Catch TAC, which would be detrimental to the fishery.
+  
+As a result, it is unlikely that we can effectively limit catch to the GOM Cod Incidental Catch TAC during the remainder of fishing year 2019. We project that continuation of the Regular B DAS program would undermine the achievement of the objectives of the Northeast Multispecies FMP and the Regular B DAS Program. Effective December 16, 2019, the Regular B DAS Program is closed and use of Regular B DAS is prohibited for the remainder of the 2019 fishing year, through April 30, 2020. This applies to all vessels issued
+
+
+
+

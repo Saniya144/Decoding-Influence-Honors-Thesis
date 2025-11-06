@@ -1,0 +1,154 @@
+NFIB.
+555 12th St. NW, Ste. 1001
+Washington, D.C. 20004
+
+Via www.regulations.gov and U.S. First Class Mail
+
+October 7, 2023
+
+Hon. Charlotte A. Burrows, Chair
+c/o Raymond Windmiller, Executive Secretariat Equal Employment Opportunity Commission 131 M Street NE, Washington, DC 20507
+
+Dear Chair Burrows:
+
+RE:		Equal Employment Opportunity Commission Notice of Proposed Rulemaking Titled "Regulations to Implement the Pregnant Workers Fairness Act," RIN 3046-AB30, 88 Fed. Reg. 54714 (August 11, 2023)
+
+The National Federation of Independent Business (NFIB)1 submits these comments in response to the Notice of Proposed Rulemaking titled "Regulations to Implement the Pregnant Workers Fairness Act" (NPRM) published by the Equal Employment Opportunity Commission (Commission) in the Federal Register of August 11, 2023.
+The Pregnant Workers Fairness Act (PWFA)2 covers, among other entities, a business engaged in industry affecting commerce that has 15 or more employees for each working day in each of twenty or more calendar weeks in the current or preceding calendar year.3 In general, the PWFA requires a covered entity to provide employees and job applicants, who have known limitations related to pregnancy, childbirth, or related medical conditions, with reasonable accommodations to perform the essential functions of their jobs. NFIB recommends and requests changes (in bold typeface below for reader convenience) to the Commission's proposed rules to take appropriate account of the needs of small businesses for reasonable certainty about when an individual ceases to be a PWFA qualified individual, reasonable certainty in scheduling, appropriate assistance with compliance, and appropriate treatment in Commission enforcement practices.
+
+
+1 NFIB is an incorporated nonprofit association representing small and independent businesses. NFIB protects and advances the ability of Americans to own, operate, and grow their businesses and ensures that governments of the United States and the fifty States hear the voice of small business as they formulate public policies. The Pregnant Workers Fairness Act covers, and the proposed rules would cover, many small businesses, including NFIB members.
+
+2 Pregnant Workers Fairness Act (PWFA), Division II in the Consolidated Appropriations Act, 2023 (Public Law 117-328, December 29, 2022) (42 U.S.C. §§ 2000gg - 2000gg-6).
+
+3 42 U.S.C. § 2000gg(2) (definition of "covered entity").
+
+1. Make Clear That "In the Near Future" Cannot Exceed 40 Weeks (Proposed 29 CFR § 1636.3(f))
+
+A "qualified employee" protected by the PWFA includes not only "an employee or applicant who, with or without reasonable accommodation, can perform the essential functions of the employment position" (mirroring the definition of "qualified individual" used in the Americans with Disabilities Act (ADA)4), but also any other employee or applicant who cannot perform the essential functions of the position if "any inability to perform an essential function is for a temporary period," "the essential function could be performed in the near future," and "the inability to perform the essential function can be
+reasonably accommodated."5 The PWFA does not define either "temporary" or "in the near future."
+
+The NPRM proposed to define "temporary" to mean "lasting for a limited time, not permanent, and may extend beyond 'in the near future."'6 The NPRM also proposed to define "in the near future" to mean "the ability to perform the essential function(s) will generally resume within forty weeks of its suspension.''7 But then the Commission goes a step too far, saying: "Further, the Commission recognizes that workers may need an essential function temporarily suspended because of pregnancy; may take leave to recover from childbirth; and, upon returning to work, may need the same essential function or a different one temporarily suspended due to a new or different physical or mental condition related to, affected by, or arising out of pregnancy, childbirth, or related medical conditions."8 In short, the Commission construes its proposed 40-week rule to run separately and perhaps sequentially for each essential function, rather than simultaneously for all essential functions, with the result that the period for accommodation due to pregnancy, childbirth or related medical conditions could last far beyond a full-term pregnancy and recovery period. At some point, a small business must have the ability either to resume counting on the individual to do the job or hire or assign a replacement to do the job. Moreover, the Commission exceeds its rulemaking authority in construing the term "in the near future" to contemplate separate and perhaps sequential 40-week periods, in effect construing "in the near future" in some circumstances to mean "in the distant future." The EEOC is not "free to add or subtract words, phrases, or otherwise change what Congress has written	"9
+
+4 Compare 42 U.S.C. § 200099(6) with 42 U.S.C. § 12111(8).
+5 42 U.S.C. § 2000g9(6)(A), (8), and (C).
+
+6 Proposed 29 CFR § 1636.3(f)(2)(i), 88 Fed. Reg. at 54767, col. 3.
+
+7 Proposed 29 CFR § 1636.3(f)(2)(ii), 88 Fed. Reg. at 54767, col. 3. See also 88 Fed. Reg. at 54724, col. 2 ("The proposed rule defines 'in the near future' to mean generally forty weeks from the start of the temporary suspension of an essential function.").
+
+8 88 Fed. Reg. at 54725, col. 1.
+
+9 Defenders of Wildlife v. Salazar, 729 F. Supp. 2d 1207, 1219 (D. Mont. 2010). See Friends of the Everglades v. South Florida Water Management District, 570 F. 3d 1210, 1224 (11th Cir. 2009) ("But we are not allowed to add or subtract words from a statute; we cannot rewrite t"), cert. denied, 562 U.S.
+1082 (2010).
+
+Accordingly, NFIB requests and recommends that the Commission revise proposed 29 CFR § 1636.3(f)(2) to read:
+
+   (2) Additionally, an employee or applicant shall be considered qualified if the employee or applicant cannot perform one or more essential functions if:
+
+   (i) Any inability to perform an essential function is for a temporary period, where "temporary" means the inability to perform the functions will last for a limited time;
+
+   (ii) the essential function could be performed in the near future, where "in the near future" means the ability to perform all the essential functions will resume within 40 weeks of their suspension; and
+
+   (iii) the inability to perform the essential functions can be reasonably accommodated.
+
+If the Commission is going to issue Interpretive Guidance in advance concerning its regulations then, to conform to the change requested above to proposed 29 CFR § 1636.3(f)(2), NFIB recommends and requests that, the Commission's Interpretive Guidance explicitly state that (a) the 40-week period is a maximum period of suspension of the duty to perform essential functions and the actual period of temporary suspension (which may be less than but not more than 40 weeks) will depend on the needs of the employer and the employee as worked out through the iterative process yielding accommodation absent undue hardship; (b) suspension of the duty to perform essential functions of the job for a period up to forty weeks is not an entitlement; and (c) the PWFA and the implementing Commission rules recognize that accommodations cannot impose an undue hardship on the operation of the business.
+
+
+2. Recognize Explicitly the Need for Reasonable Certainty in Scheduling (Proposed 29 CFR § 1636.3(j)(2))
+
+The NPRM discusses ways that the employee's inability to perform one or more essential functions could be reasonably accommodated, including by temporarily suspending the duty to perform the essential function or functions the employee is unable to perform, temporarily transferring the employee, or allowing the employee to participate in light duty or modified work.10 The Commission stated that "[i]f there is no reasonable accommodation that allows the worker to continue to work, absent undue hardship, the employee may be qualified for leave as a reasonable accommodation if leave does not cause an undue hardship."11
+
+
+
+10 Proposed 29 CFR § 1636.3(i}, 88 Fed. Reg. 54768 and 54769, col.1.
+11 88 Fed. Reg. at 54724, note 64.
+
+While the NPRM's definition of reasonable accommodation provides for the use of leave (paid and unpaid),12 theproposed rules offer no bright line rule on the maximum amount of leave an employer must provide. The Commission further takes the position that
+leave, including intermittent and reduced schedule leave, may be a reasonable accommodation even if the employer does not offer it as an employee benefit.13 The NPRM states that, if an employee requests leave as an accommodation or if there is no other reasonable accommodation that does not cause an undue hardship, the employer must consider providing leave as a reasonable accommodation, even if the employee is not eligible for or has exhausted leave under the employer's policies (including leave exhausted under the Family and Medical Leave Act or similar state or local laws).14 Like all other accommodations, an employer is not required to provide leave if doing so would impose an undue hardship.15 The NPRM notes, however, that an employer who claims a requested leave of absence would cause an undue hardship must provide leave up to the point that it would cause an undue hardship.16
+
+Leave as an accommodation uniquely impacts small businesses in undue hardship determinations. Few small businesses have Human Resources (HR) departments, or even a single employee dedicated to handling HR functions.17 In these companies, most employment decisions, including issues related to reasonable accommodation requests under the ADA, are currently made by the owners of the business, who must take time and attention from running the business to educate themselves about new regulatory requirements. Reasonable accommodation and undue hardship determinations are very fact-intensive inquiries. The challenges facing small businesses should be carefully considered by the Commission with regard to undue hardship determinations.
+Businesses of all sizes face additional expenses during leave, such as paid time off for
+
+12 Proposed 29 CFR § 1636.3(i), 88 Fed. Reg. at 54768, col. 2 ("Reasonable accommodation may include, but is not limited to ... (2) ... permitting the use of paid leave ... or providing additional unpaid leave for reasons, including, but not limited to, recovery from childbirth, miscarriage, stillbirth, or medical conditions related to pregnancy or childbirth, to attend health care appointments or receive health care treatment related to pregnancy, childbirth, or related medical conditions	").
+
+13 88 Fed. Reg. 54728, col. 1 and 2.
+
+14 88 Fed. Reg. 54728, col. 2 ("If an employee requests leave as an accommodation or if there is no other reasonable accommodation that does not cause an undue hardship, the covered entity must consider providing leave as a reasonable accommodation under the PWFA, even if the employee is not eligible for leave under the employer's leave policy or the employee has exhausted the leave the covered entity provides as a benefit (including leave exhausted under a workers' compensation program, the FMLA, or similar State or local laws)." (footnote omitted)).
+
+15 42 U.S.C. § 2000gg-1(1) ("It shall be an unlawful employment practice for a covered entity to-- (1) not make reasonable accommodations to the known limitations related to the pregnancy, childbirth, or related medical conditions of a qualified employee, unless such covered entity can demonstrate that the accommodation would impose an undue hardship on the operation of the business of such covered entity;	").
+
+16 88 Fed. Reg. 54733, col. 2.
+
+17 A small business poll conducted by NFIB found that just 12% of small firms had at least one employee, not including the owner, whose sole job was personnel or human resources. Business Structure, NFIB Small Business Poll, Vol. 4, Issue 7, p. 6 (2004), http://www.411sbfacts.com/files/bizstructurepoll[1].pdf.
+
+the absent employee, overtime pay for current employees covering for the absent employee, and costs to hire temporary employees, but these costs can be especially destructive to small businesses with tight margins and fewer resources.
+
+While small businesses generally will have fewer employees requesting leaves of absence, they will also have fewer resources to accommodate those who do request leave. The indefinite nature of available leave under the NPRM will be particularly burdensome for a small business. It becomes very difficult for a business to plan adequately when a member of a small team is out indefinitely and repeatedly asks for extensions to the leave period after the employee has already given a return-to-work date. While using temporary replacement employees is sometimes an option, albeit an expensive and often a cost-prohibitive one, replacing a skilled employee with a temporary worker can be quite difficult.
+
+Intangible factors also can be a greater concern for small businesses - especially the effect on the business's culture and workforce morale. In small businesses dealing with absences, other employees are generally forced to work overtime, and in areas outside their skill set, to cover for absent employees. These factors, combined with the factors discussed above, can result in significant losses in productivity, lower quality work, decreased morale, and over-burdened and over-stressed employees. While these factors will affect all businesses, small businesses will face the toughest challenges, despite having the least resources.
+
+Accordingly, NFIB recommends and requests that the Commission revise proposed 29 CFR § 1636.3(j)(2)(v) (relating to undue hardship), by striking "and" after subparagraph (iv); striking the period at the end subparagraph (v) and inserting in lieu thereof"; and"; and adding at the end thereof "(vi) The impact of the accommodation upon the operation of the covered entity, including the impact on the work schedule or workload of other employees, the impact on the covered entity's ability to conduct business, and the impact on the covered entity's ability to have reasonable certainty in the scheduling of its employees for work, including with respect to the departure from and return to work of a qualified employee.".
+
+
+3. Take Proper Account of Needs of Small Businesses in Compliance and Enforcement
+
+The Regulatory Flexibility Act (RFA)18 calls for federal agencies to take proper account of the concerns of small businesses. In paragraph 2(a)(4) of the RFA, Congress declared that "the failure to recognize differences in the scale and resources of regulated entities has in numerous instances adversely affected competition in the marketplace, discouraged innovation and restricted improvements in productivity	"
+Congress also noted in paragraph 2(a)(6) of the RFA that "the practice of treating all regulated businesses, organizations, and governmental jurisdictions as equivalent may lead to inefficient use of regulatory agency resources, enforcement problems, and, in
+
+18 Regulatory Flexibility Act, Public Law 96-354, September 19, 1980 (5 U.S.C. § 601 note).
+
+some cases, to actions inconsistent with the legislative intent of health, safety, environmental and economic welfare legislation ...." The Commission should take greater account of the special needs of small businesses in producing its final regulations to implement the PWFA.
+
+First, small businesses cannot afford the lawyers, accountants, and clerks that larger companies use to decipher complex regulations and implement costly business systems necessary to comply with the regulations. Small businesses mostly engage in do-it­ yourself compliance, in which a business owner trying to keep the business afloat attempts to keep up with regulations as much as the owner can. Thus, to help small businesses understand and comply with the PWFA, the Commission should make its regulations as concise and simple as possible, provide simple and free19 compliance assistance geared specifically to small businesses that do not have an HR professional, and produce a document for small business for PWFA compliance like the Commission's The ADA: A Primer for Small Business.20
+
+Secondly, when the Commission helps small businesses to comply with its regulations, the Commission serves the goals of federal equal opportunity laws much better than when it initiates civil proceedings, refers for prosecution, or otherwise enforces the laws. Small business owners acting in good faith, who have done the best they can to understand and comply with the large, ever-growing, and ever-changing body of Commission regulations and guidance, should have an opportunity to correct a violation and come into compliance, without any enforcement action. Thus, when the Commission writes regulations, the Commission should allow for an opportunity to cure a violation by a small business that acted in good faith and should provide for enforcement against small businesses only in cases of willful or repeated violations.
+
+Accordingly, NFIB requests and recommends that the Commission add the following new subsection at the end of proposed 29 CFR § 1636.5:
+
+(h)(1) For purposes of this subsection, the term "small business" means a covered entity with more than 15 but not more than 50 employees.
+
+(2) In implementing the Pregnant Workers Fairness Act (PWFA) in light of the policy declared in the Regulatory Flexibility Act, the Commission shall--
+
+(A) make available at no cost for small businesses (i) written and audiovisual educational materials on compliance with the PWFA, including materials specifically designed for use by small businesses that do not employ a human resources professional, and (ii) a written primer to aid in
+
+19 EEOC should offer a webinar and training materials at no charge to small entities. The Commission's virtual and in-person trainings come with a hefty price tag that puts them out of range for the average small business owner, with one-hour virtual briefings currently costing $115. See https://www.eeoc.gov/training-institute/eeo-workshops.
+
+20 The ADA: A Primer for Small Business, EEOC (2002) (with update), see https://www.eeoc.gov/laws/guidance/ada-primer-small-business#hiring.
+
+7
+
+understanding the obligations of employers and employees under the
+PWFA;
+
+(B) take into account, in the enforcement of this Part 1636, the size of, and resources available to, a covered entity, and the covered entity's efforts in good faith to understand and comply with this Part 1636; and
+
+(C) provide to small businesses written notice of a violation of this Part 1636 and an opportunity to correct such violation without enforcement action (and with dismissal of the charge, if any) based on that violation, except in the case of willful or repeated violations.".
+
+* * * * *
+
+NFIB appreciates the opportunity to comment on the proposed regulations for the Pregnant Workers Fairness Act. As the Commission considers a final rule, please bear in mind the needs and constraints of small businesses and the disproportionate burden that regulations impose on them.
+
+Sincerely,
+c&:' d,a,
+Elileth A. Milito, Esq.
+Executive Director,
+NFIB Small Business Legal Center
+
+
+7)::::/;gl e,._."--"1/1"1.lA
+David S. Addington Executive Vice President and General Counsel, NFIB
+
+
+
+
+
+
+
+
+
+
+
+
+
+

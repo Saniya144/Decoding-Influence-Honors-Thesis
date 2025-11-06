@@ -1,0 +1,137 @@
+Economic Policy Institute
+
+December 20, 2022
+
+Roxanne L. Rothschild Executive Secretary
+National Labor Relations Board 1015 Half Street, SE Washington, DC 20570
+
+Re: Standard for Determining Joint-Employer Status (RIN 3142-AA21)
+
+Dear Ms. Rothschild:
+
+The Economic Policy Institute (EPI) is a nonprofit, nonpartisan research center created in 1986 to include the needs of low- and middle-income workers in economic policy discussions. EPI conducts research and analysis on the economic status of working America, proposes public policies that protect and improve the economic conditions of low- and middle-income workers, and assesses policies with respect to how well they further those goals.
+
+EPI is submitting this comment in response to comments on the Standard for Determining Joint-Employer Status (RIN 3142-AA21): the comment submitted by the International Franchise Association (IFA), posted on December 8, 2022; the comment submitted by the U.S. Chamber of Commerce (USCC), posted on December 8, 2022; the comment submitted by McDonald's USA, LLC, posted on December 8, 2022; and any other comments that cite or repeat the findings of the IFA/USCC survey by Ronald Bird, Ph.D as the basis of their quantitative analysis of the economic impact of the joint employer standard.
+
+As we did when this survey was previously cited in 2019, EPI strongly rejects the legitimacy of the IFA/USCC survey, and rejects the idea that it should form the basis for any economic impact analysis. Attached, please find our original analysis of the disqualifying flaws in this survey.
+
+As expressed in our original comment on this rulemaking, submitted on December 7, 2022, we urge the Board to adopt the standards proposed in this rulemaking. EPI's analysis, based upon a rigorous analysis of standard government datasets, conservatively estimates that currently proposed rule will result in a boost of pay to workers of $1.06 billion annually, or $20.4 million per week. By adopting a joint- employer standard that enables workers to more effectively unionize and collectively bargain, more workers will be able to win the benefits of union representation, including higher wages. Our estimate almost certainly understates the economic benefits to workers brought by the Biden administration's rule change. Our less conservative estimates suggest a range of long-run benefits to workers between $1.79 billion and $3.97 billion per year. We urge the NLRB to disregard the IFA/USCC analysis in its evaluation of the economic impact of a joint employer standard on franchise businesses.
+
+Sincerely,
+
+Celine McNicholas
+Director of Policy & Government Affairs and General Counsel Economic Policy Institute
+
+
+
+
+1225 Eye St. NW, Suite 600	Washington, DC 20005
+Phone: 202-775-8810
+
+
+
+Heidi Shierholz, Ph.D. President
+Economic Policy Institute
+
+John Schmitt, Ph.D.
+Senior Economist and Senior Adviser Economic Policy Institute
+
+
+
+
+Economic Policy Institute's Critique of the IFA's 2019 Economic Impact Analysis of an Expanded Joint Employer Standard 
+
+EPI strongly rejects the legitimacy of the IFA/USCC survey that forms the basis of the quantitative analysis in the USCC economic impact analysis. The survey-undertaken by IFA with the assistance of USCC-consisted of a small sample of 77 non-randomly-selected interviews, only 54 of which had usable responses for the quantitative analysis that makes up the primary conclusions of the USCC economic impact study. The USCC comments do not disclose how the 77 initial respondents were selected, other than to say that they were "franchise business entrepreneurs" and "knowledgeable observers" who had "direct experience of business conditions in the franchise sector before and after the 2015 decision." The IFA comments, however, note that the interviews were restricted to IFA members.
+As a result, the sampling frame for the survey that forms the basis of the USCC's quantitative analysis regarding the effect of a joint employer standard was restricted to members of an organization, the IFA, that has a publicly stated agenda of weakening joint employer standards.1 As members of the IFA, the respondents have also been exposed to repeated messages from the Association detailing what it believes are the adverse consequences of Browning-Ferris.2 Thus, the respondents were an exceptionally self- selected and biased group, and to assert that the results are at all generalizable to the broader economy flies in the face of the most elementary principles of survey sampling. Other issues (e.g., issues with nonresponse bias, nonrandom selection from the sampling frame, and the survey technique, described below) notwithstanding, the sampling frame from which the respondents were selected means the results can theoretically be generalized to only the following group: individuals who have proactively chosen to become a member of an organization that supports weakened joint employer standards. This survey cannot provide any reliable quantitative information about the broader impact of a joint employer standard.
+
+Moreover, even within that self-selected-and thus biased-sampling frame, the comments do not state how the respondents were selected. In particular, the comments do not provide information on whether or not the respondents were randomly selected from within the IFA's membership, and they do not assess
+
+1 See, e.g., IFA's 2017 online annual report at http://ifa-annual-report.s3-website-us-west-2.amazonaws.com/2017- annual-report.
+2 See, e.g., Catherine Monson, "What's Behind the National Labor Relations Board's New Joint-Employer Standard," International Franchise Association website, n.d., https://www.franchise.org/what-s-behind-the-national- labor-relations-board-s-new-joint-employer-standard; International Franchise Assocation (IFA), "NLRB Gifts Franchise Businesses with Important Ruling in Browning-Ferris, but More Work to Be Done" (IFA blog post), n.d., https://www.franchise.org/nlrb-gifts-franchise-businesses-with-important-ruling-in-browning-ferris-but-more-work- to-be-done; International Franchise Association, "In Time for the Holidays, IFA Welcomes NLRB Reversal of Joint Employer in Browning Ferris Decision" (press release), December 14 (year not provided), https://www.franchise.org/in-time-for-the-holidays-ifa-welcomes-nlrb-reversal-of-joint-employer-in-browning-  ferris-decision.
+
+
+
+the potential nonreponse-bias related to the fact that only 70 percent of the initial 77 respondents provided usable responses for the quantitative analysis. No credible survey research fails to describe in detail how respondents were selected. Even further, the comments do not provide the full text of the survey. For example, we do not know the wording of the question concerning whether franchisees have experienced "distancing." This is of great concern because the survey questions that are disclosed include leading questions that will have generated biased responses. For example, one question was, "How much additional annual royalty percent of gross revenue would you be willing to pay to obtain the valuable services from your franchisor that you say you no longer receive in the post-Browning-Ferris environment?" The use of the word "valuable," steering respondents toward a higher number, breaks with the most basic standards of neutral questionnaire design.
+
+Further, the "contingent valuation" approach used to quantify the effect on franchisee output of potential distancing behavior by franchisors is a highly controversial methodology in economics. In this methodology, respondents are asked how much they would be willing to pay to have some hypothetical good thing happen (or to have some hypothetical bad thing not happen), or how much they would have to be paid to be willing to have some hypothetical bad thing happen (or to have some hypothetical good thing not happen). The primary-and devastating-critique of the contingent valuation technique is that respondents' answers often are not a legitimate valuation and instead tend to be invented in response to the questions. MIT economist Jerry Hausman, in a 2012 article in the Journal of Economic Perspectives, provides a wide variety of evidence that the answers to such surveys, far from providing useful information for public decision-making, are often made up on the spot. He finds that "respondents to contingent valuation surveys are often not responding out of stable or well-defined preferences, but are essentially inventing their answers on the fly, in a way which makes the resulting data useless for serious analysis."3 He concludes-as Nobel-prize-winning economist Peter Diamond also concluded two decades earlier4-that contingent valuation is "hopeless" and that having no number at all is better than a contingent valuation estimate. These fundamental problems with contingent valuation, combined with the highly biased sampling frame described above, mean that the quantitative results from the IFA/USCC survey should not be given any weight in the NLRB's deliberations during this rulemaking process.
+
+The validity of the USCC analysis is further undermined by its odd claims about the role of the 99.9% confidence interval associated with their survey-based estimates of the effect of the Browning-Ferris decision on output. The lower bound of the 99.9% confidence interval is presented as if it addresses the survey's egregious problems:
+
+"The lower bound (99.9% confidence) value is shown to reflect potential sensitivity of the sample mean to sample size, sample frame selection, the valuation survey method and non-response biases that may be present. The lower bound estimate of 2.55% output loss, indicates a statistically significant impact even under extreme statistical error assumptions regarding the representativeness of the sample with respect to the subject population. There is less than a one in one thousand chance that another survey or a census of the entire population of franchisors and franchisees would yield a smaller impact estimate than the indicated lower bound amount for this sample."
+
+These claims fly in the face of the most elementary principles of statistics. A confidence interval constructed in the standard way cannot-no matter how wide-account for nonrepresentativeness of the sampling frame, nonresponse bias, or the quality of the survey technique. A fundamental assumption
+
+3 Jerry Hausman, "Contingent Valuation: From Dubious to Hopeless," Journal of Economic Perspectives 26, no. 4 (2012): 43-56.
+4 Peter A. Diamond and Jerry A. Hausman, "Contingent Valuation: Is Some Number Better Than No Number?" Journal of Economic Perspectives 8, no. 4 (1994): 45-64.
+
+
+
+underlying the type of statistical analysis of survey data conducted in the USCC's comments is that the sample is randomly selected from the population about which inference is being made; a confidence interval cannot account for that assumption not being met. In fact, a confidence interval can account only for the natural variability of a random sample taken from the population of interest, i.e., a confidence interval accounts only for the fact that even a random draw from the population of interest can result in an unrepresentative sample from time to time, simply by chance. A confidence interval does not and cannot account for a nonrandom sample, a nonrepresentative sampling frame, nonresponse bias, or a poor-quality survey technique. Such an egregious misunderstanding of the role of a confidence interval calls into question the entire analysis.
+
+Further, setting aside all the profound issues with the analysis already described, it is important to note that the analysis ignores the two primary impacts of the proposed rule: (1) the negative effect on establishments (franchisees, subcontractors, temporary help firms, etc.) of having to shoulder, alone, the liability for, e.g., complying with labor standards, even though the lead firm would still be able to exert control over the terms and conditions of employment, and (2) the effect on the workers whom the proposed rule would put in the position of being essentially unable to organize and collectively bargain. EPI did not attempt to quantify the first factor but found, conservatively, that the second factor would cost workers $1.3 billion per year in the long run.5 To the extent that contingent valuation methods are valid, which we dispute, an obvious implication of that approach in the context of a public policy decision such as this one is that workers at affected firms should be asked their monetary valuation of the protections provided by current joint-employer regulations.
+
+Independent of our serious concerns about the survey design and statistical analysis, we also note that the suggestions of economic burden raised here are inconsistent with basic economic theory.6 The Browning- Ferris decision did not increase the total liability for labor law violations potentially faced jointly by franchisors and franchisees. The decision, at most, expanded the instances when that liability will be joint rather than falling solely on the franchisee.7 The franchisor and franchisee are already in a complex, detailed contractual relationship. If the franchisor is reluctant to provide certain services to the franchisee because of the fear of liability, the two parties can include in their franchising agreement (through a simple indemnification clause or otherwise) language that specifies how the costs of any labor law violations will be paid, preserving the franchisee's access to important services in exchange for the franchisee agreeing to pay for all or part of the liability that it was solely responsible for prior to the Browning-Ferris decision. To the extent that a franchisee is, in fact, no longer receiving services that are highly valued, the franchisor and franchisee have a strong economic incentive-and ability-to write contracts that allocate any potential liability between them in the most efficient manner to ensure the services continue to be provided, and they would be expected to do so.
+
+Finally, any purported evidence that the Browning-Ferris decision resulted in meaningful economic burden is even further undermined by the strongly disproportionate growth in franchises relative to other types of businesses in the post-Browning era. For example, between 2014 and 2017, nonfranchise private-
+
+
+5 The EPI analysis finding that workers would lose $1.3 billion annually, along with a detailed description of the methodology, was posted to the Federal Register on December 10, 2018, and can be found at https://www.regulations.gov/document?D=NLRB-2018-0001-7803.
+6 R.H. Coase, "The Problem of Social Cost," Journal of Law & Economics 3 (1960): 1-44.
+7 See Capitol EMI Music, Inc., 311 NLRB 997 (1993) (defining circumstances under which joint employers are jointly and severally liable for unfair labor practices). Even if the franchisor's new obligation is to bargain instead of to remedy an unfair labor practice, the parties will also allocate that responsibility by contract, for example, by the franchisee simply designating the franchisor as its agent for purposes of bargaining with instructions as to what the franchisor will agreed to.
+
+
+
+sector employment in the U.S. grew by 6.0 percent, whereas franchise employment grew by 11.1 percent,
+nearly twice as fast.8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8 Analysis of data from the ADP Research Institute shows that franchise employment averaged 7.78 million in 2014 and 8.64 million in 2017, an increase of 11.1 percent, whereas nonfranchise private-sector employment (found by subtracting franchise employment from overall private-sector employment) averaged 109.26 million in 2014 and
+115.79 million in 2017, an increase of 6.0 percent. ADP Research Institute, National Employment Report: National Franchise Report-January 2018 [downloadable Excel file]).
+
+

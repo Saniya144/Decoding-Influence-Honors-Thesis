@@ -1,0 +1,249 @@
+
+
+
+
+
+December 20, 2010
+
+OSHA Docket Office, Docket ID OSHA-
+2007-0072 or RIN No. 1218-AB80,
+Technical Data Center, Room N-2625,
+OSHA, Department of Labor 
+200 Constitution Ave., NW., 
+Washington, DC 20210
+
+Please accept this outline and letter submitted August 19, 2010 as testimony on behalf of the International Window Cleaning Association for the OSHA public hearing being held on January 18, 2011.
+
+The IWCA has over 475 professional window cleaning member companies.   We conservatively estimate that these companies employ over 4,500 workers who use rope descending systems on a daily basis.
+
+The official position of the IWCA for identifying accepted safe practices for the window cleaning industry is the ANSI/IWCA I-14 Window Cleaning Safety Standard.  
+
+Speaking Topics Outline-reference IWCA Letter, August 19, 2010
+
+Written Assurances by Building Owner/Manager
+	Compliance with American National Standards
+
+Accident Information
+	Accident Analysis 
+
+Consideration of the Use of RDS
+	Versus Other Methods of Suspended Equipment
+	Responsibility for Determination of Safety and Practicability of Other Means
+	Exposure to Environmental Conditions
+
+RDS Anchorage Points
+	The Danger of Having to Find Sound Anchors
+	
+
+The Question of Stabilization for RDS
+
+Closing
+
+August 19, 2010
+
+OSHA Docket Office, Docket ID OSHA-
+2007-0072 or RIN No. 1218-AB80,
+Technical Data Center, Room N-2625,
+OSHA, Department of Labor 
+200 Constitution Ave., NW., 
+Washington, DC 20210;
+
+Please accept and consider these comments submitted on behalf of the International Window Cleaning Association. 
+
+Rope Descent Systems (RDS) are by far the primary means of access for cleaning windows on most buildings in the United States. As Secretariat to the ANSI I-14 Window Cleaning Safety Standard, the IWCA has played a major role in improving safety in our industry.  We thank OSHA for its' continued efforts to make the job of our employees' safer. 
+
+A common theme throughout our response is the need to require building owners to provide certified, inspected anchorages on their buildings in a fashion that is in compliance with the ANSI I-14 window cleaning standard. We strongly believe that this single change will prevent accidents and save lives.
+
+We hope that this information is helpful.  If there are further questions, please feel free to contact our organization.
+
+Sincerely, 
+
+Victor Munson
+President-2010
+
+
+Under § 1910.66, Powered platforms for building maintenance, OSHA requires building owners to provide an employer with a certification of inspection, testing, and maintenance of anchorages for powered platforms used in building maintenance. 
+
+1.   OSHA requests comments on whether it should require building owners to provide employers with the same information required by § 1910.66.
+
+OSHA is aware that some window cleaning companies are using the powered platform certified anchorages for rope descent systems. If OSHA were to adopt the same requirement, those building's owners would have no additional obligation to comply with the language under consideration. OSHA believes that many building owners already meet the § 1910.66 requirements or the provisions of ANSI/IWCA I-14.1. 
+
+For instance, it is the Agency's understanding that the General Services Administration (GSA) updated its policy to require building anchors to be installed during construction or extensive remodeling of government buildings.
+
+IWCA agrees that building owners should provide employers with the same information required by §1910.66, a certification of inspection, testing, and maintenance of anchorages for RDS used in building maintenance.  Without this provision, workers using RDS or transportable scaffold equipment are protected to a much lesser degree compared to workers using permanent installations.
+
+The anchorages need to be compatible and compliant with the type of suspended access equipment being used. More specifically, Rope Descent Systems (RDS) typically requires more anchorages than scaffolds and these anchors should be designed, approved, and used in that manner. This need is further detailed in response to item number 5.
+
+OSHA referenced in Item 1: 
+
+"OSHA believes that many building owners already meet the 1910.66 requirements or the provisions of the ANSI/IWCA 1-14.1."
+
+IWCA respectfully disagrees with this and has reason to believe that approximately only 10% of high-rise buildings (commercial, condominiums, facilities, hospitals, etc.) meet the aforementioned requirements. In 1990, OSHA began an effort to determine whether or not building owners should be required to provide a safe place to work by assuring that structurally sound anchorage points exist on buildings.  Since that time, the IWCA has been steadfast in it's plight to suggest the requirement for buildings to have and maintain a certifiable anchorage system.  The creation and increasing acknowledgment of the I-14, has proven that the building owners will in fact install an anchorage system if strongly suggested, which has now just begun to take place.  However, only now are we just beginning to see action, and believe as few as 10% of all buildings have complied during the 9 years the I-14.1 was published since October 2001.  The I-14 initiated this movement.  If this is not a requirement in the new subpart D&I, the efforts made over the last 9 years with the I-14, will stop in it's tracks, and the buildings now in compliance with the I-14, will be reduced over time.  This is not in the best interest of safety for the window cleaning industry or the general public.  The IWCA strongly suggests to make this a requirement.
+
+2.  To have the most complete information on RDS incidents, OSHA requests comment on incidents, including fatalities, injuries, and near misses, that have occurred while using this equipment. 
+
+IWCA's window cleaning accidents database shows 65 incidents with 31 fatalities by window cleaners using RDS since 1995. We attached files (IWCA Window Cleaning Accidents.zip) that substantiates the information.
+
+3.  Additionally, OSHA requests information regarding any other provisions that should be included in the final rule to increase worker safety, including whether or not RDS should be prohibited or should be allowed only when the employer can demonstrate that other methods, such as powered platforms, are not feasible or pose additional safety risks. 
+
+IWCA agrees that RDS should not be prohibited and should be allowed as a substitute to the means and methods originally designed into the building or structure to perform window cleaning when the eight provisions of OSHA's 1991 memorandum and the national consensus standard, IWCA I-14.1-2001 are met. 
+
+The specific requirements in this proposed rule are based on the eight provisions of OSHA's 1991 memorandum and the national consensus standard, IWCA I-14.1-2001. These provisions are described in the following paragraphs. Additionally, although some provisions of this section are essentially the same as provisions in proposed subpart I, OSHA believes it is appropriate for the provisions to be presented here, in proposed subpart D, as a complete unit for ease of compliance and enforcement.
+
+Proposed paragraph (b)(1) prohibits the use of RDS at heights greater than 300 feet (91.4 m) above grade unless the employer can demonstrate that access cannot otherwise be attained safely and practicably. Therefore, RDS would be permitted at heights of 300 feet (91.4 m) or less.
+
+While the March 12, 1991, memorandum did not include a 300-foot limitation, the national consensus standard, IWCA I-14.1-2001 (section 5.7.12), prescribes the limitation. OSHA uses IWCA I-14 (section 5.7.11) as the basis for this prohibition, noting that the greater the length of rope used for a descent, the greater the adverse effects of environmental factors such as wind gusts, microbursts, or tunneling wind currents; these effects increase the risk of injury to employees. For this reason, OSHA believes it is appropriate to propose this prohibition. 
+
+Proposed paragraph (b)(2) establishes eleven requirements employers must meet when RDS are used. 
+
+Proposed paragraph (b)(2)(i) requires RDS to be used in accordance with the instructions, warnings, and design limitations set by manufacturers and distributors. Equipment is to be used only as the manufacturer designed it to be used. For instance, ropes and equipment that are designed and sold for recreational climbing are not always rated for industrial use. OSHA is aware that some elements of one manufacturer's system may be compatible with elements of a different manufacturer's system; however, incompatibility of systems can be disastrous. 
+
+4.  OSHA requests comment on whether changing the provision to read ''set by manufacturers or qualified persons'' (using the word ''qualified'' as defined in proposed § 1910.21) would be more appropriate. 
+
+IWCA agrees changing the provision to "set by manufacturers or qualified persons" would be more appropriate. 
+
+Proposed paragraph (b)(2)(ii) requires employee training in accordance with proposed § 1910.30. OSHA believes that RDS can be safely used only if employees are thoroughly knowledgeable in the equipment and its proper use. 
+
+The IWCA supports this.
+
+Proposed paragraph (b)(2)(iii) requires daily inspection of all equipment used in RDS before use. Also, any damaged equipment must be removed from service. This inspection enables changes and defects (such as abrasions and cracks) that occurred during the last use or during storage to be discovered, and appropriate action taken. This provision is reflected in a similar requirement in proposed § 1910.140, Personal fall arrest systems.
+
+The IWCA supports this.
+
+Proposed paragraph (b)(2)(iv) requires proper rigging, including sound anchorages and tiebacks, with particular emphasis on providing tiebacks when counterweights, cornice hooks, or similar non-permanent anchorages are used. Sound anchorage and tiebacks are essential to the safety of RDS. Emphasis is placed upon non-permanent anchorages because of the increased possibility of damage during transport and improper installation. 
+
+The IWCA supports this.
+
+5.  The Agency requests comment on whether this provision is sufficient to ensure the safety of anchorages, and whether OSHA should include any specific requirements for anchorages beyond those presented here.
+
+The IWCA supports proper rigging including sound anchorages and tiebacks.  In addition, the IWCA would recommended that OSHA reference section 1.6.2.a) thru d) Assurances of the ANSI/IWCA I-14.1-2001 Window Cleaning Safety Standard and OSHA's requirement that building owners provide an employer with a certification of inspection, testing, and maintenance of anchorages as required in §1910.66. 
+
+The following attachments support our strong request that building owners provide an employer using RDS 
+with a certification of inspection, testing, and maintenance of anchorages as required in §1910.66. These are:
+A. Attachment A - Incident/Accident file
+B. Wording from actual OSHA citations - Attachment B - OSHA citations of window cleaners 2008-2009
+C. Pictures of what can take place as a result of employers and workers being told to "use sound anchorages" versus when the building owners/managers provide a certified anchor system compatible with RDS
+D. Description of why additional are typically needed when powered platform certified anchorages are used for RDS
+
+
+Attachment A
+
+As the separately attached accident files are reviewed, approximately 90 percent of the incidents with RDS were caused by the workers using substandard anchoring points, a primary reason the IWCA supports OSHA requiring building owners/managers to provide outside contractors a safe place to work. 
+
+iwcawindowcleaningaccidents.zip
+
+Attachment B
+
+Below are only a few samples of OSHA citations issued against window cleaning contractors in 2008-2009 noting that substandard anchoring points and methods were being used.  Company names have been removed.
+
+1.  "Also the outrigger was tied back to a fence located on the ground with a knot."
+
+2.  Section 5(a)(1) of the Occupational Safety and Health Act of 1970: The employer did not furnish employment and a place of employment which were free from recognized hazards that were causing or likely to cause death or serious physical harm to employees in that employees were exposed to falls: a) 575 Washington Blvd, Jersey City, NJ Three window washers in boatswain's chairs were not properly anchored, in that the rigging line and the life line were not independent of each other and each chair was not using its own anchorage point. Additionally, two of the window washers had damaged lanyards as part of their fall protection system. Violation was observed on or about 4/24/10. AMONG OTHER METHODS, ONE FEASIBLE AND ACCEPTABLE ABATEMENT METHOD TO CORRECT THIS HAZARD IS TO: 1. Ensure that all components of the fall protection system, such as, but not limited to lanyards and harnesses are free of damage. 2. Ensure that the life line and the chair rigging are anchored separately (not as one unit) and that only one chair is anchored to one anchor at a time
+
+3. Section 5(a)(1) of the Occupational Safety and Health Act of 1970: The employer did not furnish employment and a place of employment which were free from recognized hazards that were causing or likely to cause death or serious physical harm to employees in that, employees were exposed to fall hazards: a) On or about August 3, 2009 and at times prior, employees were exposed to falls in excess of 50 feet while performing window cleaning operations on a boatswain's chair with a rope descent system due to the following deficiencies: 1. The life line for the fall arrest system and tieback line for the portable rolling outrigger unit were attached to structures on the roof with unknown strengths that were not certified anchor points.
+ 
+4.  "Ropes for the Rope Descent and Personal Fall Arrest Systems were tied around the unsecured pipes that were lying in front of the doorways of the hotel rooms. The ropes were then carried into an adjacent hotel room and tied around the toilet.".
+
+5.  Section 5(a)(1) of the Occupational Safety and Health Act of 1970: The employer did not furnish employment and a place of employment which were free from recognized hazards that were causing or likely to cause death or serious physical harm to employees in that employees were exposed to the hazard of falling from heights: (a)On or about 06/10/09 - 22nd Street North, Birmingham, AL, employees cleaning exterior windows utilizing a Rope Descent System (RDS) were not protected from falling in that the employees did not have a full body harness connected to a separate life line, the ropes being used were over two years old, the system was not connected to an approved anchor point.
+
+6.  Section 5(a)(1) of the Occupational Safety and Health Act of 1970: The employer did not furnish employment and a place of employment which were free from recognized hazards that were causing or likely to cause death or serious physical harm to employees in that employees with out proper training were exposed to fall hazards when working on or around suspended window cleaning equipment with multiple deficiencies in design, approval, set-up, maintenance, and work practice: (a) 131 S. Barstow St. in Eau Claire, WI: On 6/16/09, a suspended window cleaning employee sustained a fall of approximately 6 stories from the roof level to the ground level of an office building while attempting to descend on the Barstow St. side of the building. Multiple deficiencies were noted with the equipment and work practices utilized such as, but not limited to, the following: (1)The portable rolling outrigger system was not engineered, designed, and approved by any manufacturer for use in window cleaning operations. (2)The load supporting roof parapet had not been structurally verified by a registered professional engineer as to its capacity to hold the intended load with a factor of safety not less than 4 to 1. (3)Suspended window cleaning work was allowed to be performed without ensuring that identifiable and certifiable anchorage points were in place for the safety line, the outrigger, and the boatswain's chair descent system.
+
+7.  Section 5(a)(1) of the Occupational Safety and Health Act of 1970: The employer did not furnish employment and a place of employment which were free from recognized hazards that were causing or likely to cause death or serious physical harm to employees, in that, employees were exposed to fall hazards: Jobsite at Sovereign Bank Building, 1350 Main Street, Springfield, MA: On or about 6/11/09 employees were exposed to fall hazards while using rope descent systems to wash the exterior windows of the seventeen (17) story building. 1. Primary working lines and safety lines were tied to the same guardrail structure on the roof. The tie off points had unknown strength.
+
+8.   Section 5(a)(1) of the Occupational Safety and Health Act of 1970: The employer did not furnish employment and a place of employment which were free from recognized hazards that were causing or likely to cause death or serious physical harm to employees in that an employee was exposed to a fall hazard: a) Florida South Hospital, Orlando, on or about 5/12/08, the window washing system had loose bolts and one rope was used for the safety line and the working line. Further, this rope was attached to the counter weights on the suspension device, in that, the building did not have an anchorage point to tie off to.
+
+9.  Section 5(a)(1) of the Occupational Safety and Health Act of 1970: The employer did not furnish employment and a place of employment which were free from recognized hazards that were causing or likely to cause death or serious physical harm to employees in that employees were exposed to falls: a) 420 Lime Street, Lakeland, FL - An employee (window washer) using a portable counterweighted outrigger suspension device was exposed to falls of six stories from the roof to the ground below in that: 1. The employer did not ensure that the building had provided, identified and certified anchorages for: independent safety lines; tie-backs for outriggers,
+
+10.  Section 5(a)(1) of the Occupational Safety and Health Act of 1970: The employer did not furnish employment and a place of employment which were free from recognized hazards that were causing or likely to cause death or serious physical harm to employees in that employees were exposed to the hazards of falling 40 ft to the ground below from the fourth floor: a)Fourth Floor, South Side of The Building - A supervisor, pressure washing the side of the building, fell 40 feet to the ground below. Deficiencies in the employer's work safety and fall protection plan resulted in the supervisor falling 4 floors, including, but not limited to: failure to ensure that suspended work was not performed unless it was determined that the building had provided, identified and certified anchorages complying with Section 9 and 10 of ANSI/IWCA I-14.- 2001 for independent safety lines and primary support anchorage for rope descent system for manual boatswain's chair.
+
+
+Attachment C
+Pictures of what can take place as a result of employers and workers being told to "use sound anchorages" versus when the building owners/managers provide a certified anchor system compatible with RDS
+This
+
+
+
+Versus
+
+
+
+Attachment D
+
+D)	OSHA referenced under Item 1:
+"OSHA is aware that some window cleaning companies are using the power platform certified anchorages for rope descent systems. If OSHA were to adopt the same requirement, those building's would have no additional obligation to comply with the language under consideration"
+
+Rope Descent Systems (RDS) typically require more anchorages than powered platforms require. Picture 1 below show anchoring points that may comply with 1910.66 as they were designed and installed at a distance which is the typical size for a powered platform (20-30 feet).  
+
+
+Picture 1
+
+
+However, they would not work for rope descending systems for reasons such as the anchors being too far apart. The anchors should be in a straight line from where the worker descends from the roof  to the facade of the building.  Engineering calculations do allow for a variance of 15 degrees in each direction from a straight line off the anchorage point as shown in the diagram on the right. This ensures that the weight of the worker will not cause any movement of the rope on the roof edge once they're suspended.              
+
+
+
+When anchorage points are too close to the building edge and/or too far apart, workers will string them together using a horizontal line as demonstrated in picture 2 and shown in use in picture 3.
+
+ 			 
+		Picture 2						Picture 3
+
+The I-14 Standard and the Z-359 Standards state that a horizontal line must be designed by and; installed under the supervision of a licensed professional engineer.
+
+If a horizontal line is used it should be done in accordance with 9.1.11 of the ANSI/IWCA I-14.1-2001 Window Cleaning Safety Standard;
+
+"A horizontal (rope) line may be used as an anchorage or may be a fundamental part of a fall arrest system. In all cases, horizontal lines shall be designed by or under the direct supervision of a registered professional engineer experienced in such designs"
+
+This is also written the Z-359 standard and is important because if a horizontal line is run from A to B as shown in Picture 2 above, and the weight of the worker being suspended over the side in the direction of the arrow is 180lb. The actual force on A & B will be nearly 6000lbs which is well over the 5000lb ultimate capacity of a roof anchor.
+
+In essence, the anchorages shown above may meet the requirements of 1910.66 but they will most certainly not meet the requirements of the ANSI IWCA I-14.1 Standard and the ANSI Z-359 Standards.
+
+
+Proposed paragraph (b)(2)(v) requires a separate, independent personal fall arrest system meeting the requirements of subpart I of this part to be used so that any failure in a friction device, support seat, support line, or anchorage system will not affect the ability of the fall arrest system to operate and quickly stop the employee's fall. This requirement is consistent with existing § 1910.66(j) and § 1926.451(g), and is reflected in proposed § 1910.140.
+
+The IWCA supports this.
+
+Proposed paragraph (b)(2)(vi) requires that all lines be capable of sustaining a minimum tensile load of 5,000 pounds (2,268 kg). This requirement does not preclude the use of a knot, swage, or eye splice that reduces the tensile strength of a rope, but it does require that when such a knot, swage, or splice is used, the rope must have a resulting strength capable of supporting a minimum tensile load of 5,000 pounds (2,268 kg).  This provision is the same as a requirement in proposed § 1910.140, Personal fall arrest systems. 
+
+The IWCA supports this.
+
+Proposed paragraph (b)(2)(vii) requires the employer to provide for prompt rescue of employees in the event of a fall. This provision is the same as a requirement in proposed § 1910.140.
+
+The IWCA supports this.
+
+Proposed paragraph (b)(2)(viii) requires ropes to be effectively padded when they contact edges of the building, anchorage, obstructions, or other surfaces that might cut or weaken the rope. Padding protects ropes from abrasions that can weaken the tensile strength of a rope.
+
+The IWCA supports this.
+
+Proposed paragraph (b)(2)(ix) requires stabilization at employee work locations when descents are greater than 130 feet (39.6 m). As required in ANSI/IWCA I- 14 (section 5.7.12), stabilization at the specific work station reduces risks imposed by sway. 
+
+The IWCA supports this.
+
+6.  The Agency requests information on stabilization methods commonly used, and other stabilization methods not commonly used that may increase employee safety. Please include information regarding costs and benefits of these methods.
+
+IWCA agrees that the most common method of stabilization on RDS is suction cups.  As far back as July 31, 1992, Patricia K. Clark, Directorate of Compliance Programs stated in a letter to Michael Bell, "The intent of this item (#8 on March 12, 1991 Memorandum to Regional Administrators) is to ensure that employees are furnished with a device or devices to provide intermediate stabilization for descents in excess of 130 feet (stabilization at the specific work location, i.e. window).  A device could be something as simple as an acceptable suction cup attached to the worker's seat board by a short lanyard."  The IWCA agrees that for the past 20 years, suction cups have been the most commonly used method of stabilization.  The I-14.1-2001 Window Cleaning Safety Standard in section 5.7.12 c) lists suction cups as an acceptable means of work station stabilization.  The cost of a suction cup is around $40.00 and the benefits are they are small but affective.
+
+The greater the length of rope used for a descent, the greater the adverse effects of environmental factors such as wind gusts, microbursts, or tunneling wind currents; these effects increase the risk of injury to employees. 
+
+7.  OSHA requests information on the use of RDS during inclement weather. 
+
+IWCA agrees that RDS should not be used during inclement weather.  Because of the nature of RDS, should inclement weather suddenly develop, a worker can stop work and be on the ground in a matter of minutes.  Therefore, of the 65 incidents and 31 fatalities which occurred by users of RDS in the window cleaning industry since 1995, not one occurred as a result of a lack of stabilization or using the equipment during wind gusts, micro bursts or tunneling wind currents.
+
+8.  Should the use of RDS be prohibited in certain weather conditions? If so, what are those conditions? How should an employer determine whether the conditions are severe enough to prevent the use of RDS? The term ''excessive winds'' as used in the consensus standard is subjective and open to differing interpretations. How should the term be defined? 
+
+IWCA agrees that the use of RDS should be prohibited in certain weather conditions; i.e., thunderstorms, lightning, hail, high winds, hurricane, snow and ice storms, etc.  Employers should monitor weather reports in their area and notify workers of any change in weather that would prohibit use of RDS.  The term "excessive winds" has been removed from the consensus standard.
+
+Is a specific wind speed appropriate? What speed and why? Should wind speed be monitored, and if so, how? 
+
+Wind speed does not need to be mechanically monitored on RDS because as water is removed from a window with a squeegee, in windy conditions it tends to blow back onto the cleaned surface.  Because of blow back, workers stop cleaning windows long before the winds reach 25 MPH.
+
+Proposed paragraph (b)(2)(x) requires equipment, including tools, squeegees, and buckets, to be secured to prevent equipment from falling, thus protecting any workers below from being struck by falling equipment. This provision is based on IWCA I-14.1-2001, which is written for the protection of the general public. However, OSHA believes this provision also is necessary to protect employees working below RDS from injuries resulting from dropped equipment.
+
+The IWCA supports this.
+
+Proposed paragraph (b)(2)(xi) requires suspension ropes to be protected from exposure to open flames, hot work, corrosive chemicals, or other destructive conditions that can weaken them. This requirement is essentially the same as existing § 1910.28(a)(21).
+
+The IWCA supports this.
+
+
+The mission of the IWCA is to educate and assist its members in developing professionalism, ethics and standards of safety; to actively represent the concerns and interests of window cleaning companies to international, national, state and local regulatory agencies; to promote the welfare of the industry through advocacy, education, training and community involvement; and to be recognized as the premier association for the window cleaning industry.
+

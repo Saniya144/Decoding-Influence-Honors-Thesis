@@ -1,0 +1,123 @@
+
+81344	Federal Register / Vol. 88, No. 224 / Wednesday, November 22, 2023 / Rules and Regulations
+
+
+  (2) Paragraph (3) of EASA AD 2023-0099 specifies revising ''the approved AMP [aircraft maintenance program]'' within 12 months after its effective date, but this AD requires revising the existing maintenance or inspection program, as applicable, within 90 days after the effective date of this AD.
+  (3) The initial compliance time for doing the tasks specified in paragraph (3) of EASA AD 2023-0099 is at the applicable ''limitations'' and ''associated thresholds'' as incorporated by the requirements of paragraph (3) of EASA AD 2023-0099, or within 90 days after the effective date of this AD, whichever occurs later.
+  (4) This AD does not adopt the provisions specified in paragraphs (4) and (5) of EASA AD 2023-0099.
+  (5) This AD does not adopt the ''Remarks'' section of EASA AD 2023-0099.
+(l) New Provisions for Alternative Actions and Intervals
+  After the existing maintenance or inspection program has been revised as required by paragraph (j) of this AD, no alternative actions (e.g., inspections), and intervals are allowed unless they are approved as specified in the provisions of the ''Ref. Publications'' section of EASA AD 2023-0099.
+(m) Terminating Action for Certain Requirements in AD 2010-26-05
+  Accomplishing the actions required by paragraphs (g) or (j) of this AD terminates the requirements of paragraph (g) of AD 2010- 26-05 for Model FALCON 2000 airplanes only.
+(n) Additional AD Provisions
+  The following provisions also apply to this AD:
+  (1) Alternative Methods of Compliance (AMOCs): The Manager, International Validation Branch, FAA, has the authority to approve AMOCs for this AD, if requested using the procedures found in 14 CFR 39.19. In accordance with 14 CFR 39.19, send your request to your principal inspector or responsible Flight Standards Office, as appropriate. If sending information directly to the International Validation Branch, send it to the attention of the person identified in paragraph (o) of this AD. Information may be emailed to: 9-AVS-AIR-730-AMOC@faa.gov. Before using any approved AMOC, notify your appropriate principal inspector, or lacking a principal inspector, the manager of the responsible Flight Standards Office.
+  (2) Contacting the Manufacturer: For any requirement in this AD to obtain instructions from a manufacturer, the instructions must be accomplished using a method approved by the Manager, International Validation Branch, FAA; or EASA; or Dassault Aviation's EASA Design Organization Approval (DOA). If approved by the DOA, the approval must include the DOA- authorized signature.
+(o) Additional Information
+  For more information about this AD, contact Tom Rodriguez, Aviation Safety Engineer, FAA, 1600 Stewart Avenue, Suite 410, Westbury, NY 11590; telephone 206-
+231-3226; email tom.rodriguez@faa.gov.
+(p) 
+Material Incorporated by Reference
+  (1) The Director of the Federal Register approved the incorporation by reference (IBR) of the service information listed in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+  (2) You must use this service information as applicable to do the actions required by this AD, unless this AD specifies otherwise.
+  (3) The following service information was approved for IBR on December 27, 2023.
+  (i) European Union Aviation Safety Agency (EASA) AD 2023-0099, dated May 11, 2023.
+(ii) [Reserved]
+  (4) The following service information was approved for IBR on April 18, 2023 (88 FR
+15607, March 14, 2023).
+  (i) European Union Aviation Safety Agency (EASA) AD 2022-0135, dated July 6, 2022.
+(ii) [Reserved]
+(5) For EASA ADs 2023-0099 and 2022-
+0135, contact EASA, Konrad-Adenauer-Ufer 3, 50668 Cologne, Germany; telephone +49
+221 8999 000; email ADs@easa.europa.eu; website easa.europa.eu. You may find these EASA ADs on the EASA website at ad.easa.europa.eu.
+(6) You may view this service information
+at the FAA, Airworthiness Products Section, Operational Safety Branch, 2200 South 216th St., Des Moines, WA. For information on the availability of this material at the FAA, call 206-231-3195.
+  (7) You may view this material at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, visit www.archives.gov/federal-register/cfr/ ibr-locations or email fr.inspection@nara.gov.
+Issued on November 16, 2023.
+Ross Landes,
+Deputy Director for Regulatory Operations, Compliance & Airworthiness Division, Aircraft Certification Service.
+[FR Doc. 2023-25832 Filed 11-21-23; 8:45 am]
+BILLING CODE 4910-13-P
+
+
+
+NATIONAL LABOR RELATIONS BOARD
+29 CFR Part 103
+RIN 3142-AA21
+
+Standard for Determining Joint Employer Status
+AGENCY: National Labor Relations Board.
+ACTION: Final rule; delay of effective date.
+
+
+SUMMARY: On October 27, 2023, the National Labor Relations Board (Board) published a final rule rescinding and replacing its rule regarding the standard for determining joint employer status under the National Labor Relations Act. The Board hereby amends that rule to change the effective date from December 26, 2023, to February 26, 2024. The purpose of this amendment is to
+
+facilitate the resolution of the legal challenges with respect to the rule. DATES: The effective date of the final rule amending 29 CFR part 103
+published at 88 FR 73946, October 27,
+2023, is delayed from December 26,
+2023, to February 26, 2024.
+FOR FURTHER INFORMATION CONTACT:
+Roxanne L. Rothschild, Executive Secretary, National Labor Relations Board, 1015 Half St. SE, Washington, DC 20570-0001, (202) 273-1940 (this is
+not a toll-free number) or 1-844-762- NLRB (6572) (this is a toll-free number). Hearing impaired callers who wish to speak to an NLRB representative should contact T-Mobile Relay Conference Captioning by visiting its website at https://www.tmobileaccess.com/federal and submitting a form asking its Communications Assistant to call our toll free number at 1-844-762-NLRB (6572).
+SUPPLEMENTARY INFORMATION: On
+October 27, 2023, the National Labor Relations Board published a final rule rescinding and replacing the final rule entitled ''Joint Employer Status Under the National Labor Relations Act,'' which was published on February 26, 2020, and took effect on April 27, 2020. The final rule establishes a new standard for determining whether two employers, as defined in the Act, are joint employers of particular employees within the meaning of the Act. The Board believes that this rule will more explicitly ground the joint-employer standard in established common-law agency principles and provide guidance to parties covered by the Act regarding their rights and responsibilities when more than one statutory employer possesses the authority to control or exercises the power to control particular employees' essential terms and conditions of employment. Under the final rule, an entity may be considered
+a joint employer of another employer's employees if the two share or codetermine the employees' essential terms and conditions of employment.
+On November 6, 2023, a petition for
+review of the final rule was filed in the United States Court of Appeals for the District of Columbia Circuit. Service Employees International Union v.
+NLRB, No. 23-1309 (D.C. Cir.). Then, on
+November 19, 2023, a challenge to the final rule was filed in the U.S. District Court for the Eastern District of Texas. Chamber of Commerce of the United States of America, et. al v. NLRB, No. 6:23-cv-00553 (E.D. Tex.). The Board has determined that postponing the effective date of the rule would facilitate the resolution of the legal challenges that have been filed with respect to the
+
+Federal Register / Vol. 88, No. 224 / Wednesday, November 22, 2023 / Rules and Regulations	81345
+
+
+rule. 5 U.S.C. 705. Accordingly, the Board has decided to change the effective date of the rule from December 26, 2023 to February 26, 2024.
+  Dated: November 17, 2023. Roxanne L. Rothschild, Executive Secretary.
+[FR Doc. 2023-25803 Filed 11-21-23; 8:45 am]
+BILLING CODE 7545-01-P
+
+
+
+DEPARTMENT OF THE TREASURY
+Office of the Secretary 31 CFR Part 1
+RIN 1506-AB63
+Privacy Act of 1974; Exemptions
+AGENCY: Financial Crimes Enforcement Network (FinCEN), Treasury.
+ACTION: Final rule.
+
+
+SUMMARY: In accordance with the requirements of the Privacy Act of 1974, as amended, Treasury is issuing a final rule, exempting a new system of records, entitled ''FinCEN .004- Beneficial Ownership Information System,'' from certain provisions of the Privacy Act. The Beneficial Ownership Information (BOI) System is being established to implement the beneficial ownership information reporting and access requirements set out in the Corporate Transparency Act (CTA), which was enacted on January 1, 2021, as part of the Anti-Money Laundering Act of 2020. The exemptions are intended to increase the value of the system for law enforcement purposes and to comply with the CTA's prohibitions against unauthorized disclosure of certain information.
+DATES: This rule is effective January 1, 2024.
+FOR FURTHER INFORMATION CONTACT: For
+questions about this document and privacy issues, contact: Ryan Law, Deputy Assistant Secretary for Privacy, Transparency, and Records at U.S. Department of the Treasury, 1500 Pennsylvania Avenue NW, Washington, DC 20220; telephone: (202) 622-5710.
+SUPPLEMENTARY INFORMATION:
+Background
+  On September 14, 2023, Treasury published a notice of proposed rulemaking (the ''NPRM'') in the Federal Register, 88 FR 63039, proposing to exempt a system of records, FinCEN .004-Beneficial Ownership Information System (the ''BOI System''), from provisions of the Privacy Act. Pursuant to the CTA,
+
+use the BOI System to maintain BOI submitted to FinCEN by certain corporations, limited liability companies, and other entities created in or registered to do business in the United States (''reporting companies''). BOI includes identifying information associated with the reporting companies themselves, their beneficial owners, and their company applicants. The BOI System will also maintain information about individuals who apply to FinCEN for FinCEN identifiers, which beneficial owners and company applicants will be able to use in lieu of the information required to be reported about them by reporting companies.1 Information provided to FinCEN to obtain a FinCEN identifier will be disclosed to authorized recipients for authorized purposes in the same way and to the same extent as BOI. The CTA authorizes FinCEN to disclose BOI to five categories of authorized recipients that include foreign and domestic law enforcement agencies, but do not include beneficial owners, company applicants, or individuals who have obtained FinCEN identifiers.
+The Privacy Act contains certain
+requirements regarding the maintenance and disclosure of a system of records.
+Those requirements may differ from, or conflict with, the comprehensive requirements for maintaining and disclosing BOI specified in the CTA. In any case where the CTA conflicts with the Privacy Act, FinCEN believes that the more detailed, specific provisions of the CTA supersede any contrary provisions in the Privacy Act.
+Nevertheless, to the extent certain provisions of the Privacy Act were to apply, and without conceding that they do, Treasury is publishing this final rule pursuant to 5 U.S.C. 552a(j) and (k), to exempt the BOI System from those provisions.
+Under 5 U.S.C. 552a(j)(2), the head of
+a Federal agency may promulgate rules to exempt a system of records from certain provisions of 5 U.S.C. 552a if the system of records is maintained by an agency or component thereof that performs as its principal function any activity pertaining to the enforcement of criminal laws, including police efforts to prevent, control, or reduce crime or to apprehend criminals, and the activities of prosecutors, courts, correctional, probation, pardon, or parole authorities and which consists of
+(a) information compiled for the purpose of identifying individual
+
+   1 Reporting companies will not use the FinCEN identifier application to request a FinCEN identifier but instead will request a FinCEN identifier when
+
+criminal offenders and alleged offenders and consisting only of identifying data and notations of arrests, the nature and disposition of criminal charges, sentencing, confinement, release, and parole and probation status; (b) information compiled for the purpose of a criminal investigation, including reports of informants and investigators, and associated with an identifiable individual; or (c) reports identifiable to an individual compiled at any stage of the process of enforcement of the criminal laws from arrest or indictment through release from supervision.
+  Under 5 U.S.C. 552a(k)(2), the head of a Federal agency may promulgate rules to exempt a system of records from certain provisions of 5 U.S.C. 552a if the system of records is ''investigatory material compiled for law enforcement purposes, other than material within the scope of subsection (j)(2) of this section.''
+  The reasons for exempting the BOI System from sections (c)(3), (c)(4), (d)(1), (d)(2), (d)(3), (d)(4), (e)(1), (e)(2),
+(e)(4)(G), (e)(4)(H), (e)(5), (e)(8), (f), and
+(g) of the Privacy Act are as follows:
+(1) 5 U.S.C. 552a(d)(1), (e)(4)(H) and
+(f)(2), (f)(3), and (f)(5) grant individuals access to records containing information about them. An exemption from these provisions is appropriate because the CTA prohibits FinCEN from disclosing BOI except to five categories of authorized recipients; 2 these categories do not include beneficial owners, company applicants, or individuals who have obtained FinCEN identifiers.
+Because individuals who are the subject of the records in the BOI System are not included in any of those categories, the application of 5 U.S.C. 552a(d)(1), (e)(4)(H) and (f)(2), (f)(3), and (f)(5) to the BOI System would contravene the CTA's disclosure restrictions.
+(2) 5 U.S.C. 552a(e)(4)(G) and (f)(1)
+enable individuals to inquire whether a system of records contains records about them. An exemption from these provisions is appropriate because allowing individuals involved in illegal activity to learn that FinCEN has information concerning those individuals that could lead to them being identified for investigation could undercut the CTA mandate that the BOI System be ''highly useful'' to law enforcement agencies. For instance, such notice could prompt individuals engaged in illegal activity to: (a) take steps to avoid detection; (b) begin, continue, or resume illegal conduct upon learning that they are not identified in the system of records; or (c)
+
+
+
+starting on January 1, 2024, FinCEN will
+
+they submit a BOI report.	2 31 U.S.C. 5337(c)(2).

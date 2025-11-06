@@ -1,0 +1,1077 @@
+UNITED STATES OF AMERICA
+BEFORE THE NATIONAL LABOR RELATIONS BOARD
+
+Representation - Case Procedures:
+Election Bars; Proof of Majority Support in	RIN 3142AA22 Construction Industry Collective-Bargaining Relationships
+
+
+
+COMMENTS OF THE
+AMERICAN FEDERATION OF LABOR & CONGRESS OF INDUSTRIAL ORGANIZATIONS AND NORTH AMERICA'S BUILDING TRADES UNIONS
+
+
+
+
+
+Matthew Ginsburg Craig Becker
+AFL-CIO
+815 Black Lives Matter Plaza Washington, DC 20006
+(202) 637-5310
+cbecker@aflcio.org
+
+Attorneys for AFL-CIO
+
+Jonathan D. Newman Robert Kurnick Erich Lange Sherman Dunn, P.C.
+900 Seventh Street, N.W., Suite 1000
+Washington, D.C. 20001 newman@shermandunn.com 202-785-9300
+
+Attorneys for NABTU
+
+TABLE OF CONTENTS
+I. Serious Procedural Flaws in The 2020 Rulemaking Justify Withdrawing The Resulting Rules	2
+A. The Board's Consideration of § 103.20 (Blocking Charges) was Procedurally
+Flawed	3
+1. Gross Errors in Data Presented in the NPRM and the Board's Failure
+to Correct the Errors Violated the APA	3
+a. The Errors Deprived Interested Parties of Proper Notice in
+Violation of the APA's Notice and Comment Requirement	8
+b. Failure to Correct the Errors was Arbitrary, Capricious and an
+Abuse of Discretion	10
+2. The 2020 Rules' Complete Elimination of Blocking Charges in Most Cases Was Not a Logical Outgrowth of the 2019 NPRM and the Board Stated No Rationale for the Novel Classification Introduced in the
+2020 Rules	13
+a. The 2020 Final Rules Were Not a Logical Outgrowth of the 2019 Proposed Rule	13
+b. The Board Failed to Offer Any Rationale for the Categories of Charges That Can and Cannot Block an Election Under the 2020
+Final Rules	15
+B. Consideration of § 103.21 (Recognition Bar) Was Procedurally Flawed	16
+C. Consideration of § 103.22 (Proof of 9(a) Relationship in Construction Industry)
+Was Procedurally Flawed	19
+II. Each of The Three Elements of The 2020 Rules Is Inconsistent with The Act,
+The Policies Underlying the Act, Or The Sound Administration of the Act	20
+A. The Board Should Withdraw the 2020 Blocking Charge Rule	20
+1. The 2020 Board Did Not Established an Adequate Rationale for
+Changing the Rule	22
+2. The 2020 Majority Mischaracterized the Existing Blocking Charge Policy	27
+3. The 2020 Rules Result in Avoidable Waste of Party and Agency
+Resources	30
+4. The 2020 Rules Do Not Effectuate Employee Sentiment Any
+Sooner	32
+
+5. Forcing Employees to Vote Under Coercive Conditions Will Taint Subsequent Votes	32
+6. Blocking Charges May Properly Be Based on Pre-Petition Unlawful
+Conduct	34
+7. The 2020 Rules Discourage Settlement of Charges and Permit Tainted
+Ballots to be Opened	35
+B. The Board Should Revoke the 2020 Rules' Modification of the
+Recognition Bar	36
+1. Voluntary Recognition is Expressly Endorsed in the Act, Has Been
+Approved by the Supreme Court, and Is Entitled to Immediate Respect	36
+2. The 2020 Majority's Rationale Did Not Consider Existing Safeguards of
+the Veracity of Voluntary Recognition	37
+3. The 2020 Rules are Overbroad Because They Encompass Voluntary
+Recognition Based on Secret Ballot Elections	39
+4. Certification After an Election Already Places Unions in a Different Legal
+Status Than Voluntary Recognition	39
+5. Prior Experience Under Dana and Experience Under the 2020 Rules Demonstrates That the Rules Are Unnecessary	41
+6. Requiring Posting of an Official Notice Informing Employees of Their Rights Only After Employees Choose to Be Represented and Not Requiring Such Notice After Other Changes in Representational Status is Inconsistent
+With the Board's Neutrality	44
+7. The 2020 Rule is Inconsistent with the Fundamental Purpose of the Act	45
+C. The Board Should Revoke the 2020 Rules' Modification of the Evidence Required to Prove a 9(a) Relationship in the Construction Industry and the Period During
+Which a Petitioner May Challenge the Legality of Such a Relationship	47
+1. Unions and Employers in the Construction Industry are Free to Establish Collective Bargaining Relationships Under Section 9(a) of the Act When
+the Union has Majority Support Among Bargaining Unit Employees	49
+2. Staunton Fuel Describes Language that, in the Absence of Contrary Evidence, Shows that a Lawful Section 9(a) Relationship Was Established
+at the Time of Recognition	50
+3. Except under the Limited Circumstances Described in Casale, the Board's Contract Bar Rules, with Good Reason, Prohibit Litigation in Representation Cases of Claims that a Union Lacked Majority Status When
+it Received Section 9(a) Recognition	57
+4. If not Rescinded, the Board's Current Rule Would Have Serious
+Detrimental Effects on Collective Bargaining in the Construction Industry and on the Board's Representation Proceedings	63
+III. The Board Should Specify the Consequences of Rescinding the 2020 Rules	66
+
+CONCLUSION	67
+
+      The American Federation of Labor & Congress of Industrial Organizations (AFL-CIO) is a federation of 58 national and international labor organizations with a total membership of over
+12.5 million working men and women. The AFL-CIO and its affiliated unions often participate in proceedings before the National Labor Relations Board (NLRB or Board).
+      North America's Building Trades Unions (NABTU) is a labor organization composed of fourteen national and international labor unions in the building and construction industry. With hundreds of regional and local councils throughout the United States, NABTU and its affiliated unions represent over three million hardworking men and women employed in the construction industry. NABTU's unions and their affiliated locals enter into collective bargaining agreements with employers in the construction industry. Those written agreements often memorialize the employer's recognition of the union as a Section 9(a) representative based on the union's showing, or offer to show, its majority support. But now, under 29 C.F.R. § 103.22, many of those collective bargaining relationships are exposed to challenges that would previously have been precluded by the Board's contract bar rules. As a result, construction unions have effectively been relegated to a status less favored than that of unions in other industries. The Board's proposal to rescind the current rule directly impacts NABTU's affiliate unions and their members, and will restore greater stability to collective bargaining relationships in the construction industry.
+      The AFL-CIO and NABTU fully support the proposal contained in the Notice of Proposed Rulemaking (NPRM). In fact, the AFL-CIO and NABTU filed a petition for rulemaking with the Board on November 16, 2021, urging the Board to initiate rulemaking in order to withdraw the Final Rule that added 29 C.F.R. §§ 103.20 - 103.22 to the Board's Rules and Regulations. "Representation - Case Procedures: Election Bars; Proof of Majority Support
+
+in Construction-Industry Collective-Bargaining Relationships," RIN 3142-AA16, 85 Fed. Reg. 18366 (April 1, 2020) (hereinafter the 2020 Rules). In addition, the AFL-CIO, along with the Baltimore-DC Metro Building and Construction Trades Council, challenged the 2020 Rules in the District of the District of Columbia. See AFL-CIO v. NLRB, 20-cv-1909 (D.D.C.). That litigation is currently stayed. The AFL-CIO and NABTU also each filed comments on the NPRM that resulted in the 2020 Rules. 84 Fed. Reg. 39930 (Aug. 12, 1919) (2019 NPRM). We incorporate those comments by reference here.
+      We proceed in three parts below. First, we describe the serious procedural flaws in the rulemaking that resulted in the 2020 Rules and explain why they require that the Board withdraw those rules. Second, we describe the substantive defects in the 2020 Rules. Third, we address the consequences of rescinding the 2020 Rules.1
+I. SERIOUS PROCEDURAL FLAWS IN THE 2020 RULEMAKING JUSTIFY WITHDRAWING THE RESULTING RULES
+
+      The 2020 Rules' adoption of each of the three sections of the Rules and Regulations - §§ 103.20, 103.21, and 103.22 - was flawed under the Administrative Procedure Act (APA) and basic principles of fair and sound rulemaking. Accordingly, each section warrants repeal on those grounds alone.
+      While we believe, the violations of the APA are clear and will be found by the courts if the ongoing litigation proceeds to a conclusion before the Board withdraws the 2020 Rules, the Board need not find a violation of the APA in order to conclude that the rules should be withdrawn. The Board need only and should only find that the serious flaws in the prior
+
+
+          1 As we explain infra in Part III, because rescission of Section 103.21 would have the effect of restoring the voluntary recognition bar as part of the Board's historical and coherent set of election bars, the AFL-CIO would have no objection if the Board simply rescinded that section of the 2020 Rules without promulgating a new rule in its place.
+
+rulemaking process prevented interested parties from having a fair opportunity to provide input and prevented the Board from fully considering the proposals and prudently deciding whether to adopt the 2020 Rules.
+A. The Board's Consideration of § 103.20 (Blocking Charges) was Procedurally Flawed
+
+Consideration of the 2020 Rules' changes to the Board's blocking charge policy, found in
+
+§ 103.20, was fatally flawed. The Board justified its blocking charge policy changes by citing grossly erroneous data in its 2019 NPRM, which it never corrected before issuing the Final Rules. Further, the Final Rules so departed from the proposal in the NPRM that they were not a logical outgrowth of the original proposal. For those reasons, the Board should repeal § 103.20.
+1. Gross Errors in Data Presented in the NPRM and the Board's Failure to Correct the Errors Violated the APA
+
+      As explained in the current NPRM, the Board presented data that falsely and grossly exaggerated the delay caused by blocking charges in the 2019 NPRM. The data was false and misleading in three respects. First, it included cases that did not actually involve blocking charges. Second, it substantially overstated the periods of delay attributable to blocking charges. Third, it lumped together charges filed by an incumbent union representative facing an election seeking to displace that union (the only type of charges the 2019 NPRM expressed concern about) and charges filed by a union seeking to become the representative of employees for the first time (which the NPRM expressed no concern about). The latter actually constitute the overwhelming majority of blocking charges and are responsible for a larger share of the delay caused by blocking charges.
+      The first error in the data presented in the 2019 NPRM was that it indicated cases involved blocking charges that did not actually involve blocking charges. Dissenting Member
+
+McFerran stated, "My colleagues . . . err by artificially inflating the number of 'blocked petitions pending' by including in their list cases . . . which were [not] blocked due to the blocking charge policy." The dissent cited specific examples of this erroneous data. See 84 Fed. Reg. 39947 n.71 (Member McFerran dissenting). The AFL-CIO's comments stated that an examination of the dockets for many of the cases the 2019 NPRM identified as involving blocking charges revealed no entry for a related unfair labor practice case (i.e., no evidence that any charge had blocked the election), and also gave specific examples. AFL-CIO Comment at 14, Comment ID NLRB- 2019-0001-0138 (AFL-CIO Comments).2
+      The second error was that the 2019 NPRM grossly overstated the period of time cases were blocked - in some instances by a multiple of 20 or more. As then dissenting Member McFerran pointed out, "My colleagues . . . err by artificially inflating the length of time periods that their cited cases were blocked." 84 Fed. Reg. 39947 n. 71 (Member McFerran dissenting). In many instances, the appendix to the NPRM stated a period of time cases were blocked that was impossible on its face because it stated that a petition for an election was blocked for more days than the number of days between the filing of the petition and the conduct of the election. See, e.g., 2019 NPRM, Majority Appendix B, Table 1, at 1, Fairmont Holdings (stating that there were 702 blocked days when there were only 35 days between petition filing and the election being held). According to a count reported in the comments of the United Food and Commercial Workers, AFL-CIO (UFCW), 34% of the cases the NPRM reports as blocked in its Appendix have blocking periods longer than the period between the petition being filed and the election.
+UFCW Comment at 4, Comment ID NLRB-2019-0001-0105.3 As the UFCW also noted, the
+
+
+
+
+2 Available at https://www.regulations.gov/comment/NLRB-2019-0001-0138.
+3 Available at https://www.regulations.gov/comment/NLRB-2019-0001-0105.
+
+same error likely led to overstatement of the blocked period in many more cases where the error is not apparent on the face of the table in the appendix because, while the Board exaggerated the number of days an election was blocked, the number did not exceed the number of days between petition and election and thus was not apparent on the face of the Appendix. Id.
+      Despite the fact that these errors were pointed out in the dissent to the 2019 NPRM, the majority chose not to correct or even acknowledge them before issuing the NPRM, even though the majority responded to the dissent in other respects in the NPRM. See, e.g., 84 Fed. Reg.
+39939. These errors were also detailed in the press in early December 2019 - almost four full months before publication of the 2020 Rules. See Alex Ebert and Hassan A. Kanu, "Federal Labor Board Used Flawed Data to Back Union Election Rule," Bloomberg Law (Dec. 5, 2019), https://news.bloomberglaw.com/daily-labor-report/federal-labor-board-used-flawed-data-toback- union-election-rule-1. The primary press story stated, "a Bloomberg Law review of data supporting the rulemaking found dozens of cases in which the board overstated the length of delays attributable to blocking charges over the last three years - overshooting the mark in one instance by more than 12 years, and in another by five years." Id. "The board's data overcounted delays in more than one-third of cases - 55 in all - in which they said blocking charges were filed." Id.4
+      The third error was that the 2019 NPRM expressly and erroneously stated that blocking charges are "almost invariably [filed by] a union and most often in response to an RD petition" seeking an election to decertify the union. 84 Fed. Reg. 39931. That is demonstrably false.
+
+
+          4 The article also identified cases that were listed more than once in the Board's data. Id. It further cited administrative law scholars who suggested that a failure to correct the data could violate the APA. Id. (quoting Professor Richard Pierce of George Washington University as stating, "If the[ Board] proceed[s] without correcting [the data errors], the resulting action would be hard to defend.").
+
+      That error is important because the central, indeed the only, rationale offered in the 2019 NPRM for the proposed rule was that the then current blocking charge policy deprived petitioners, the parties seeking an election, of a prompt election. The NPRM repeatedly referred to the "momentum" that was allegedly sapped by the delay caused by blocking charges. See, e.g., 84 Fed. Reg. at 39937 ("Delay robs the petition effort of momentum."). But, contrary to the express statement in the 2019 NPRM quoted above, the overwhelming majority of blocking charges are filed by petitioners themselves in RC not RD cases and those petitioners have the right, at any time, to request that the election proceed despite the charge. See Casehandling Manual (Part Two) Representation, Section 11731.1(b);5 NLRB, An Outline of Law and Procedure in Representation Cases at 120 (Aug. 2012) ("Such a request . . . will usually be honored.").
+      The AFL-CIO in its earlier comments analyzed data provided pursuant to a Freedom of Information Act (FOIA) request concerning all cases involving blocking charges since 2012.
+See AFL-CIO Comments at 6. The AFL-CIO's comments explained that 80% of all cases involving blocking charges were RC cases. Id. Moreover, as the expert retained by the AFL- CIO to analyze the data, McGill University Professor John-Paul Ferguson,6 found, "Blocking charges in RC cases also result in longer periods during which elections are blocked." AFL-CIO Comment, Appendix 4 (John-Paul Ferguson, Report: Assessing the Available Data Relevant to NLRM Proposed Rule, RIN 3142-AA16 (Jan. 8, 2020) (Ferguson Report I)0. Professor Ferguson concluded, "Because 80% of cases involving blocking charges are RC cases and
+
+          5 The Casehandling Manual cited throughout these Comments is the Manual that proceeded revisions due to the 2020 Rules.
+          6 Professor John-Paul Ferguson of McGill University is one of the foremost experts on the NLRB processes and has extensive experience working with the Board's case filing and data systems. His resume is attached to his earlier report as Appendix 4. In fact, Professor Ferguson's scholarship is cited by the majority in the 2019 NPRM, 84 Fed. Reg. at 39931 n.6.
+
+because blocking periods in RC cases are, on average, longer than in RM and RD cases, the overwhelming amount of time representation cases are blocked is in RC cases. Id. at 2. Thus, the 2019 majority's statement that that blocking charges are "almost invariably [filed by] a union and most often in response to an RD petition" seeking an election to decertify the union, 84 Fed. Reg. 39931, is not only wrong, it is grossly incorrect as RD cases constitute less than 20% of all cases involving blocking charges.7
+      None of these gross errors were ever corrected despite their being pointed out in the dissent, in the press, and in comments. They were not corrected in the NPRM, and they were not corrected in the preamble to the Final Rules. In other words, the Board deliberately presented erroneous data to the public.
+      While the 2020 majority did acknowledge in the preamble to the 2020 Final Rules "claims" that it had made errors, 85 Fed. Reg. 18377, even then, the Board did not actually acknowledge the errors or, most importantly, correct the errors. In the 2020 Final Rule, the Board stated only:
+We also acknowledge the claims in the dissent to the NPRM and by some commenters that there were errors in some of the data that the NPRM majority cited to support the proposed rule and that these errors led to exaggeration both of the number of cases delayed and the length of delay involved. Even accepting those claims as accurate, the remaining undisputed statistics substantiate the continuing existence of a systemic delay that supports our policy choice to modify the current blocking-charge procedure that does not, and need not, depend on statistical analysis.
+
+Id. (footnote omitted). But the Board did not present or even describe "the remaining undisputed statistics" in the preamble to the 2020 Final Rules or elsewhere.
+
+
+
+          7 Data for the period after that previously analyzed by Professor Ferguson covering both the period before the 2020 Rules went into effect and after their effective date, confirms the earlier finding as explained infra in Section II, A, 1.
+
+      The 2020 Board's failure to correct the data or describe "the remaining undisputed statistics" is critical because only the Board was in a position to do so. Both the dissent and commenters had limited access to the data and thus were unable to describe all the errors in the data presented by the Board in the 2019 NPRM. Specifically, then Member McFerran, while pointing out some of the errors in the data in her dissent, made clear that she could only provide "examples" of the errors, as she "did not have sufficient time prior to the publication of this NPRM to review" all the data needed to identify all errors in the majority's presentation. Id. at 39947 n. 74 (Member McFerran dissenting). Therefore, the public did not know at the time it was required to comment (and still does not know) how many elections are blocked by unfair labor practice charges, how long those elections were blocked, and in how many of those the petitioner could not simply request to proceed.
+a. The Errors Deprived Interested Parties of Proper Notice in Violation of the APA's Notice and Comment Requirement
+
+      The gross errors in the data presented in the 2019 NPRM deprived interested parties of proper notice as required by the APA. 5 U.S.C. § 553(b). The procedural requirements of the APA ensure that affected members of the public are informed not only of what is being proposed but also of the agency's rationale and the data the agency has relied on. Home Box Office, Inc. v. FCC, 567 F.2d 9, 36 (D.C. Cir. 1977). The notice and comment process requires "an exchange of . . . information . . . between interested parties and the agency." Id. at 35. The Board's reliance on grossly inaccurate data and its failure to at any time correct that data, violated the notice requirement in four ways.
+First, an agency fails to provide adequate notice when it presents inaccurate data in the
+
+NPRM. Resolute Forest Products, Inc. v. USDA, 187 F.Supp.3d 100, 123 (D.D.C. 2016) ("'notice' surely requires reasonably accurate (and certainly not blatantly misleading) data to
+
+substantiate [the agency's] decision and provide interested commentators with the opportunity to assess the proposed rule."). An agency's reliance on inaccurate data represents a "critical defect" in the rulemaking process. Portland Cement Ass'n v. Ruckelshaus, 486 F.2d 375, 392 (D.C. Cir. 1973). "It is not consonant with the purpose of a rule-making proceeding to promulgate rules on the basis of inadequate data." Id. at 393. That is even more true of erroneous data.
+      Second, by not correcting the gross errors in the data presented in the 2019 NPRM, despite being informed about them, the Board intentionally withheld data that undermined its rationale for the rule or, at a minimum, did not provide the public with critical information. See American Relay Radio League v. FCC, 524 F.3d 227, 236 (D.C. Cir. 2008) (court held that agency's hiding of contradictory data was incompatible with the APA's notice requirements).
+      Third, changing the data relied on between the issuance of the 2019 NPRM and the 2020 Final Rules violated the APA. See American Iron Steel Inst. v. OSHA, 939 F.2d 975, 1009-1010 (D.C. Cir. 1991) (agency violated the APA by basing finding of economic feasibility on post- comment data inconsistent with "all other important evidence in the record"). What the 2020 majority did here is even worse because it not only relied on different data in issuing the Final Rules than it did in issuing the NPRM, the Board failed to disclose the data it relied on in issuing the 2020 Rules, saying only "the remaining undisputed statistics substantiate the continuing existence of a systemic delay that supports our policy choice[.]" 85 Fed. Reg. 18337. But the Board's failure to disclose what it considered to be "the remaining undisputed statistics" left parties to guess at how radically the Board departed from the data it relied on in issuing the NPRM and, more fundamentally, to guess about what the Board actually relied on in issuing the Final Rules.
+
+      Finally, the 2020 majority violated the notice and comment requirement because it failed to respond to substantive, well-supported comments. The agency did not adequately respond to the AFL-CIO's demonstration that the vast majority of blocking charges, and even a greater percentage of the delay caused by such charges, do not involve the type of delay that the Board described in the NPRM, i.e., delay that saps the petition of "momentum." AFL-CIO Comments at 6-7. "[T]he opportunity to comment is meaningless unless the agency responds to significant points raised by the public." HBO, 567 F.2d at 35-36 (footnote omitted). "[S]ignificant" points are those that, "if true, raise points relevant to the agency's decision and which, if adopted, would require a change in an agency's proposed rule [and] cast doubt on the reasonableness of a position taken by the agency" and are not "purely speculative" but rather "disclose the factual or policy basis on which they rest." Id. at 35 n. 58. A comment requiring a response both identifies "a particular mistake" and "show[s] why the mistake was of possible significance in the results[.]" Portland Cement, 486 F.2d at 394. The AFL-CIO's point was without question "significant," and the agency wholly failed to respond to its central thrust.
+      The 2020 majority's presentation of grossly inaccurate data in the 2019 NPRM, its failure to correct the errors (thereby withholding corrected data), its shift in the data relied on between the NPRM and the Final Rules, and its failure to respond to the AFL-CIO's comment concerning the data, violated the APA's notice requirement.
+b. Failure to Correct the Errors was Arbitrary, Capricious and an Abuse of Discretion
+
+      It was arbitrary and capricious for the 2020 majority not to correct the gross errors in the data it presented in the NPRM or at any time thereafter for three reasons.
+      First, presentation of grossly inaccurate data - data that in some respects was inaccurate on its face and that the Board was informed was inaccurate - is the essence of arbitrary and
+
+capricious action. It is the opposite of the rational and open rulemaking process envisioned by the APA. Missouri Public Service Commission v. FERC, 337 F.3d 1066, 1075 (D.C. Cir. 2003). ("Reliance on facts that an agency knows are false at the time it relies on them is the essence of arbitrary and capricious decisionmaking."); Resolute, 187 F.Supp.3d at 123 ("where an agency has relied on incorrect or inaccurate data or has not made a reasonable effort to ensure that appropriate data was relied upon, its decision is arbitrary and capricious and should be overturned."). Here, the Board did not simply fail to ascertain the accuracy of the data, it ignored the facial evidence of errors as well as the dissenting Member's warning, press reports, and comments.
+      Second, the Board did not present a rational explanation for the Rules or a rational evaluation of its costs and benefits because it did not disclose accurate data in either the NPRM or the Final Rule. Motor Vehicle Mfrs. Ass'n v. State Farm Mut. Auto. Ins. Co., 463 U.S. 29, 43 (1983) ("agency must examine the relevant data and articulate a satisfactory explanation for its action including a 'rational connection between the facts found and the choice made'" and agency action is arbitrary and capricious if the agency "offered an explanation for its decision that runs counter to the evidence before the agency") (quoting Burlington Truck Lines, Inc.
+v. United States, 371 U.S. 156, 168 (1962)).
+
+      The 2020 Board appears to have anticipated this argument because, after presenting extensive, albeit inaccurate, data to support the proposed rule, the Board attempted to suggest in the preamble to the 2020 Rules that no data was necessary to support its decision. The Board stated:
+As the AFL-CIO candidly acknowledges, ''[b]locking elections delays elections. That is undeniably true and requires no 'statistical evidence' to demonstrate.'' We agree. Furthermore, anecdotal evidence of lengthy blocking charge delays in some cases, and judicial expressions of concern about this, remain among the several
+
+persuasive reasons supporting a change that will assure the timely conduct of elections without sacrificing protections against election interference.
+
+85 Fed. Reg. 18377. Yet, despite that attempt to suggest that quantitative evidence was unnecessary, the Board continued to assert that the problem of delay caused by blocking charges is quantitatively significant and outweighs other concerns. "In a significant number of cases, the [current blocking charge] policy denies employees the right to have their votes, in a Board-conducted election . . . 'recorded . . . efficiently and speedily.'" 85 Fed. Reg. 18367 (emphasis added and citation omitted). "[D]elay in employees' exercise of free choice [attendant on current blocking charge policy] . . . is far too great a price for employees to pay." 85 Fed. Reg. 18378. Those statements are without foundation absent accurate data that was not presented in the 2019 NPRM or the 2020 Rules.
+      Third, the Board expressly stated in the preamble to the 2020 Rules that it weighed the benefits of reducing delay caused by blocking charges against the costs of altering the blocking charge rule. In fact, the Board expressly "reject[ed] the assertion of some commenters that we have not attempted to balance, or even quantify, the burden and the benefit in adopting these revised procedures." 85 Fed. Reg. 18380 (emphasis added).
+See also id. at 18378 ("any consequential costs are worth the benefits secured"); id. ("any burden on the Regions in conducting elections where the ballots may never be counted is outweighed by the critical benefits of ensuring employee free choice"). But the benefits obviously cannot be weighed or compared to the costs and they certainly cannot be
+"quantif[ied]" without accurate data concerning the delay caused by blocking charges and the Board failed to provide such data in the NPRM or the Final Rule. "[T]he notice required by the APA, or information subsequently supplied to the public, must disclose in
+
+detail the . . . data upon which th[e] rule is based." HBO, 567 F.2d at 35 (emphasis added). The Board simply failed to do that at any time.
+2. The 2020 Rules' Complete Elimination of Blocking Charges in Most Cases Was Not a Logical Outgrowth of the 2019 NPRM and the Board Stated No Rationale for the Novel Classification Introduced in the 2020 Rules
+
+      In the 2019 NPRM, the Board did not propose eliminating the blocking charge policy or even reducing the category of charges that could be the basis for blocking an election. Rather, the Board proposed a change only in the consequences of a blocking charge. But the 2020 Final Rules drastically departed from this proposed change. The 2020 Rules were not a logical outgrowth of the proposed rule, and therefore violated the APA. Moreover, the Board did not present a reasoned basis for either shrinking the category of charges that can serve as the basis for blocking an election or the counting of the ballots, or for how it drew the lines around that new category of cognizable blocking charges.
+a. The 2020 Final Rules Were Not a Logical Outgrowth of the 2019 Proposed Rule
+
+      In a section of the 2019 NPRM titled "Substitution of a Vote and Impound Procedure for Current Blocking Charge Policy," the Board explained that it was "inclined to believe, subject to comments, that the current blocking charge policy impedes, rather than protects, employee free choice." 84 Fed. Reg. at 39937. Based on this belief, the Board stated that, "[h]aving preliminarily reviewed numerous suggestions for revision or elimination of this policy, the Board proposes to adopt the vote and impound procedure suggested by the General Counsel[.]" Id.
+The Board expressed its belief that the "proposed vote-and-impound rule ... satisfies the goal of protecting employee free choice" better than the Board's current blocking charge policy. Id. at 39938. The Board explained, "The concern for protection of that choice from coercion by unfair labor practices will still be met by holding the counting of ballots and certification of results until
+
+a final determination has been made as to the merits of the unfair labor practice allegations and the effects on the election of any violations found to have been committed." Id.
+(emphasis added).
+
+      The vote-and-impound procedure was the only alternative to the Board's then current blocking charge policy proposed in the 2019 NPRM. The Board proposed vote-and-impound after it "preliminarily reviewed numerous suggestions for revision or elimination of th[e blocking charge] policy," none of which were described in the NPRM or otherwise made public.
+      Yet in the 2020 Final Rules, the Board instead adopted "a vote-and-count procedure for most categories of charges, and a vote-and-impound procedure for some limited categories of charges[.]" 85 Fed. Reg. 18380. In other words, rather than change the effect of the filing of unfair labor practice charges as proposed in the 2019 NPRM, the 2020 Final Rules wholly prevent application of the blocking charge policy in most cases, leaving only a narrow category of charges that can serve even to block the counting of ballots. See Rieth-Riley Const. Co., 371 NLRB No. 109, slip op. at 4 (2022) (describing the charges that can result in impoundment under the 2020 Rules as "a small subset of charges"). The 2020 Final Rules were not a logical outgrowth of the proposed rule, and, therefore, violated the APA. Int'l Union, United Mine Workers of Amer. v. MSHA, 407 F.3d 1250, 1260 (D.C. Cir. 2005) (final rule is not a logical outgrowth where "interested parties would have had to divine the Agency's unspoken thoughts because the final rule was surprisingly distant from the proposed rule") (cleaned up); CSX Transp. Inc. v. Surface Transportation Board, 584 F.3d 1076, 1081 (D.C. Cir. 2009) (there can be no finding of logical outgrowth "where the proposed rule gave no indication that the agency was considering a different approach") (cleaned up).
+
+b. The Board Failed to Offer Any Rationale for the Categories of Charges That Can and Cannot Block an Election Under the 2020 Final Rules
+
+      As explained above, between issuing the 2019 NPRM and the 2020 Final Rules, the Board decided that it would entirely prevent most types of unfair labor practice charges from blocking either the election or the tally of ballot, leaving only a narrow category of charges that can block the counting of ballots. The Board provided no explanation of this categorization in the 2020 Rules.
+      Under the 2020 Rules, the only category of charges that can block the counting of ballots are charges
+that allege violations of section 8(a)(1) and 8(a)(2) or section 8(b)(1)(A) of the Act and that challenge the circumstances surrounding the petition or the showing of interest submitted in support of the petition, or a charge is filed that alleges an employer has dominated a union in violation of section 8(a)(2) and seeks to disestablish a bargaining relationship.
+
+85 Fed. Reg. at 18399 (new § 103.20). But one searches the preamble to the Final Rules in vain for an explanation of why the Board decided to carve out that category of charges as the only charges that can still block even the counting of ballots. The closest the 2020 Board comes to an explanation is when it states, "some types of unfair labor practice charges speak to the very legitimacy of the election process in such a way that warrants different treatment-specifically, those that allege violations of Section 8(a)(1) and 8(a)(2) or Section 8(b)(1)(A) of the Act and that challenge the circumstances surrounding the petition or the showing of interest submitted in support of the petition, and those that allege that an employer has dominated a union in violation of Section 8(a)(2) and that seek to disestablish a bargaining relationship." 85 Fed. Reg. at 18380. But that is merely a conclusion, it is not an explanation. Why do those charges "speak to the very legitimacy of the election process in such a way that warrants different treatment?"
+
+What is that "way"? Moreover, employer domination of a union in no way goes to the "legitimacy of the election process" any more than an employer's credible threat to fire anyone who votes for union representation. Finally, the Board offers no reason why this category of unfair labor practice allegations "warrants different treatment" from all other charges. The APA requires that an agency include with final rules "a concise general statement of their basis and purpose." 5 U.S.C. §553(c). Here, the Board simply failed to do that in respect to the line the 2020 Rules drew between the category of unfair labor practice allegations that can block the counting of ballots and the category that cannot.
+The Board should repeal § 103.20 due to these procedural failures.
+
+B. Consideration of § 103.21 (Recognition Bar) Was Procedurally Flawed
+
+      In promulgating § 103.21's requirement that an employer post a notice after it lawfully, voluntarily recognizes a union that informs employees of that recognition and of the employees' right to file a petition to decertify the union within 45 days, the Board failed to address a significant comment submitted by the AFL-CIO. That failure violated the APA, and counsels that the Board repeal this section.
+      In its comments on the 2019 NPRM, the AFL-CIO pointed out that, together with existing notice requirements and standing alone, the proposed notice was inconsistent with the statutory requirement that the Board remain strictly neutral on the question of whether employees should support or oppose representation. The Board failed to address that significant comment.
+The AFL-CIO's comments pointed out:
+
+      The Act requires that the Board be strictly neutral. The Board acts as an impartial "referee" because the "Act is wholly neutral when it comes to [employees'] basic choice" of whether to be represented. H.K. Porter Co. v. NLRB, 397 U.S. 99, 108 (1970). "The Board in its supervision of union elections may not sanction procedures that cast their
+
+weight for the choice of a union and against a nonunion shop or for a nonunion shop and against a union." NLRB v. Savair Mfg. Co., 414 U.S. 270, 280 (1973).
+
+AFL-CIO Comments at 36-37.
+
+      The comments then explained that the proposal to require notice only after employees obtain representation (i.e., after a majority has made "the choice of a union") would be inconsistent with the requirement of neutrality. The AFL-CIO comments stated:
+Setting aside the neutral notices informing employees that a petition has been filed and
+that an election will be held, see 29 C.F.R. §§ 102.63(a)(2), 102.67(b), if the proposed rule is adopted, the Board will require that notice be given to employees of only two of their many rights under the NLRA: the right not to join a union and to object to paying full union dues8 and the right to file a petition to decertify a recently and lawfully recognized union. The majority in no way explains why it has chosen to require notice of only those two rights or why, in administering an Act under which employees have a right to engage in concerted activity such as supporting and choosing to be represented by a union and to refrain from such activity, the only notices the Board requires inform employees of their right to refrain.
+
+Id. at 37.9
+
+      The 2020 Board did not address those central points in the AFL-CIO's Comments. The Board addressed the question of bias, but only bias on the part of individual Board members, not bias in the proposal itself. 85 Fed. Reg. 18371-72. The Board addressed the question of neutrality, but merely by asserting that the notice is neutral, not by addressing when the Board requires notice or why it requires notice only of employees' right to refrain from supporting unions. The preamble to the 2020 Rules states:
+
+
+8 See California Saw & Knife Works, 320 NLRB 224, 233 (1995), enf'd. sub nom.
+Machinists v. NLRB, 133 F.3d 1012 (7th Cir. 1998), cert. denied sub nom. Strang v. NLRB, 525
+U.S. 813 (1998).
+          9 The AFL-CIO's Comments even provided a specific example of the lack of neutrality by contrasting the situation addressed in the 2019 NPRM with the situation where an employer voluntarily withdraws recognition upon a showing of majority support for removal of the union. AFL-CIO Comments at 37-38. In that scenario, the Board requires no posting of a notice informing employees of their rights to petition for an election to regain representation.
+
+Some commenters assert that the proposed notice-posting policy is contrary to the Board's role as a neutral. We disagree. The rule is merely an attempt to provide for greater protection of employee free choice in selection of a representative; it has no effect on what that choice will be.
+
+85 Fed. Reg. 18386. But that statement is not responsive to the AFL-CIO's comment concerning when the Board has chosen to provide notice. The Board did not explain why it is not "contrary to the Board's role as a neutral" to "provide for greater protection of employee free choice in selection of a representative" only after employees have done so.
+The preamble to the 2020 Rules further states:
+
+Some commenters assert that requiring notices only in the context of voluntary recognition is arbitrary: Notices are not required when an employer withdraws recognition from a certified union, or when a one-year election bar expires; non-union employers are not required to post notices to employees about how to obtain Board recognition of a union; and in no other context does the Board require that employees be given notice of their right to change their minds about a recent exercise of statutory rights. It may or may not be true that notices should be required in some of these other contexts. But the rule is not arbitrary merely because it does not address those other contexts.
+
+85 Fed. Reg. 18383 (footnote omitted). But the AFL-CIO's point was not that the proposal was arbitrary or merely underinclusive, but that it was inconsistent with the Board's neutrality. The Board did not address the central point that it required notice of employees' right not to support unions. The 2020 preamble states, "we decline to decide, in the context of this rulemaking, that postings should be required in contexts outside the scope of this rule." Id. But the Board had a duty to respond to the comment that requiring notice only in this context is inconsistent with its role as a neutral. The Board failed to do so.10
+
+
+          10 Presumably in response to the example described supra in footnote 9, the 2020 Board stated, "Consequently, [our recent decision on employer withdrawal of recognition in Johnson Controls, Inc., 368 NLRB No. 20 (2019)] established a process parallel to the one we adopt here in the final-rule." 85 Fed. Reg. 18382. But the "process" is not at all "parallel" in the respect pointed out in the AFL-CIO's comment - the Board requires the posting of notice informing
+
+      As described above, under the APA, "the opportunity to comment is meaningless unless the agency responds to significant points raised by the public." HBO, 567 F.2d at 35-36 (footnote omitted). The AFL-CIO's point that the requirement of notice only after employees obtain representation compromises the Board's statutorily mandated neutrality was without question "significant" and the agency wholly failed to respond to its central thrust. Accordingly,
+§ 130.21 was promulgated in violation of the APA, and the Board should repeal it.
+
+C. Consideration of § 103.22 (Proof of 9(a) Relationship in Construction Industry) Was Procedurally Flawed
+
+      In its 2019 NPRM, the Board proposed to "overrule Staunton Fuel[, 335 NLRB 717 (2001)], to adopt the D.C. Circuit's position that contract language alone cannot create a 9(a) bargaining relationship in the construction industry, and to incorporate the requirement of extrinsic proof of contemporaneous majority support." 84 Fed. Reg. 39930. That is, the Board proposed to change how the existence of a section 9(a) bargaining relationship may be proven in the construction industry not when such proof is required.
+      The NPRM did not propose to overrule Casale Industries, 311 NLRB 951 (1993), which held that challenges to a union's 9(a) majority status in the construction industry, regardless of whether the challenge is made in the context of a representation or unfair labor practice proceedings, would not be allowed if more than six months have passed from when the employer granted 9(a) recognition. Indeed, the NPRM did not even mention Casale's timing requirements for challenging 9(a) status in the construction industry. In fact, nowhere in the NPRM is Casale, Section 10(b), or any limitations period cited, let alone discussed. Accordingly, commenters had
+
+
+
+employees that they can petition for an election when an employer recognizes a union but not when an employer withdraws recognition from a union. The Board did not address this lack of parallel treatment.
+
+no opportunity to present their views on the continued validity of Casale because the NPRM did not give so much as a hint that the Board would overrule Casale.
+      In the Final Rules' preamble, the Board stated that, not only was it overturning Staunton Fuel, but it was also overruling Casale, meaning that an asserted 9(a) relationship in the construction industry may now be challenged at any time - even decades after the relationship was allegedly formed. 85 Fed. Reg. 18391 (Board "overrules Casale to the extent that it is inconsistent with the [Final] [R]ule."). In particular, the Board "overrule[d] Casale's holding that the Board will not entertain a claim that majority status was lacking at the time of recognition where a construction-industry employer extends 9(a) recognition to a union and 6 months elapse without a petition." Id.
+      The Board's decision to overturn Casale is not a logical outgrowth of its NPRM, meaning the Rule was promulgated in violation of the APA. See United Mine Workers of Amer., 407 F.3d at 1260 (final rule is not a logical outgrowth where "interested parties would have had to divine the Agency's unspoken thoughts because the final rule was surprisingly distant from the proposed rule") (cleaned up); CSX Transp. Inc., 584 F.3d at 1081 (there can be no finding of logical outgrowth "where the proposed rule gave no indication that the agency was considering a different approach") (cleaned up).
+The Board should repeal § 103.22 for this reason.
+
+II. EACH OF THE THREE ELEMENTS OF THE 2020 RULES IS INCONSISTENT WITH THE ACT, THE POLICIES UNDERLYING THE ACT, OR THE SOUND ADMINISTRATION OF THE ACT
+
+A. The Board Should Withdraw the 2020 Blocking Charge Rule
+
+      The Board's policy of suspending the processing of an election petition upon the filing of an unfair labor practice charge was adopted almost as soon as the Act took effect. See United
+
+States Coal & Coke Co., 3 NLRB 398, 399 (1937). Its rationale has been clearly set forth by the Board and endorsed in the courts of appeal. See, e.g., Bishop v. NLRB, 502 F.2d 1024, 1028 (5th Cir. 1974) ("The reasons for this rule do not long elude comprehension    In the absence of the
+'blocking charge' rule, many of the NLRB's sanctions against employers who are guilty of misconduct would lose all meaning.") Stated simply, the blocking charge policy prevents the Board from conducting elections when unlawful conduct will result in dismissal of the petition or would otherwise result in overturning the results if the election takes place before the unlawful conduct is remedied.
+      The 2020 Rules drastically curtailed application of the blocking charge policy and altered the substance of the policy. Empirical data clearly demonstrates the contraction and alteration of the policy was unjustified and unsound.
+      Before explaining why, it is important to demonstrate that the 2020 Rules had a significant impact. In order to do that, on July 7, 2022, the AFL-CIO again filed a FOIA request with the Board seeking data on blocking charges. Attachment 1. The Board responded on October 20, 2022, and provided such data for both the period after that previously analyzed by Professor Ferguson in relation to the 2019 NPRM and before the 2020 Rules went into effect (October 1, 2019 to May 31, 2020) and or a period after the 2020 Rules took effect (June 1, 2020 to July 21, 2022). Attachment 2. Professor Ferguson's analysis of that data combined with data from the AFL-CIO's prior FOIA request reveals a drastic fall in the number of cases blocked under the 2020 Rules. During the 14 months preceding the effective date of the 2020 Rules, 2.3% of representation cases were blocked for some period of time. But for the 14 months after the Rules took effect, only 1.3% of representation cases were blocked for some period. John- Paul Ferguson, Report: Assessing the Available Data Relevant to NLRB, Propose Rulemaking,
+
+RIN 314-AA22 Concerning Blocking Charges (Ja. 30, 2022) (Ferguson Report II) (attached hereto as Attachment 3). The acceleration of the decline in blocking correlated with the 2020 Rules is statistically significant. Id. This contraction of application of the policy together with the change in the substance of the policy was not justified and is not consistent with the purposes of the Act for the reasons we now explain.
+1. The 2020 Board Did Not Established an Adequate Rationale for Changing the Rule
+
+      The 2020 Board did not set forth an adequate rationale for changing the blocking charge rule for the following reasons.
+      First, and most centrally, the 2020 Board's rationale reduces to a truism: ". . . statistical evidence over several decades of Board elections undoubtedly shows that the blocking charge policy causes substantial delays in the conduct of elections . . .." 84 Fed. Reg. at 39937.
+Blocking elections delays elections. That is undeniably true and requires no "statistical evidence" to demonstrate. But the question the Board failed to analyze in any way is whether such delay is a reasonable means of ensuring that employees have "the opportunity to freely express their choice." Id.
+      Second, as explained supra at 5-6, the only rationale offered by the Board for adopting the blocking charge portion of the 2020 Rules is that the long-standing blocking charge policy deprives petitioners - the parties seeking an election - of a prompt election. But the overwhelming majority of blocking charges are filed by petitioners themselves in RC cases and those petitioners have the right, at any time, to request that the election proceed.
+      Analysis of data from cases filed after Professor Ferguson prepared his earlier report (described supra at 6-7) confirms the fact that the overwhelming majority of blocking charges are filed in RC cases. For the period October 1, 2011 to July 31, 2022, RC cases represent
+
+71.8% of the r cases in which blocking occurred. Ferguson Report II. There was no statistically significant change in that percentage correlated with either the 2015 or 2020 rules changes. Id.
+      While it is possible that a small number of those cases involve petitions filed by a rival union seeking to displace an incumbent union and that the incumbent union filed the blocking charge, that is highly unlikely given existing internal union procedures for resolving such disputes. See AFL-CIO Constitution, Articles XX and XXI at https://aflcio.org/reports/afl- cioconstitution. And even a cursory examination of the RC cases involving blocking charges demonstrates that they are overwhelmingly not cases involving rival union petitions. See, e.g., Vista Del Sol, 31-RC-114643 and 31-CA-115318; United Natural Foods, 21-RC-126725 and 21CA-129446; Marquez Brothers Enterprises, Inc., 21-RC-078371 and 21-CA-078519. Of course, the 2020 majority could have identified those cases involving rival union petitions, but it chose not to do so. Instead, the majority lumped all the blocking charge cases together even though in the vast majority of those cases a petitioner that wishes to proceed to an election despite the pendency of potentially blocking charges can simply request to do so because the petitioner made the request to block.
+      Thus, the 2020 majority's central rationale for the 2020 blocking charge rule simply has no application to most blocking charges.
+      Third, the 2020 majority acknowledges, as it must, that some unlawful conduct alleged in blocking charges will require dismissal of a petition and some will require a rerun election if the election is not blocked. Blocking charges that accurately allege unlawful conduct of those types provide no basis for the 2020 Rules. Rather, only those blocking charges that should not have blocked an election from proceeding even arguably support the 2020 Rules. Yet the 2020
+
+majority made no effort whatsoever to separate well-founded blocking charges from baseless blocking charges or, in other words, merited delay from unmerited delay.11
+      Many of the cases the 2020 majority cites as examples of extended periods during which elections were blocked involved charges of serious unfair labor practices that were ultimately found to have merit despite extended litigation by employers that resulted in the delay cited by the majority. For example, Space Needle, LLC, 19-RD-099357, was filed on February 28, 2013, and closed on August 27, 2018. The Board's data shows it as blocked for 1,898 days. Multiple unfair labor practice charges were filed by the union between February 21 and July 2, 2013, and an individual employee filed another unfair labor practice charge on June 10, 2013. After a trial, an Administrative Law Judge issued a decision on March 5, 2014, finding multiple violations of sections 8(a)(1), (3) and (5) of the Act, including refusal to recall employees from layoff in retaliation for union activities. The employer filed exceptions and the NLRB decision issued on January 30, 2015, affirming the judge's decision in large part. 362 NLRB No. 11. The employer filed a petition for review and the 9th Circuit issued a decision on June 13, 2017, affirming the Board's holding that the employer violated section 8(a)(1) and (3) by, among other things, discriminating against union supporters by not recalling them from layoff. Space Needle, LLC v. NLRB, 692 F.App'x 462 (9th Cir. 2017).
+      Another example is Linwood Care Center, 04-RM-145463. The petition was filed on January 30, 2015, and it was blocked until January 23, 2017, largely because the employer contested many of the charges before the judge and then took exceptions to the Board. In the unfair labor practice case, the administrative law judge found the employer had committed
+
+          11 The dissent to the 2019 NPRM points out that the data needed to perform this analysis was available to the majority but the majority chose not to gather, describe, or analyze the data in any way. 84 Fed. Reg. at 39947 (Member McFerran dissenting).
+
+numerous violations, including soliciting employees to sign a decertification petition. See 364 NLRB No. 154, slip op. at 1 n.1 (2016). Due to the employer's exceptions, the Board did not affirm the unfair labor practice findings until November 30, 2016. See id. The regional director then dismissed the petition, the employer took exceptions, the Board affirmed, the employer moved for reconsideration, and the Board finally denied that motion on January 23, 2017. See 365 NLRB No. 8 (2017).
+      Far from supporting the 2020 Rules, these cases involve wholly merited delay in the conduct of elections - delay that was extended by the employers' refusal to concede that they violated the law, precluding the existence of a question concerning representation or making a fair election impossible.
+      Fourth, the 2020 majority repeatedly cites the "long tail" of representation cases, i.e., cases where blocking charges delayed elections for extended periods of time. See, e.g., 84 Fed. Reg. at 39931, 49932, 39933. But such a "long tail" represents a few outlying cases that the most basic rules of statistical analysis suggests should not guide policy applicable across-the- board. These outliers are the majority's primary concern: "Even more concerning is the information that on December 31, 2018, there were 118 blocked petitions pending: those cases had been pending for an average of 893 days and the oldest case had been pending for 4,491 days." 84 Fed. Reg. at 39933 (emphasis added). Professor Ferguson explains:
+The Board's Notice of Proposed Rulemaking repeatedly refers to the "long tail" of a graph of the time between petition and election, suggesting that blocking charges are responsible for that "tail." In two places, the NPRM cites my article, John-Paul Ferguson, The Eyes of the Needles: A Sequential Model of Union Organizing Drives, 1999-2004, 62 Indus. & Lab. Rel. Rev. 3, 10 n.9 (Oct. 2008). The Board is incorrect to cite my article in support of the proposed rule. My article does not suggest either that blocking charges are responsible for the "long tail" or that a change of policy is merited to address such a tail. Without further analysis of whether delay in the cases constituting the "long tail" is merited, for example, because of unlawful conduct that would taint the results of an election,
+
+the mere fact that there is extended delay in a small number of cases is not persuasive grounds for a policy change.
+
+Ferguson Report I at 2. Thus, while citing outliers may be rhetorically effective, it is statistically unsound and not a rational basis for categorical reform.
+      Fifth, the 2020 majority failed to ask whether any problem with the blocking charge policy had been or are being eliminated by the rule change that went into effect in 2015.
+Effective that year, the Board added the following provision to its rules:
+
+Whenever any party to a representation proceeding files an unfair labor practice charge together with a request that it block the processing of the petition to the election, or whenever any party to a representation proceeding requests that its previously filed unfair labor practice charge block the further processing of a petition, the party shall simultaneously file, but not serve on any other party, a written offer of proof in support of the charge. The offer of proof shall provide the names of the witnesses who will testify in support of the charge and a summary of each witness's anticipated testimony. The party seeking to block the processing of a petition shall also promptly make available to the regional director the witnesses identified in its offer of proof. If the regional director determines that the party's offer of proof does not describe evidence that, if proven, would interfere with employee free choice in an election or would be inherently inconsistent with the petition itself, and thus would require that the processing of the petition be held in abeyance absent special circumstances, the regional director shall continue to process the petition and conduct the election where appropriate.
+
+29 C.F.R. § 103.20.
+
+      The 2020 majority acknowledged the possibility "that the new evidentiary requirements have facilitated quick elimination of obviously baseless blocking charges." 84 Fed. Reg. at 39933 (emphasis added). Yet the majority made no effort to assess the data or to in any other way assess whether the prior rule change had or would gradually eliminate the problem the majority sought to address through its more drastic and overbroad rule.
+      Sixth, the 2020 majority did not point to any abuse of the blocking charge policy. The 2019 NPRM is replete with assertions about how the blocking charge policy is abused to delay elections, e.g., of "abuse and manipulation of that policy by incumbent unions," 84 Fed. Reg. at
+
+39931. But the majority did not cite even a single case evidencing such abuse. Moreover, the data does not support the majority's assertion. The 2019 dissent finds that most blocking charges are meritorious, 84 Fed. Reg. 39946 n.71 (Member McFerran dissenting), and the majority in no way contests the finding. In addition, Professor Ferguson found that far from helping incumbent unions, blocking charges are associated with lower union win rates. And the length of the block bears no relationship to election outcome, undermining the majority's central assumption that blocking charges deprive petitioners of "momentum." Ferguson Report I at 2.
+      The 2020 majority simply did not put forward any reliable evidence suggesting the rule change was necessary.
+2. The 2020 Majority Mischaracterized the Existing Blocking Charge Policy
+
+      The 2020 majority failed to acknowledge that the then existing blocking charge policy was not as categorical or automatic as the majority suggested. In fact, when the majority first described the policy in the 2019 NPRM it accurately stated, "the policy affords regional directors administrative discretion to hold election petitions in abeyance or to dismiss them based on the request of a charging party alleging [unlawful conduct]." 84 Fed. Reg. at 39931 n. 4 (emphasis added). Indeed, the majority cites "[c]oncerns . . . about the Agency's regional directors not applying the blocking charge policy consistently," 84 Fed. Reg. at 39932, concerns that underscore the discretion then possessed by regional directors. The Casehandling Manual made clear that "[t]he filing of a charge does not automatically cause a petition to be held in abeyance." NLRB Casehandling Manual (Part Two), Representation, Section 11730. Similarly, the Board's Outline of Law and Procedure in Representation Cases (Aug. 2012) made clear, "The blocking charge policy is not a per se rule." Id. at 120.
+
+      In fact, the Manual made clear that there were existing exceptions to the blocking charge policy that were intended to address exactly the abuses alleged by the majority. "Where the Regional Director is giving consideration to these exceptions while implementing the blocking charge policy, it should be recognized that the policy is not intended to be misused by a party as a tactic to delay the resolution of a question concerning representation raised by a petition.
+Rather, the blocking charge policy is premised solely on the Agency's intention to protect the free choice of employees in the election process." Id. The Casehandling Manual further recognized that "Free Choice [May Be Possible] Notwithstanding [the Pendency of a] Charge." Id., Section 11731.2. Specifically,
+There may be situations where, in the presence of a request to block (Secs. 11731.1(a)), the Regional Director is of the opinion that the employees could, under the circumstances, exercise their free choice in an election and that the R case should proceed notwithstanding the existence of a concurrent Type I or Type II unfair labor practice case. In such circumstances, the Regional Director should deny the request to block.
+
+Id., Section 11731.2. In addition, when a charge was filed shortly before a preelection hearing or a scheduled election, the Manual gave regional directors discretion to not block the representation case. Section 11731.5 and 6. In the latter case,
+In situations where a party files a Type I or Type II unfair labor practice charge and requests that the ULP charge block an election that is scheduled too soon in time to allow for a determination of possible merit of the charge, the Regional Director may, in his/her discretion: (a) Postpone the election pending disposition of the charge; or (b) Hold the election as scheduled and impound the ballots until after disposition of the charge; or (c) Conduct the election, issue the tally of ballots and, in the absence of objections, issue a certification; and then proceed to investigate the charge.
+
+Id., Section 11731.6. The Manual further specified the factors to be considered in applying the exception:
+The following are among the factors to be considered under this exception: (1) The strength of the evidence described in the offer of proof in support of the
+
+
+
+
+Id.
+
+allegations, submitted with the request to block. (2) The passage of time between the alleged conduct and the filing date of the charge (3) The seriousness of the allegations and the evidence submitted with the charge as to its dissemination.
+
+
+      The discretion described in the Casehandling Manual is confirmed by Board decisions issued under the prior policy. In Columbia Pictures Corp., 81 NLRB 1313 (1949), the Board made clear that "an exception may be made to the general practice when, in certain situations, the Board is of the opinion that the direction of an immediate election will effectuate the policies of the Act." Id. at 1315. The Board found that such circumstances were present in Columbia Pictures and it thus directed an election despite the pendency of unfair labor practice charges. In New York Shipping Ass'n, 107 NLRB 123 (1953), the Board ordered an election be conducted despite recognizing its own "normal practice to refrain from conducting an election in a representation case until all complaint cases have been terminated," citing "ample Board precedent for the step we are taking." Id. at 374, 376. See also Big Tree Industries, Inc., 201 NLRB 197, 197 (1973) ("The Board also recognizes that there may be unusual and special situations which may impel the holding of elections in the face of unremedied refusal-to-bargain charges	"); Holt Bros., 146 NLRB 383, 384 (1964) (recognizing that some unfair labor
+practices "would not necessarily restrain or coerce employees and thus prevent a fair election" and directing an immediate election); West-Gate Sun Harbor Co., 93 NLRB 830, 831-32 (1951) (ongoing strike and "'eleventh hour' filing of	charges" justified proceeding with election
+despite pendency of charges); Michigan Bell Telephone Co., 63 NLRB 941, 944 (1945) ("Notwithstanding the pendency of these charges, we shall order an immediate election."); Bercut Richards Packing Co., 70 NLRB 84, 87 (1946). The courts of appeals have also recognized that the Board has discretion to continue to process an election petition despite the pendency of an unfair labor practice charge under "special circumstances." See NLRB v.
+
+Midtown Service Co., 425 F.2d 665, 672 (2d Cir. 1970). Even scholars cited by the majority in the 2019 NPRM have recognized that "Regional directors have wide discretion in allowing elections to be blocked." Eigen & Garofao, Less Is More: A Case for Structural Reform of the National Labor Relations Board, 98 Minn. L. Rev. 1879, 1896-97 (2014) (cited in 84 Fed. Reg.
+at 39932).
+
+      The 2020 majority thus mischaracterized the existing policy and failed to recognize that it was fully capable of responding to the abuses alleged by the majority.
+3. The 2020 Rules Result in Avoidable Waste of Party and Agency Resources
+
+      The 2020 Rules give regional directors no discretion to block an election even in the small category of cases where the "blocking" charge policy still applies. In every case, no matter how serious the allegations in the charge and no matter how well supported those allegations are, the regional director is powerless to block the election and, in most cases, must direct the immediate opening of the ballots. Thus, the agency is forced to conduct an election and the parties are forced to participate in an election that is all but certain to be invalidated because the alleged unlawful conduct will be grounds for dismissing the petition, see, e.g., Overnight Transportation Co., 333 NLRB 1392 (2001); Priority One Services, 331 NLRB 1527 (2000),12 or grounds for overturning the results of the election.13
+
+
+          12 This remains true even after the Board affirmed the continued existence of "merit- determination dismissals in Rieth-Riley Const. Co., 371 NLRB No. 109 (2022), because the filing of a charge that might result in such a dismissal will not block the conduct of the election under the 2020 Rules and, in some instances, the General Counsel will not issue a complaint within 60 days of the filing of such a charge, resulting in the ballots being opened under the 2020 Rules.
+          13 Unlawful conduct is ordinarily grounds for overturning election results. See Playskool Mfg. Co., 140 NLRB 1417 (1963), "conduct of this nature which is violative of Section 8(a)(1) is, a fortiori, conduct which interferes with the exercise of a free and untrammeled choice in an election." See also IRIS U.S.A., Inc., 336 NLRB 1013, 1013 (2001);
+
+      Giving regional directors no discretion to block elections has caused and will continue to cause the agency to conduct elections and to rerun elections under circumstances where it was obvious that the petition should have been dismissed or that the initial election would be tainted. For example, under the 2020 rule, a charge that (1) alleges that, in a unit of eight employees, the company president directed and was personally present when, ten days before a scheduled election, supervisors lined all eight employees up against a wall, fired the lead union activist and informed all the other seven employees they would also be fired if they voted for a union and (2) is supported by sworn affidavits from all eight employees and two of the supervisors who were present, is insufficient to block an election or even to block the opening of the ballots. The regional director is forced to conduct the election and open the ballots when it is certain the results will be overturned and a rerun election will be necessary. This results in a wholly arbitrary waste of agency and party resources.
+      Obviously, a reasoned policy choice involves a balancing of interests. Overbroad application of the former policy may have resulted in some unjustified delay of elections. But the 2020 rule undeniably results in elections being conducted when the petition should have been dismissed or when the results will be overturned. A reasoned balancing of interests requires some attempt to quantify these interests by evaluating the nature, seriousness and validity of blocking charges. The 2020 majority did not even attempt such a reasoned balancing. Instead, it proceeded by assertion: "any burden in conducting elections created where the ballots may never be counted is more than offset by the benefit of preserving employees' free choice." 84
+
+
+
+Diamond Walnut Growers, Inc., 326 NLRB 28, 29 (1998). This is so "because the test of conduct which may interfere with the "laboratory conditions' for an election is considerably more restrictive than the test of conduct which amounts to interference, restraint, or coercion which violates Section 8(a)(1)." Dal-Tex Optical Co., 137 NLRB 1782, 1786-87 (1962).
+
+Fed. Reg. at 39938. The majority made no attempt to quantify either the "burden" or the "benefit" and thus its conclusion that the latter is "more than offset by" the former is completely unfounded not to mention that free choice is compromised not preserved by the 2020 Rules.
+4. The 2020 Rules Do Not Effectuate Employee Sentiment Any Sooner
+
+      While the 2020 Rules may result in elections taking place sooner, they do not expedite the effectuation of employees' choice any sooner. Rather, they simply shift the adjudication of unfair labor practices from before to after elections while, in a small subset of cases, impounding the ballot until after the adjudication. The central objective of all petitions -- to change employees' representational status from unrepresented to represented, from represented to unrepresented, or from being represented by one union to being represented by another union - is not be achieved any sooner.
+5. Forcing Employees to Vote Under Coercive Conditions Will Taint Subsequent Votes
+
+       The benefits of the former blocking charge policy were not simply that it prevented a waste of agency and party resources by blocking elections from taking place that were the product of tainted petitions or the results of which will be overturned due to unlawful and thus objectionable conduct. The former policy also prevented employees from voting under coercive conditions. The 2020 Rules, in contrast, force employees to vote under coercive conditions with the only remedy being either subsequent dismissal of the petition or a rerun election. The 2020 majority did not acknowledge this violation of employee rights or evaluate its impact on the subsequent free choice of employees who were initially coerced in the exercise of the franchise.
+      The tainted votes that the 2020 Rules require regional directors to conduct affect a second election even if the ballots from the first election are impounded and never opened and, all the more so when the ballots are opened and counted. The 2020 Rules force employees to
+
+acknowledge their first vote was coerced and to change their vote. That is not only inconsistent with the free choice the Act guarantees, but is psychologically difficult for many employees.
+The 2020 Rules also force employees, in most instances, to vote after they know the outcome of the first, tainted vote. That both suppresses turnout in a rerun election and tends to sway the vote against representation when that was the announced outcome of the first vote.
+      Significant empirical evidence from elections of government officials support those conclusions. Knowing the outcome of the first election is analogous to knowing the outcome of exit polling or actual early returns before voting. And studies of the impact of announcing exit poll results or early returns before all polls close demonstrate that it has two effects: it decreases turnout and it creates a "bandwagon effect," i.e., it causes voters to vote for the candidate they believe will win. For example, a study of elections in France before and after a law went into effect barring release of exit poll results from the mainland before polls closed in all overseas territories found that information about the likely outcome decreased turnout by 12 percent and also increased the margin of victory of the likely winner (creating a "bandwagon" effect). See Rebecca Morton, et al., Exit Polls, Turnout, and Bandwagon Voting: Evidence from a Natural Experiment, CREMA Working Paper No. 2013-01 (Center for Research in Economics, Management and the Arts 2013). Another study from the world's largest democracy, India, also found that a ban on release of exit polls until all voting was complete increased voter turnout See Somdeep Chatterjee & Jai Kamal, Voting for the Underdog or Jumping on the Bandwagon? Evidence from India's Exit Poll Ban (January 11, 2019), https://ssrn.com/abstract=3332196.
+While the latter study found an "underdog" effect instead of a bandwagon effect, a strong bandwagon effect was also found in a study of Brazilian elections after a technical error led to some voters casting their ballots after official tallies started being announced in 2018. See Victor
+
+Araujo & Malu A.C. Gatto, Casting Ballots When Knowing Results, 52 British J. of Pol. Sci. 1709-27 (2022). These studies suggest that by allowing the opening of ballots in most cases, despite the pendency of unfair labor practice charges that are likely to lead to a rerun election, the 2020 Rules likely both decrease turnout and influence the outcome of the run election.
+      And even when the outcome of the first election are not known, because the ulp charges fall into the narrow category that can still result in impoundment of ballots, the act of voting under coercive conditions inevitably effects how employees vote in a rerun election. Again, evidence from the social sciences supports that conclusion. Experimental evidence suggests that once people make a difficult choice (here to reject representation), they tend to reduce the cognitive dissonance created by the factors weighing against the choice (here those that favor representation) by discounting those factors. See J.W. Brehm, Postdecision changes in the desirability of alternatives, 52 J. of Abnormal and Social Psych. 384-89 (1956), https://www.semanticscholar.org/paper/Postdecision-changes-in-the-desirability-of- Brehm/aea32a2d5a76f2f7c9cab957a4ed160bc8648fb8. Similarly, employees who are coerced to vote against representation likely discount the reasons why they wanted to support representation after the coerced choice.
+The 2020 Rules thus perpetuate the effects of the unlawful conduct.
+
+6. Blocking Charges May Properly Be Based on Pre-Petition Unlawful Conduct
+
+       The one specific concern expressed by the 2020 majority concerning the blocking charge policy does not make sense. The majority cites three "serious concerns" about the current policy. 84 Fed. Reg. at 39937. The first two are vague, general concerns about delay and the delay not being based on fully litigated unfair labor practices. Id. The third concern is that elections are sometime blocked based on allegations of unlawful conduct that took place before
+
+the petition was filed and that thus would not ordinarily be grounds for an objection to the outcome of the election. Id. But the third concern makes no sense as one of the central and most important grounds for blocking an election is the presence of credible allegations that the employer's unlawful conduct led to or the employer actually solicited the petition. See Casehandling Manual section 11730.3(a) (charge that "alleges the employer's representatives were directly or indirectly involved in the initiation of a RD or UD petition.") Thus, it is not at all illogical for allegation of unlawful conduct that preceded the petition to be grounds for blocking an election.
+7. The 2020 Rules Discourage Settlement of Charges and Permit Tainted Ballots to be Opened
+
+      The 2020 Rules provide that ballots shall be impounded "[i]f the charge has not been withdrawn, dismissed, or settled prior to the conclusion of the election." 84 Fed. Reg. at 39958 (section 103.20). In other words, a charge that is settled no longer blocks an election or results in dismissal of a petition. The Rules thus discourage the settlement of charges, imposing costs on both the agency and the parties.
+      In addition, the 2020 Rules are inconsistent with Board precedent making clear that an election cannot be held until conduct that would taint its outcome has been fully remedied either as the result of a post-adjudication order or a settlement. See Cablevision Systems Corp., 367 NLRB No. 59, slip op. at 1, 3 (2018) (citing with approval Truserv Corp., 349 NLRB 227, 227 (2007) ("we hold that . . . the decertification petition can be processed and an election can be held after the completion of the remedial period associated with the settlement of the unfair labor practice charge.")) (emphasis added). While the 2019 dissent pointed this out, see 84 Fed. Reg. at 39949 (Member McFerran dissenting), the majority simply ignored the inconsistency.
+
+      The Board should revoke the 2020 modification of the blocking charge policy for those reasons.
+B. The Board Should Revoke the 2020 Rules' Modification of the Recognition Bar
+
+1. Voluntary Recognition is Expressly Endorsed in the Act, Has Been Approved by the Supreme Court, and Is Entitled to Immediate Respect
+
+Voluntary recognition of a union representative by employers has always been a part of
+
+U.S. labor relations. Far from displacing voluntary recognition, the NLRA created the election process only as a means of resolving questions of representation when the parties could not resolve them privately. Section 9(c)(1)(A)(i) of the Act provides that employees can file a petition for an election alleging "that their employer declines to recognize their representative." The legislative history of both the Wagner and Taft-Hartley Acts expressly recognize the legitimacy of voluntary recognition. See, e.g., H. R. Rep. No. 74-969, at 4 (1935), reprinted in 2 Legislative History of the National Labor Relations Act 1935, at 2914 (1949) (an election is appropriate "[w]hen an employee organization has built up its membership to a point where it is entitled to be recognized . . . and the employer refuses to accord such recognition"); NLRB v. Gissel Packing Co., 395 U.S. 575, 598 (1969) (citing H.R. Conf. Rep. No. 510, 80th Cong., 1st Sess., 41 (1947)) (discussing rejected amendment to Section 8(a)(5) that would have permitted the Board to find that an employer had unlawfully refused to bargain only with "a union 'currently recognized by the employer or certified as such [through an election] under section 9.'")
+      The 2020 majority recognized that the Supreme Court has made clear that "'a Board election is not the only method by which an employer may satisfy itself as to the union's majority status [under Section 9(a) of the Act]. United Mine Workers v. Arkansas Flooring Co.,
+
+351 U.S. 62, 72 n.8 (1956). Voluntary recognition agreements based on a union's showing of majority support are undisputedly lawful. NLRB v. Gissel Packing Co., 395 U.S. 575, 595-600 (1969)." 84 Fed. Reg. at 39933. Voluntary recognition is in no way legally suspect and none of the prior case law or isolated statements in that case law cited by the 2020 majority provide a rationale for delaying application of the recognition bar.
+      With Supreme Court approval, prior to the 2020 Rules, the Board had developed a coherent and uniform jurisprudence that respects employees' choice to be represented for a reasonable period of time. As the Court explained, "[A] bargaining relationship once rightfully established must be permitted to exist and function for a reasonable period in which it can be given a fair chance to succeed." Franks Bros. Co. v. NLRB, 321 U.S. 702, 705 (1944). The Board has applied that principle after an election, after a bargaining order, after successorship, and after voluntary recognition. 29 U.S.C. § 159(c)(3); Brooks v. NLRB, 348 U.S. 96 (1954); Franks Bros., 321 U.S. at 702; Lee Lumber & Building Materials Corp., 334 NLRB 399 (2001),
+enf'd, 310 F.3d 209 (D.C. Cir. 2002); Caterair International, 322 NLRB 64 (1996); UGL- UNICCO Service Co., 355 NLRB 748 (2010). As the Second Circuit has recognized, there is a "general Board policy of protecting validly established bargaining relationships during their embryonic stages." NLRB v. Cayuga Crushed Stone, Inc., 474 F.2d 1380, 1384 n.5 (2d Cir.
+1973).
+
+      The 2020 majority did not provide a compelling rationale for disrupting this coherent jurisprudence.
+2. The 2020 Majority's Rationale Did Not Consider Existing Safeguards of the Veracity of Voluntary Recognition
+
+      While the 2020 majority summarily asserted that Board-supervised elections are superior to voluntary recognition, it did so only by focusing narrowly on a comparison of the moment
+
+when a ballot is cast to the moment when a card is signed. The majority thus wholly failed to consider the safeguards that already apply to voluntary recognition, but not to Board-supervised elections. Those safeguards render the 2020 Rules unnecessary.
+      First, voluntary recognition must be based on an absolute majority of employees in the unit in contrast to the majority of those voting which suffices in a Board-supervised election. Using the 80% average turnout in Board elections in fiscal year 2010 cited by the majority in Lamons Gasket, this difference in the required showing means that, on average, while the support of 40% of the units in an election is sufficient to bind all employees, 25% more support or 50% of the entire unit is needed for lawful voluntary recognition. This absolute majority requirement helps to ensure that authorization cards reflect majority sentiment.
+      Second, while the 2020 majority cites the potential for challenges and objections after a Board supervised election, it does not acknowledge the fact that employees cannot file such challenges or objections because they are not parties in representation cases (unless they are petitioners). See 29 C.F.R. 102.69(a) (providing that "any party" may filed objections). In contrast, anyone, including any employee, can file an unfair labor practice alleging that voluntary recognition was not based on majority support or was based on coerced support. See 29 C.F.R.
+102.9 (providing that "[a]ny person" may file a charge).
+
+      Third, while the parties have only seven days post-election to file objections, employees have a full six months to file unfair labor practice charges after voluntary recognition if they believe it was unlawful. Compare 29 C.F.R. § 102.69(a) with 29 U.S.C. § 160(b).
+      Thus, as in Dana Corp., 351 NLRB 434 (2007), the 2020 majority fails to "explain why these existing safeguards, which, in critical respects, are more protective of freedom of choice than those used in Board-supervised elections, are inadequate to insure that voluntary recognition
+
+truly rests on employees' free choice," i.e., why the proposed rule is needed. Lamons Gasket, 357 NLRB at 747.
+3. The 2020 Rules are Overbroad Because They Encompass Voluntary Recognition Based on Secret Ballot Elections
+
+      The sole rationale for the 2020 Rule is that secret ballot elections are a superior means of gauging employee sentiment in relation to a showing of majority support based on authorization cards. Thus, the 2020 majority cites the Dana majority's contentions that (1) "card signings are public actions, susceptible to group pressure exerted at the moment of choice" in "contrast to a secret ballot vote" and (2) "card signings take placed over a protracted period of time" in contrast to an election which "presents a clear picture of employee voter preference at a single moment." 84 Fed. Reg. at 39934 (quoting Dana Corp., 351 NLRB at 438, 439). But neither of those alleged failings of card showings apply to a privately conducted, secret ballot election. See, e.g., Casale Industries, 311 NLRB 951, 951 (1993). Nevertheless, the 2020 Rules apply to voluntary recognition based on such an election.
+      It is no answer to suggest that Board supervision better ensures the integrity of elections because supervision by respected private agencies, such as the American Arbitration Association, does the same. Private election agreements can and often do provide for postelection procedures that parallel the Board's post-election procedures. See, e.g., AAA, Election Arbitration Rules, Rule 8, available at https://www.adr.org/sites/default/files/Election%20Arbitration%20Rules.pdf.
+The 2020 Rules are thus overbroad even if one were to accept their rationale as sound.
+
+4. Certification After an Election Already Places Unions in a Different Legal Status Than Voluntary Recognition
+
+The 2019 NPRM states that "the Lamons Gasket majority failed to accept" the Supreme
+
+Court's statement that "secret ballot elections are generally the most satisfactory - indeed the preferred - method of ascertaining whether a union has majority support." 84 Fed. Reg. at 39938. But that suggests that, absent the proposed rule, voluntary recognition and certification place unions in the same legal status. That is simply incorrect. The majority fails to recognize the different consequences of voluntary recognition and certification.
+      Certification after an election places unions in a different legal status than voluntary recognition. If that were not the case, there would be no reason why the Board would permit a recognized union to petition for an election in order to obtain certification. See General Box Co., 82 NLRB 678, 680 (1949) (permitting such petitions so that voluntarily recognized union can secure the "benefits which the amended statute reserves to certified unions.").
+      Certification results in a 12-month irrefutable presumption of majority support, barring both an election and withdrawal of recognition. Voluntary recognition, after Lamons Gasket and under the now proposed rule, only results in a minimum of six months of such a presumption. In addition, certification, unlike voluntary recognition, provides protection against recognitional picketing by rival unions under Section 8(b)(4)(C); bestows the right to engage in certain secondary and recognitional activity under Section 8(b)(4)(B) and 8(b)(7)(A); and, in certain circumstances, creates a defense to allegations of unlawful jurisdictional picketing under Section 8(b)(4)(D). The 2020 majority did not recognize these distinctions and thus did not explain why they are not sufficient to satisfy the general preference for elections it expressed.
+      For these reasons, the 2020 majority's mere reliance on broad statements of preference for elections was an insufficient basis for the 2020 Rules.
+
+5. Prior Experience Under Dana and Experience Under the 2020 Rules Demonstrates That the Rules Are Unnecessary
+
+      The 2020 Rules codified the Board's previously overturned decision in Dana. That decision was in effect from September 29, 2007, to August 26, 2011. Thus, the 2020 majority had almost a full four-years of experience to analyze in deciding to proceed with ts rulemaking. That experience conclusively demonstrated that employees do not often want to reverse their expression of desire for representation as registered via signing of authorization cards even when prompted to do so by the Board. And that evidence has been further validated by data concerning the experience under the 2020 Rules.
+       In Lamons Gasket, the Board examined the experience under Dana and found that there were 1,333 requests for notices, 102 resulted in petitions for an election, and in 16 of those elections the employees voted against representation by the incumbent union. Thus, employees changed their mind only slightly more than 1 time in 100 or 1.2% of the time. 357 NLRB at 742.
+       Using the data supplied by the Board pursuant to the FOIA request described above, the AFL-CIO reexamined the experience under Dana. The Board provided with data on Dana petitions through December 31, 2009. The data revealed that a total of 951 requests for notices were made in 2007, 2008 and 2009. Posting of the notices led to 78 petitions. The petitions resulted in only 9 elections in which employees rejected union representation and the results were certified. Ferguson Report I at 2. Thus, less than 1% of the voluntary recognitions were reversed by elections conducted under Dana. Far from demonstrating that card signing is unreliable, this data suggests the reverse. At a minimum, the data demonstrates that the rule is unnecessary and creates an additional process, added burden on the parties and the Board, and delay in bargaining for no sound reason.
+
+      The current NPRM continues this story to the present and it is the same. For the period from the effective date of the 2020 Rules, June 1, 2020, to June 30, 2022, 260 requests for notices were filed after voluntary recognition and only one petition for an election was filed. 87 Fed. Reg. 66898. No elections were held because the union disclaimed interest in the one case where a petition was filed. Id. Thus, even assuming that the union disclaimed interest because it would have been decertified in the election, the procedure affirmed the initial expression of majority support in over 99% of cases.
+      The 2020 majority had no answer to this conclusive data. The 2019 NPRM cites the finding from Lamons Gasket only in a footnote and without comment. 84 Fed. Reg. at 39934n.26. The majority later states, "The Board also believes that the Board election statistics cited by the Lamons Gasket majority with respect to the limited number of elections held under Dana Procedures support, rather than detract from, the need for a notice and brief open period following voluntary recognition." 84 Fed. Reg. at 39938. This assertion is followed by only one sentence in any way suggesting the procedures served their intended purpose - ensuring the veracity of employee preferences expressed via signed authorization cards. "Dana has served the intended purpose of assuring employee free choice in those cases where the choice made in the preferred Board electoral process contradicted the showing on which voluntary recognition was granted." Id. (quoting Lamons Gasket, 357 NLRB at 751) (Member Hayes, dissenting). But that conclusion does not follow. It is more likely that the Dana experiment demonstrated the obvious - that a small number of employees change their minds over time whether the initial expression of preference is via casting a ballot or signing a card. Of course, that possibility is exactly why Congress inserted the 12-month statutory bar on petitions after all elections - to
+
+ensure respect for an initial choice even though in some cases employees may change their minds. See 29 U.S.C. § 159(c)(3).
+This is verified by experience reflected in the case law. For example, in Brooks v.
+
+NLRB, 348 U.S. 96, 97 (1954), employees voted for union representation in a Board-supervised election, but a week later the employees presented a petition to their employer signed by a majority of employees stating they no longer wished to be represented. The Supreme Court has also recognized that an employee "may think better of his choice" shortly after an election.
+Gissel, 395 U.S. at 604.
+
+      Even if we assumed that employee sentiment expressed in an election is stable, i.e., is not subject to change, the small amount of change registered under Dana is not statistically significant and thus neither is the even smaller amount registered under the 2020 Rules.
+Professor Ferguson concludes:
+
+      If we assume that elections perfectly reflect the wishes of employees and that those wishes are stable over time, then the difference between a hypothetical 951 elections resulting in no changed outcomes when subject to a Dana process and 951 voluntary recognitions resulting in 9 changed outcomes is not statistically significant. Simply put, there is no evidence here that voluntary recognition is a less reliable indicator of employee wishes than an election.
+
+Ferguson Report I at 3.
+
+       In other words, the 2020 majority never addressed the actual significance (or lack thereof) of the fact that employees expressed a different choice in an election after a card check only slightly more than one time for every 100 notices that were posted. And thus the majority in no way addressed the likelihood that at least as many election results would have been reversed by a rerun election held after the Board posted a notice informing employees they could petition to overturn the results of the first election. The majority acknowledges that an election "presents a clear picture of employee voter preference at a single moment." 84 Fed. Reg. at
+
+39934 (emphasis added). But it is a virtual certainty that that preference changes over time and that a second election held at a second "single moment," 45 or 60 days after the first, would present a different "picture of employee voter preference" at least once in every 100 cases.
+The Board's own experience and data thus demonstrate that the 2020 Rule is
+unnecessary.
+
+6. Requiring Posting of An Official Notice Informing Employees of Their Rights Only After Employees Choose to Be Represented and Not Requiring Such Notice After Other Changes in Representational Status is Inconsistent With the Board's Neutrality
+
+       The Act requires that the Board be strictly neutral. The Board acts as an impartial "referee" because the "Act is wholly neutral when it comes to [employees'] basic choice" of whether to be represented. H.K. Porter Co. v. NLRB, 397 U.S. 99, 108 (1970). "The Board in its supervision of union elections may not sanction procedures that cast their weight for the choice of a union and against a nonunion shop or for a nonunion shop and against a union." NLRB v.
+Savair Mfg. Co., 414 U.S. 270, 280 (1973). Yet the 2020 Rule does exactly that by requiring that employees be notified only of their right to revisit their choice to be represented as we explained supra at 16-18.
+       In no other context does the Board give notice to employees of their right to change their minds about the exercise of their rights. Tellingly, this is even true in the mirror image situation when a majority of employees have registered their desire not to be represented by non-electoral means and their employer has voluntarily recognized their wishes by withdrawing recognition.
+When an employer lawfully withdraws recognition based on a petition or other non-electoral showing of lack of majority support, the Board does not require the employer to post a notice informing employees that they can file a petition for an election in order to regain representation. The non-electoral showing of lack of majority support is no more reliable than the non-electoral
+
+showing of majority support addressed in the 2020 Rules. Yet the 2020 Rules treats these mirror image actions by employers differently without any justification except an impermissible bias against representation.
+The 2020 majority states:
+
+      This modification to the current immediate voluntary recognition bar is not intended to and should not have the effect of discouraging parties from entering into collective-bargaining relationships and agreements through the undisputedly valid procedure of voluntary recognition based on a contemporaneous showing of majority support.
+
+ 84 Fed. Reg. 39939. But employees could not possible understand the required notice as anything other than a suggestion from the agency that the voluntary recognition of the union was suspect. The 2020 Rule thus compromises the Board's neutrality and violates the Act.
+7. The 2020 Rule is Inconsistent With the Fundamental Purpose of the Act
+
+      Treating voluntary recognition less favorably than other lawful means of establishing a bargaining relationship is inconsistent with the fundamental purpose of the Act. In the preamble itself, Congress made clear that the Act was intended to address "the refusal by some employers to accept the procedure of collective bargaining." 29 U.S.C. § 151. Central to that purpose was "encouraging practices fundamental to the friendly adjustment of industrial disputes." Id.
+Disfavoring relationships formed with employers who "accept the procedure of collective bargaining," i.e., via "friendly adjustment," is inconsistent with congressional intent.
+      Even if the private ordering encouraged by the Act were limited to collective bargaining after a bargaining relationship is formed, it is well recognized that bargaining relationships formed voluntarily are more likely to result in successful collective bargaining. "The establishment of a successful collective bargaining relationship is best accomplished by the
+
+parties themselves-the employer, the union, and the unit employees." Smith Food & Drug, 320 NLRB 844, 847 (1996) (Chairman Gould, concurring).
+      This self-evident proposition is supported by empirical evidence. Compare John-Paul Ferguson, The Eyes of the Needles: A Sequential Model of Union Organizing Drives, 1999-2004, 62 Indus. & Lab. Rel. Rev. 3, 5 (2008) (finding that between 1999 and 2004, representatives chosen by employees in a Board-supervised election subsequently reached a collective- bargaining agreement with the employees' employer within two years in only 56 percent of the cases) with Adrienne Eaton & Jill Kriesky, Union Organizing Under Neutrality and Card Check Agreements, 55 Indus. & Lab. Rel. Rev. 42, 52 (2001) (finding that after 118 agreements in which employers agreed to recognize unions voluntarily, based on nonelectoral evidence of majority support, the parties entered into a collective-bargaining agreement in close to 100 percent of cases).
+      Moreover, despite the 2020 majority's protestations to the contrary, see 84 Fed. Reg. at 39938, the possibility of a petition being filed while Dana was in effect and since the 2020 Rules took effect has caused employers to delay bargaining despite their legal obligation to the contrary. See Lamons Gasket, 357 NLRB at 747 n.30 (citing union and scholar amicus briefs); id., 16-RD-001597, Brief of Amicus Service Employees International Union at 11. Employers logically decide not to bargain when a possibility exists that the obligation to do so will be eliminated. This predictable effect is also contrary to the purposes of the Act.
+      The 2020 Rule subjects voluntary recognition to unique scrutiny and uncertainty and is thus at war with the purposes of the Act.
+
+C. The Board Should Revoke the 2020 Rules' Modification of the Evidence Required to Prove a 9(a) Relationship in the Construction Industry and the Period During Which a Petitioner May Challenge the Legality of Such a Relationship
+
+      NABTU and the AFL-CIO agree that adoption of the current rule in 2020 was ill-advised and that Section 103.22 of the Board's Rules and Regulations, 29 C.F.R. § 103.22, should now be rescinded. Rescinding the current rule will restore stability to collective bargaining relationships in the construction industry as well as enhance the efficiency and effectiveness of representation proceedings involving construction industry employers and unions.
+      Section 103.22 upends decades of settled Board law governing voluntary recognition and collective bargaining relationships in the construction industry. Disregarding those precedents, the Board's current rule provides that:
+A voluntary recognition or collective-bargaining agreement between an employer primarily engaged in the building and construction industry and a labor organization will not bar any election petition filed pursuant to section 9(c) or 9(e) of the Act absent positive evidence that the union unequivocally demanded recognition as the section 9(a) exclusive bargaining representative of employees in an appropriate bargaining unit, and that the employer unequivocally accepted it as such, based on a contemporaneous showing of support from a majority of employees in an appropriate unit. Collective-bargaining agreement language, standing alone, will not be sufficient to provide the showing of majority support.
+
+29 C.F.R. § 103.22(a). This rule applies to an employer's recognition extended on or after April 1, 2020, the effective date of the rule. 29 C.F.R. § 103.22(b).
+      The current rule was not supported by a reasoned analysis. Neither the majority in 2020 nor the current dissenting members cited any cases or examples in which employee free choice was undermined by application of contract bar rules in effect prior to 2020. The Board's proposal would wisely rescind Section 103.22 and reinstate the law that applied prior to its adoption,
+
+including the Board's decisions in Staunton Fuel and Material, 335 NLRB 717 (2001), and
+
+Casale Industries, 311 NLRB 951 (1993).
+
+      The Board in 2020 also failed to acknowledge the detrimental effect that the rule would have on the stability of collective bargaining relationships in the construction industry and on the conduct of representation proceedings. The proposal to rescind Section 103.22 is supported by three fundamental principles applicable to bargaining relationships in the construction industry, all of which the Board should continue to apply.
+      First, parties in the construction industry are free to create Section 9(a) bargaining relationships where the union has the support of a majority of bargaining unit employees. Importantly, when the union does not have majority support, as in all other industries, recognition of a minority union as the Section 9(a) representative violates the Act.
+      Second, Staunton Fuel describes the contract language that is necessary to show the requisite intent to enter into a Section 9(a) relationship (i.e., to overcome the presumption that an agreement was made under Section 8(f))also describes language that, in the absence of any contrary evidence, memorializes the creation of a lawful Section 9(a) relationship - a result fully consistent with the common law of contracts and evidence and reaffirmed in Enright Seeding.
+      Third, the Board's long-standing contract bar rules apply to Section 9(a) relationships in all industries, including construction. Except under the limited circumstances described in Casale, those rules prohibit litigation in representation cases of claims that a union lacked majority support when it sought and received Section 9(a) recognition from an employer.
+      For these reasons, as set forth in greater detail below, NABTU and the AFL-CIO respectfully requests that the Board adopt its proposal to rescind Section 103.22 of its Rules and Regulations, 29 C.F.R. § 103.22.
+
+1. Unions and Employers in the Construction Industry are Free to Establish Collective Bargaining Relationships Under Section 9(a) of the Act When the Union has Majority Support Among Bargaining Unit Employees.
+
+      As both the Board and the dissenters acknowledge, the Act permits construction unions and employers, like unions and employers in all other industries, to create Section 9(a) bargaining relationships when the majority of employees in the bargaining unit supports the union. 87 Fed. Reg. at 66912, 66925. Indeed, the second proviso to Section 8(f) expressly states that unions in the construction industry are not barred from filing election petitions to achieve Section 9 status during the term of an 8(f) agreement. 29 U.S.C. § 158(f). The Board has repeatedly upheld this principle. See, e.g., Island Construction Co., 135 NLRB 13, 15 (1962) ("the Employer is engaged in the building and construction industry and has entered into agreements with the [Union]..., which proved its majority in a manner recognized as valid under Section 9(a)."). See also Mishara Construction, 171 NLRB 471 (1968) ("In Island Construction Co. the Board held that Section 8(f) was not intended to apply to collective-bargaining agreements executed by a union which had attained representative status, either by Board certification or by voluntary recognition pursuant to Section 9(a).").
+      In John Deklewa & Sons, the Board, citing Island Construction, stated that unions in the construction industry were "free at all times to seek to establish a 9(a) majority-based relationship with an employer through . . . traditional means," including through "recognition based on a clear showing of majority support." 282 NLRB 1375, 1386 n.44, 1387 n.53 (1987), enf'd sub nom. Iron Workers Local 3 v. NLRB, 843 F.2d 770 (3rd Cir. 1988). A year later, the Board reaffirmed that Deklewa "does not preclude parties in the construction industry from entering into a traditional 9(a) relationship," including one created by "an employer voluntarily recogniz[ing] a union based on a clear showing of majority support." J&R Tile, Inc., 291 NLRB
+
+1034, 1036 (1988). See also American Automatic Sprinkler Systems, Inc. v. NLRB, 163 F.3d 209, 217 (4th Cir. 1998) ("There is nothing in either the text or the statutory framework of the Act that purports to limit in any way the rights of employees in the construction industry to designate and select their own bargaining representatives pursuant to section 9(a).").
+      The Board has also consistently emphasized that "unions do not have less favored status with respect to construction industry employers than they possess with respect to those outside the construction industry." J&R Tile, 291 NLRB at 1036 (citing Deklewa, 282 NLRB at 1387 n.53). The availability of 8(f) agreements in the construction industry, therefore, does not preclude construction unions from forming 9(a) relationships by traditional means, including voluntary recognition. Accordingly, employers and unions in the construction industry have the same right to enter into Section 9(a) bargaining relationships as do parties in other industries.14
+2. Staunton Fuel Describes Language that, in the Absence of Contrary Evidence, Shows that a Lawful Section 9(a) Relationship Was Established at the Time of Recognition.
+
+      A Section 9(a) bargaining relationship, unlike a bargaining relationship based on Section 8(f), requires that the union enjoy the support of a majority of employees in the bargaining unit. 29 U.S.C. § 159(a). But "the availability of 8(f) agreements in the construction industry renders ambiguous a union's demand to execute a collective bargaining agreement." J&R Tile, 291 NLRB at 1036. To resolve this ambiguity, the Board developed a reasoned and systematic
+
+
+
+          14 The AFL-CIO and NABTU note that, in one small respect the NPRM misstates the law applicable to unions in the construction industry. At 87 FR 66899, the Board quotes that part of its decision in Deklewa in which the Board stated that a union cannot picket to compel renewal of a Section 8(f) agreement. The Board clarified that issue in Laborers Local 1989 (Fisher Const., Inc.), 296 NLRB 1332 (1989), and in Laborers Local 1184 (NVE Constructors, Inc.), 296 NLRB 1324 (1989), holding in those cases that unions in the construction industry have the same right as unions in other industries to picket for recognition, regardless of whether that picketing seeks initial recognition or renewal of a Section 8(f) agreement.
+
+approach to ascertain whether parties in the construction industry intended to create a Section 8(f) or 9(a) relationship.
+      In Deklewa, the Board announced that bargaining relationships in the construction industry would be presumed to be Section 8(f) relationships, 282 NLRB at 1385, n.41, "unless the party asserting a collective bargaining relationship under Section 9(a) affirmatively prove[d] that such a relationship exist[ed]." J&R Tile, 291 NLRB at 1036. See also Nova Plumbing, Inc. v. NLRB, 330 F.3d 531, 537 (D.C. Cir. 2003) ("a construction industry contract will be presumed to be governed by section 8(f) unless the employer and union clearly intended to create a section 9(a) agreement").
+      Because Deklewa presumes bargaining relationships in the construction industry are made under Section 8(f), parties seeking to prove the existence of a 9(a) relationship must clear two evidentiary hurdles. First, the parties must show that they intended to create a Section 9(a) relationship to overcome Deklewa's 8(f) presumption. Second, the parties must then show that a Section 9(a) relationship was lawfully established at the time of recognition, i.e., that the union enjoyed majority support. The Board addressed the first issue in J&R Tile and again in Staunton Fuel. The Board also addressed the second issue in Staunton Fuel and more recently in Enright Seeding, 371 NLRB No. 127 (2022) - cases in which the Board held that, in some circumstances, contract language could show the existence of majority support.
+      In J&R Tile, the Board held that, to show the intent required to overcome the Section 8(f) presumption, "there must be evidence that the union unequivocally demanded recognition as the employees' 9(a) representative and the employer unequivocally accepted it as such." 291 NLRB at 1036. Importantly, the Board explained that this rule was not intended to place an additional burden on construction industry unions. The rule was merely a response to "the practical
+
+considerations raised by executing collective bargaining agreements in the construction industry." Id.15
+      The Board addressed that issue again in Staunton Fuel. In Staunton Fuel, the Board considered whether and how a union in the construction industry could "acquire, through agreement with the employer, the status of majority representative under Section 9(a)." 335 NLRB at 717. In other words, Staunton Fuel - like J&R Tile - asked how parties may show their intent to create a Section 9(a) relationship. But it also asked a second question: whether contract language alone could ever serve as sufficient evidence that the parties had lawfully established a Section 9(a) relationship at the time of recognition. Adopting the Tenth Circuit's approach in NLRB v. Triple C Maintenance, Inc., 219 F.3d 1147 (10th Cir. 2000), the Board held that a written agreement constituted evidence of a union's lawful Section 9(a) status if the contract language unequivocally stated that: (1) the union had requested Section 9(a) recognition; (2) the employer had granted Section 9(a) recognition; and (3) the employer's recognition had been based on the union's showing, or offer to show, evidence of its majority support. Staunton Fuel, 335 NLRB at 719-20.
+      The first two elements of Staunton Fuel, like J&R Tile, provide the standard for determining whether contract language can serve as sufficient evidence that the parties intended to create a Section 9(a) relationship. See Colorado Fire Sprinkler v. NLRB, 891 F.3d 1031, 1040 (D.C. Cir. 2018) ("The first two prongs of the Staunton test...document the union's and
+
+
+           15 Because that practical problem does not exist in non-construction industries, no specific showing or language is required in those other settings to establish that the parties intended a Section 9(a) bargaining relationship. See, e.g., 300 Exhibit Services & Events, 356 NLRB 415,
+n.2 (2010) (finding that the employer "recognized the union by its course of conduct"); Broadmore Lumber Co., 227 NLRB 1123, 1135 (1977), enf'd, 578 F.2d 238 (9th Cir. 1978) (in a non-construction setting "an employer's conduct can be a valid basis for finding voluntary [Section 9(a)] recognition").
+
+employer's views on Section 9(a) status. They [do not address] the pivotal question of employee support for the union."). An explicit reference to Section 9(a), although not required, "would indicate that the parties intended to establish a majority rather than an 8(f) relationship." Staunton Fuel, 335 NLRB at 720. See also Triple C Maintenance, 219 F.3d at 1155 (describing the contract's explicit reference to Section 9(a) as "particularly helpful").
+      The third element of Staunton Fuel provides that once a construction employer and union have shown the requisite intent to form a 9(a) relationship, contract language may be evidence of a union's lawful Section 9(a) status if the language clearly indicates that the employer's recognition was based on the union's showing, or offer to show, its majority support. 335 NLRB at 719-20. In other words, satisfying the third element of Staunton Fuel memorializes, in writing, that the union presented evidence (or offered to provide evidence) that it enjoyed majority support at the time of recognition and that the employer's recognition was based on that evidence (or offer).
+      Significantly, Staunton Fuel did not hold that contract language alone creates a Section 9(a) relationship in all cases. Staunton Fuel established only that contract language, in the absence of any other extrinsic evidence, could constitute evidence sufficient to support a finding that a Section 9(a) relationship had been established. The Board did not preclude challenges to the lawfulness of the Section 9(a) relationship regardless of whether the contract language would be sufficient absent contrary evidence. "Where the recognition language is couched in terms of the Union's offer to show majority support, the employer may challenge it by establishing that the union did not, in fact, make the required showing of majority support." Id. at 720 n.14. The Board also left the door open to timely challenges to contract language that "unequivocally stated that the union did make (as opposed to an offer to make) a showing of majority support." Id.
+
+      Although Staunton Fuel stated that contract language "will be independently sufficient to establish" a Section 9(a) relationship if all three elements are met, 335 NLRB at 720, that statement meant only that, in the absence of any other extrinsic evidence, contract language containing all three elements constituted sufficient evidence that a Section 9(a) relationship had been created. A complete reading of Staunton Fuel reveals that it is properly understood as creating an evidentiary standard. As the Board explained, Staunton Fuel decided only "that it is possible [] to determine that a 9(a) relationship was established solely on the basis of the parties' contract language, provided that language meets the criteria [] adopt[ed] here." Id.
+      The Board recently resolved any lingering confusion about the meaning of Staunton Fuel in Enright Seeding. The Board there reaffirmed Staunton Fuel's holding that the existence of a Section 9(a) relationship could be evidenced by contract language when no other contrary extrinsic evidence existed Specifically, the Board held that contract language could memorialize the fact that Section 9(a) recognition had been granted based on a showing of majority support.
+      As Enright Seeding explains, Staunton Fuel is appropriately understood as creating an evidentiary standard. "Importantly, it is not the contract language itself that creates lawful 9(a) recognition. Rather, the contract language simply serves as contemporaneous evidence of the union's majority support from the time 9(a) recognition was initially granted by memorializing in a written document the parties' then-existing understanding." 371 NLRB No. 127, slip op. at 3 (emphasis added). Nothing in Staunton Fuel or Enright Seeding stands for the proposition that contract language creates a Section 9(a) relationship when contrary evidence exists. Rather, "[i]f other evidence casts doubt on the assertion that the union enjoyed majority support at the time the employer purportedly granted 9(a) recognition, then the contract language is insufficient to demonstrate the union's 9(a) status." Id., slip op. at 3-4. The Board also emphasized that
+
+"Staunton Fuel did not alter the [] longstanding practice of considering all available evidence bearing on the nature of parties' bargaining relationship where the contract language alone is not conclusive	" Id., slip op. at 4 (citing Staunton Fuel, 335 NLRB at 720 n.15).
+      Finally, Enright Seeding reaffirmed that Section 9(a) recognition of a minority union in the construction industry is an unfair labor practice. Citing the Supreme Court's decision in Garment Workers v. NLRB (Bernhard-Altmann), 366 U.S. 731 (1961), the Board expressly stated that "nothing in Staunton Fuel changes the fact that an employer engages in 'unlawful assistance' if it recognizes a minority union as a majority representative." Enright Seeding, supra, slip op. at 3. To that end, "contractual language may serve as evidence of a union's status as a 9(a) majority representative only if it is true." Id.
+      The premise of Staunton Fuel - that contract language may serve as contemporaneous evidence of past events - is well-reasoned and fully consistent with the common law of contracts and evidence. Facts are often memorialized in written agreements. As the Restatement of Contracts explains, "[a] recital of fact in an integrated agreement is evidence of the fact, and its weight depends on the circumstances. Contrary facts may be proved." Restatement (Second) of Contracts, § 218, comment b. Similarly, the law of evidence permits written agreements to be introduced pursuant to the exception to the hearsay rule for recorded recollections. See, e.g., Peeler v. KVH Industries, Inc., No. 8:12-cv-1584-T-33TGW, 2013 BL 197578, at *10 (M.D. Fla. July 25, 2013) (finding that the contract between the parties could be properly admitted under Fed. R. Evid. 803(5) as a recorded recollection).
+      Despite the dissenting members' assertions, Staunton Fuel - when read correctly - is easily harmonized with the D.C. Circuit's decisions in Nova Plumbing v. NLRB, 330 F.3d 531 (D.C. Cir. 2003), and Colorado Fire Sprinkler v. NLRB, 891 F.3d 1031 (D.C. Cir. 2018). In both
+
+cases, the record contained evidence showing, or strongly suggesting, that the union lacked majority support at the time the employer extended Section 9(a) recognition. Accordingly, the
+D.C. Circuit found in both cases that contract language was insufficient to show that the union had enjoyed majority status at the time of recognition. See Colorado Fire Sprinkler, 891 F.3d at 1040 (finding the contract language insufficient because the "contract language was objectively false"); Nova Plumbing, 330 F.3d at 537 ("Standing alone, however, contract language and intent cannot be dispositive at least where, as here, the record contains strong indications that the parties had only a section 8(f) relationship.") (emphasis added).
+      Importantly, in neither case did the court decide what the result would have been if the only evidence on the record had been the parties' agreement that Section 9(a) recognition had been requested and granted based on a showing, or offer to show, majority support. The answer to that question - which was not present in either Nova Plumbing or Colorado Fire Sprinkler - was provided by the Board in Staunton Fuel and Enright Seeding. The majority in 2020 and the current dissenters incorrectly read the D.C. Circuit's decisions in Nova Plumbing and Colorado Fire Sprinkler as a blanket rejection of Staunton Fuel. But those cases merely gave the D.C. Circuit occasion to reject the Board's application of the Staunton Fuel standard in the specific circumstances of those cases because contrary evidence existed that indicated a lack of majority support.
+      The dissenters, moreover, ignore the D.C. Circuit's explanation of Nova Plumbing in Allied Mechanical Services, Inc. v. NLRB, 668 F.3d 758 (D.C. Cir. 2012). In that case, the D.C. Circuit recognized that its decision in Nova Plumbing did not preclude the consideration of contract language as evidence of majority support, explaining that "[contract language and intent] are perfectly legitimate factors that the Board may consider in determining whether the
+
+Deklewa presumption has been overcome." 668 F.3d at 767 (quoting Nova Plumbing, 330 F.3d at 537). Where, however, there are "strong indications that the parties had only a section 8(f) relationship," the contract language's evidence of majority status is overcome. Id. at 770.
+Accordingly, when properly understood as an evidentiary standard, Staunton Fuel is entirely consistent with the decisions of the D.C. Circuit.
+3. Except under the Limited Circumstances Described in Casale, the Board's Contract Bar Rules, with Good Reason, Prohibit Litigation in Representation Cases of Claims that a Union Lacked Majority Status When it Received Section 9(a) Recognition.
+
+      The Board has applied contract bar rules since at least 1938. See Superior Electrical Products Co., 6 NLRB 19 (1938). The bar was originally only one year, but was subsequently lengthened to two years in 1947 and three years in 1962. See General Cable Corp., 139 NLRB 1123, 1124-25 (1962). The contract bar precludes elections from being held in the bargaining unit during the term of a contract or for three years, whichever is shorter. 16
+      The contract bar rules are not mandated by the Act but were adopted by the Board pursuant to its authority under Section 9 to determine whether a question concerning representation exists. 29 U.S.C. § 159(c). See, e.g., Paragon Products Corp., 134 NLRB 662, 663 (1961) ("In administering Section 9 of the Act, the Board has maintained the objective of giving expression and effect to congressional policy	For effective and expeditious
+implementation of this policy, the Board has established certain administrative rules of decision permitting contracts to bar representation proceedings.").
+
+
+          16 The Board created an exception to this rule in General Extrusion Co., finding that "a contract will bar an election only if at least 30 percent of the complement employed at the time of the hearing had been employed at the time the contract was executed, and 50 percent of the job classifications in existence at the time of the hearing were in existence at the time the contract was executed." 121 NLRB 1165, 1167 (1958).
+
+      In formulating the contract bar rules, "the Board has taken care to balance the objective of maintaining stability in labor relations against the objective of preserving employee freedom of choice in the selection of a bargaining representative." Four Seasons Solar Products Corp., 332 NLRB 67, 70 (2000). See also General Motors Corp., 102 NLRB 1140, 1142 (1953)
+("Whenever a contract is urged in bar, the Board must balance 2 separate, and sometimes conflicting, interests: Stabilizing labor relations for the duration of a contract secured through bona fide bargaining, and protecting the exercise by employees of full freedom of designation of representatives of their own choosing.").
+      In determining whether the contract bar applies, the Board has repeatedly stated that it will not admit extrinsic evidence in a representation proceeding to establish that a contract is unlawful. "Whenever it is necessary to look to extrinsic evidence in order to determine whether a provision is unlawful, it is improper...to rely on that provision to deprive a contract of bar status." Four Seasons, 332 NLRB at 70; accord Jet-Pak Corp., 231 NLRB 552 (1977) ("extrinsic evidence will not be admitted in a representation proceeding to establish the unlawful nature of such a contract"); Loree Footwear Corp., 197 NLRB 360 (1972) ("extrinsic evidence will not be admitted"); Pine Transportation, Inc., 197 NLRB 256 (1972); St Louis Cordage Mills, 168 NLRB 981, 982 (1967) ("the Board will not admit extrinsic evidence in a representation proceeding to establish [a contract's] unlawful nature").
+      That approach is also consistent with the Board's general rule that unfair labor practice issues cannot be litigated in representation proceedings. It is "established Board policy that unfair labor practice allegations are not properly litigable in a representation proceeding." Nathan Warren & Sons, Inc., 119 NLRB 292, 294 (1957); accord Paragon Products, 134 NLRB
+at 665; National Foundry Co., 109 NLRB 357, 359 (1954); Clarostat Mfg. Co., 88 NLRB 723
+
+n.2 (1950) ("it is well settled that the evidence of unfair labor practices is not admissible at a representation proceeding").
+      There are good reasons why unfair labor practices claims should not be resolved through representation proceedings. Unfair labor practice hearings are adversarial, while representation hearings are investigatory and non-adversarial. 29 C.F.R. § 101.20(c); NLRB Casehandling Manual § 11181. The Federal Rules of Evidence apply "as far as practicable" in unfair labor practice proceedings, 29 C.F.R. § 102.39, but do not apply in representation hearings, 29 C.F.R.
+§ 102.66(a). Administrative law judges preside over unfair labor practice hearings, and their decisions frequently turn on the credibility of witnesses. See Stretch-Tex Co., 118 NLRB 1359, 1361 (1957). Field examiners or Board attorneys typically preside over representation hearings, but decisions are made by Regional Directors, who have not observed the testimony and therefore cannot judge the credibility of witnesses. Marian Manor for the Aged & Infirm, Inc., 333 NLRB 1084, 1084 (2001) ("a preelection hearing is investigatory in nature and credibility resolutions are not made"). Indeed, the Board has observed that representation "proceedings are investigatory in character and do not afford a satisfactory means for determining matters which are more properly the subject of adversary proceedings with their accompanying safeguards." Paragon Products, 134 NLRB at 665.
+      Accordingly, the Board has repeatedly held that, in representation proceedings, a party may not litigate the question whether a union lacked majority status when it was recognized by the employer as the Section 9(a) representative. See, e.g., Columbia River Salmon and Tuna Packers, 91 NLRB 1424, 1427 (1950) ("in accord with our established policy, in a representation case we do not inquire on the issue of contract bar, into the question whether at the time the contract was executed a majority of the employees had designated the union as their bargaining
+
+representative."); Nathan Warren & Sons, Inc., 119 NLRB at 294 ("A party asserting such allegations may litigate them only in an unfair labor practice proceeding designed to adjudicate such matters."); Bi-States Co., 117 NLRB 86, 86-87 (1957) ("It is well-established that a contention alleging domination or assistance of a labor organization by an employer is in effect an unfair labor practice charge, and therefore not properly litigable in a representation proceeding."); Electro Metallurgical Co., 72 NLRB 1396, 1399 (1947); Wilmington Terminal
+Warehouse Co, 68 NLRB 299, 302 (1946); United States Rubber Co., 62 NLRB 795, 797 n.1
+
+(1945); Lamson Brothers Co., 59 NLRB 1561, 1571 n.22 (1945).
+
+      The Board has also applied this policy to employers and unions in the construction industry. See, e.g., Mishara Construction Co., 171 NLRB 471 (1968). And the Supreme Court took note of this policy in Bernhard-Altmann. In responding to the argument that employees covered by a contract with a minority union could exercise free choice by filing a decertification petition, the Court observed that the "availability of such a remedy [was] doubtful in view of the Board's position that the 'contract bar' defense prevents a showing of lack of majority status at the time a contract was made." 366 U.S. at 737 n.8.
+      The issue of whether a construction industry agreement can serve as a contract bar because, despite purporting to be a Section 9(a) agreement, the agreement was entered into at a time when the union did not enjoy majority support, raises the exact same unfair labor practice issues that should not be litigated in a representational case proceeding. Numerous Board decisions confirm that it constitutes an unfair labor practice for parties in the construction industry to enter into what purports to be a Section 9(a) agreement at a time when the union does not have majority support.
+
+      For example, in Raymond Interior Systems, 367 NLRB No. 124 (2019), the Board held that a construction industry employer "violated Section 8(a)(1) and (2) by granting recognition under Section 9(a) to the [union], and the [union] violated Section 8(b)(1)(A) by accepting recognition at a time when the [union] did not represent an uncoerced majority of...employees." Id., slip op. at 1. See also Clock Electric, Inc., 338 NLRB 806, 829 (2003) (construction industry employer violated the Act by granting Section 9(a) recognition to a union based on authorization cards solicited by the employer); Valley Crest Landscape Development, Inc., 13-CA-41405, 2004 WL 2138583 (ALJD Sept. 20, 2004) (construction industry employer and union violated the Act by entering into an agreement with § 9(a) recognition language when union did not represent any unit employees).
+      It is thus well-settled that an agreement that purports to be a Section 9(a) agreement violates the Act if the union lacks the uncoerced support of a majority of bargaining unit employees when the agreement was executed. Therefore, when parties in the construction industry enter into such an agreement when the union does not have majority status, the parties commit an unfair labor practice by entering into such an agreement. The question of the union's majority status in the construction industry, as in all industries, is a question relevant to whether an unfair labor practice was committed. As in all other industries, that question should not be addressed in a representation case.
+      In 1991 and 1993, however, the Board issued two decisions - Comtel Systems Technology, Inc., 305 NLRB 287 (1991), and Casale Industries, Inc., 311 NLRB 951 (1993) - departing from the well-established rule that a union's majority support could not be challenged in representation proceedings. In both cases, individual employers represented by multiemployer bargaining associations filed RM petitions after the association had extended Section 9(a)
+
+recognition to a union. In each case, the employer argued that the multiemployer agreement did not bar an election because the union's majority status had not been established among the individual employer's employees.
+      The Board held in both cases that the union's majority status could be challenged in a representation proceeding, but only if the challenge was raised within a reasonable time. In Casale, the Board concluded that a "reasonable time" within which to challenge the union's majority status was six months. 311 NLRB at 953 ("if a construction industry employer extends 9(a) recognition to a union and six months elapses without a charge or petition, the Board should not entertain a claim that majority status was lacking at the time of recognition").
+      The Board in Casale explained that, in a non-construction setting, the Board would not consider a charge alleging that the union lacked majority support at the time of recognition. Id. To do otherwise, the Board explained, "would mean that longstanding relationships would be vulnerable to attack, and stability in labor relations would be undermined." Id. "These same principles would be applicable in the construction industry." Id. Thus, the Board concluded that bargaining relationships in the construction industry should not be at greater risk than those in other industries and that parties should have the same amount of time to challenge a union's majority status regardless of whether the issue was being raised in a representation case or in an unfair labor practice proceeding.
+      Casale is consistent with the Supreme Court's ruling in Bryan Manufacturing, which held that unfair labor practice charges alleging unlawful recognition of a minority union must be filed within the six-month period as required by Section 10(b) of the Act. Machinists Local Lodge 1424 v. NLRB, 363 U.S. 411, 426 (1960). Accordingly, Comtel and Casale create a limited exception to the long-standing rule that an employer's claim that the union lacked
+
+majority status at the time of recognition - like other unfair labor practice claims - cannot be litigated in representation proceedings.
+      NABTU and the AFL-CIO believe that the better rule would be one prohibiting litigation in representation proceedings of any claim that the union lacked majority status at the time it was first recognized. NABTU and the AFL-CIO nevertheless recognize that the exception described in Comtel and Casale strikes a reasonable balance between employee free choice and stability in labor relations. And like Section 10(b) of the Act, 29 U.S.C. § 160(b), the Casale exception precludes litigation of critical issues after long periods of time when memories have dimmed and evidence may be incomplete or no longer available. That approach is far superior to the current rule, which allows decades-long bargaining relationships to be challenged at any time.
+      Rescinding Section 103.22 and restoring Casale would thus avoid, in most instances, the problems presented by litigating unfair labor practice issues in representation proceedings as well as other serious detrimental effects of the Board's current rule.
+4. If not Rescinded, the Board's Current Rule Would Have Serious Detrimental Effects on Collective Bargaining in the Construction Industry and on the Board's Representation Proceedings.
+
+       Under the Board's current rule, the claim that a construction union did not show majority support at the time of recognition could be raised in a representation proceeding at any time and the burden of proving otherwise - five years, ten years, or twenty years after the fact - would fall on the union. The current rule incorporates the most problematic aspects of the "conversion doctrine" abandoned more than thirty years ago by the Board in Deklewa.
+       Under the "conversion doctrine" discarded by the Board in Deklewa, a Section 8(f) relationship could be converted into a Section 9(a) relationship at any time if the union acquired adequate evidence of majority support. In explaining its decision, the Board observed that "the
+
+conversion doctrine often requires the Board to 'look back' any number of years in a relationship characterized by sporadic and shifting employment patterns." 282 NLRB at 1383. That conversion doctrine also required the Board to make "crucial determinations" based on evidence that was "incomplete, contradictory, or unavailable" and created an environment in which "neither the parties to the agreement nor the employees working under it [could] know with any degree of certainty what their respective rights and obligations [were] at any given time." Id.
+      The Board's current rule suffers from all of these same defects. It will require the Board to look back to whenever recognition was first granted and determine whether majority status had been shown at that time. It is worth noting that in Deklewa the employer withdrew recognition 23 years after first entering into a collective bargaining agreement. 282 NLRB at 1376. Determining whether majority status was shown will necessarily require the Board to rely on memories that have faded and records that will likely be incomplete, contradictory, or unavailable. Relationships that should be characterized by stability will instead be characterized by uncertainty - produced, inter alia, by concern that the employer, for reasons having nothing to do with employee free choice, will attempt to terminate or disrupt the relationship by filing an RM petition and placing on the union the burden of proving something that happened years or decades earlier.
+      And, the longer a relationship lasts, the more difficult it will likely be to produce the requisite proof and the more vulnerable that relationship would be. The Board's rule thus creates an inverse relationship in the construction industry between longevity and stability; the longer a bargaining relationship lasts, the less stable it will become. Longstanding relationships will be destabilized, not because the union lacked majority support, but because the passage of time has made it difficult to prove that majority support had been shown decades earlier. That is precisely
+
+what the Supreme Court warned against in Bryan Manufacturing, when it held that Section 10(b) placed a temporal bar on claims that an agreement violated the Act because the union did not have majority support at the time of its execution. In so holding, the Court recognized that the policy expressed in Section 10(b) "bar[s] litigation over past events after records have been destroyed, witnesses have gone elsewhere, and recollections of the events in question have become dim and confused." 362 U.S. at 419 (internal quotations eliminated). Those same policy concerns are present, but ignored completely in a construction industry representation case if, as the 2020 rule allows, the underlying unfair labor practice is not only allowed to be litigated in the representation case, but the six-month rule in Casale is not applied.
+      Moreover, the proposition that the current rule is necessary to protect employee free choice does not withstand scrutiny. The rule applies to all representation petitions, including those filed by an employer. Allowing employers to file RM petitions years after granting Section 9(a) recognition, challenging that very recognition, does not advance the cause of employee free choice. As the Board recognized in Deklewa, an employer's decision "may be based on the employer's own economic considerations, without reference to or concern for the employees' desire to continue the status quo." Id. at 1382.
+The contract bar rules in effect prior to 2020 reflect decades of experience under the Act.
+
+Those rules, applicable to all industries covered by the Act, represented a carefully struck balance between free choice and stability. See General Cable Corp., 139 NLRB at 1128 ("we are convinced that . . . there is amble justification for a 3-year rule and that such rule on balance will not seriously impair employee freedom of choice"). If those rules adequately protect the free choice of employees working in non-construction industries, they also adequately protect the free choice of employees in the construction industry. In any industry, a purported Section 9(a)
+
+agreement between an employer and a minority union has exactly the same effect on employee free choice and violates the Act for precisely the same reasons. If a different rule is required in the construction industry, the dissenters have not explained why.
+       In that regard, it is worth noting that the contract bar rules do not forever prohibit representation petitions filed by employees or rival unions. They bar only petitions filed during the term of an agreement (but for no longer than three years) and outside the window period.
+General Cable, supra. It is surely not unreasonable to require a party who files a petition five or ten or twenty years after a bargaining relationship has been established to wait until the contract expires or the window period opens to challenge the union's current majority status through an election, even if that party contends that the union failed to show its majority support at the time of recognition.
+       As noted above, the Board has stated that unions in the construction industry have the same rights as other unions to establish Section 9(a) bargaining relationships, and the fact that they bargain with construction industry employers should not place construction industry unions in a less favored position. Yet, that is exactly what Section 103.22 accomplished. It made Section 9(a) relationships in construction more difficult to sustain and, with time, progressively less stable. It placed unions in the construction industry at a disadvantage not justified by a reasoned analysis. Section 103.22 should thus be rescinded.
+III. The Board Should Specify the Consequences of Rescinding the 2020 Rules
+
+      In the preamble to the final rules, the Board should expressly state that by rescinding the sections of the Rules and Regulations adopted by the 2020 Rules, the Board intends that it's prior, applicable law, developed through adjudication, will again be in effect. The Board should explain that, because the prior Board decisions were overturned solely by the 2020 Rules, rescinding those rules restores the prior case law to full force and effect.
+
+      The AFL-CIO would have no objection if the Board chose to proceed solely in that manner with respect to current Section 103.21. Rescission of the current section would have the effect of restoring the Board's coherent set of bars, all advancing the same policies and all adopted by the Board through adjudication with judicial approval.
+      If the Board decides to replace current Section 103.21 with a codification of the rule established as modified in Lamons Gasket, as the NPRM proposes, the Board should explain why it chose to codify the recognition bar. Codifying the recognition bar makes more transparent and accessible to employees the legal consequences of voluntary recognition and their limits. The six to 12-month framework is clear and appropriate for codification. And codification of the recognition bar would be parallel to the codification of the election bar in Section 9(c)(3) of the Act.
+CONCLUSION
+
+For the reasons stated above, the Board should proceed as proposed in the NPRM.
+
+Respectfully submitted,
+
+/s/ Craig Becker Craig Becker Matthew Ginsburg
+AFL-CIO Legal Department 815 Black Lives Matter Plaza Washington, DC 20006
+(202) 637-5310
+cbecker@aflcio.org
+
+Attorneys for AFL-CIO
+
+/s/Robert Kurnick Robert Kurnick Erich Lange Jonathan D. Newman Sherman Dunn, P.C.
+900 Seventh Street, N.W., Suite 1000
+Washington, D.C. 20001 newman@shermandunn.com 202-785-9300
+
+Attorneys for NABTU
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ATTACHMENT 1
+
+
+
+
+
+
+July 7, 2022
+
+
+NLRB FOIA Officer
+National Labor Relations Board 1015 Half Street, S.E. 4th Floor Washington, D.C. 20570
+Facsimile: (202) 273-FOIA (3642)
+
+       Re: Request for Records under FOIA Dear NLRB FOIA Officer:
+The AFL-CIO submits the following requests for documents under the Freedom of Information Act (FOIA), 5 U.S.C. § 522. The NLRB has declared in its rulemaking agenda that it will be "revising the representation election procedures located at 29 CFR part 103, with a focus on the amendments issued on April 1, 2020," and that such revisions would relate to, inter alia, "procedures governing blocking charges." See NLRB's Spring Rulemaking Agenda Released, https://www.nlrb.gov/news-outreach/news-story/nlrbs-spring-rulemaking-agenda- released (June 21, 2022).
+
+Accordingly, we ask that the following documents be made available no later than August 8, 2022, so that we will have an opportunity to analyze them in time to utilize that analysis in comments on any Notice of Proposed Rulemaking ("NPRM") that issues on this subject.
+
+Requests
+Blocking Charges Generally
+1. Any document that reveals, for the period since the effective date of the last amendment to the representation case procedures (June 1, 2020):
+a. the number of unfair labor practice ("ULP") charges filed together with a request to block an election process pursuant to 29 C.F.R. § 103.20(a) ("blocking charges") and for each such blocking charge any documents that reveal:
+b. the case number assigned to the charge and to the associated representation case;
+c. the nature of the charge;
+
+NLRB FOIA Officer July 7, 2022
+Page 2
+
+d. whether the charge was classified by the regional director under 29 C.F.R. § 103.20(b) or (c) or a merit-determination dismissal case as described in Rieth-Riley Construction Co., 371 NLRB No. 109 (2022).
+e. the disposition of the charge, including whether a complaint was issued, the amount of time required to issue the complaint, the ultimate disposition of the charge by the Regional Director or the Board, and the time required to reach that disposition;
+f. for those charges related to representation cases in which the election results were certified, the reason why the charge did not result in the petition being dismissed;
+
+g. the length of time between the filing of the petition and the certification of results in the related representation proceeding;
+h. if the election results were ultimately certified in the related representation proceeding, the outcome of the election;
+i. if the election results were not ultimately certified in the related representation proceeding, the reason why they were not certified;
+j. the type of petition (e.g., RC, RD, or RM) at issue in the related representation proceeding.
+Blocking Charges Leading to the Impounding of Ballots
+2. Any document that reveals, for the period since the effective date of the last amendment to the representation case procedures (June 1, 2020):
+a. the number of blocking charges that resulted in election ballots being impounded pursuant to 29 C.F.R. § 103.20(c); see also NLRB Casehandling Manual 11730.2, and for each such blocking charge any documents that reveal:
+b. the case number assigned to the charge and to the associated representation case;
+c. the nature of the charge;
+d. the basis of the decision to impound the ballots in the related representation case;
+e. the length of time that the ballots in the related representation case remained impounded;
+f. the disposition of the charge, including whether a complaint was issued, the amount of time required to issue the complaint, the ultimate disposition of the charges by the Board, and the time required to reach that disposition;
+g. if the ballots in the related representation case were never counted, the reason why they were never counted;
+h. if the ballots in the related representation cases were counted, the reason why they were counted;
+i. if the ballots in the related representation case were counted, whether they were counted because a complaint did not issue within 60 days even though the charge was not withdrawn or dismissed during those 60 days;
+
+NLRB FOIA Officer July 7, 2022
+Page 3
+
+j. the determination of the Regional Director or the Board pursuant to 29 C.F.R. § 103.20(d) and NLRB Casehandling Manual 11730.4, as to what effect the conduct described in the blocking charge had on the election petition;
+k. if the election results in the related representation case were ultimately certified, the outcome of the election;
+l. the type of petition that initiated the related representation case (e.g., RC, RD, RM).
+Blocking Charges Leading to the Immediate Counting of Ballots
+3. Any document that reveals, for the period since the effective date of the last amendment to the representation case procedures (June 1, 2020):
+a. the number of blocking charges that resulted in election ballots being counted at the conclusion of the election pursuant to 29 C.F.R. § 103.20(b); see also NLRB Casehandling Manual 11730.3 and for each such charge any documents that reveal:
+b. the case number assigned to the charge and to the associated representation case;
+c. the nature of the charge;
+d. the basis of the decision not to impound the ballots in the related representation case;
+e. the disposition of the charge, including whether a complaint was issued, the amount of time required to issue the complaint, the ultimate disposition of the charges by the Board, and the time required to reach that disposition;
+f. the determination of the Regional Director or the Board pursuant to 29 C.F.R. § 103.20(d) and NLRB Casehandling Manual 11730.4, as to what effect the conduct described in the blocking charge had on the election petition;
+g. if the election results in the related representation case were ultimately certified, the outcome of the election;
+h. the type of petition that initiated the related representation case (e.g., RC, RD, RM).
+Merit Determination Dismissals
+4. Any document that reveals, for the period since the effective date of the last amendment to the representation case procedures (June 1, 2020):
+a. the number of blocking charges that resulted in the petition being dismissed pursuant to the rule described in Rieth-Riley Construction Co., 371 NLRB No. 109 (2022) ("merit determination dismissals remain available under the Election Protection Rule"), and for each such charge any documents that reveal:
+b. the case number assigned to the charge and to the associated representation case;
+c. the nature of the charge;
+d. the basis of the decision to dismiss the petition in the related representation case;
+
+NLRB FOIA Officer July 7, 2022
+Page 4
+
+e. the disposition of the charge, including whether a complaint was issued, the amount of time required to issue the complaint, the ultimate disposition of the charges by the Board, and the time required to reach that disposition;
+f. the determination of the Regional Director or the Board pursuant to 29 C.F.R. § 103.20(d) and NLRB Casehandling Manual 11730.4, as to what effect the conduct described in the blocking charge had on the election petition;
+g. the type of petition that initiated the related representation case (e.g., RC, RD, RM).
+Other Requests
+5. Any document containing or evidencing any general (i.e., not involving only particular cases) analysis, compilation or summary of the allegations in or the disposition of blocking charges filed since the effective date of the last amendment to the representation case procedures (June 1, 2020).
+6. Any document containing or evidencing any form of analysis of the last amendments of 29
+C.F.R. § 103.20 or their impact on unfair labor practice or representation case processing.
+7. Any document identifying any or all cases decided since January 1, 2000, in which the Board took evidence or made findings concerning the cost of participating in a Board-supervised election for either a union or an employer.
+8. Any documents responsive to requests 1-15 in our prior FOIA request, NLRB-2019-001262, that relate to the period after that covered in your response to that request and before the effective date of the last amendments of 29 C.F.R. § 103.20.
+Fee Waiver
+For purposes of determining fees associated with processing our FOIA request, please be advised that the AFL-CIO is an "other" requester under the NLRB Rules and Regulations, Section 102.117(d)(2). Although "other" requesters are charged only for searches and photocopying (with no charge for the first two hours of search time or for the first 100 pages of photocopies), we request that any fees associated with processing our request be waived pursuant to NLRB Rules and Regulations, Section 102.117(d)(2)(vi). Under that section, "[d]ocuments are to be furnished without charge or at reduced levels if disclosure of the information is in the public interest because it is likely to contribute significantly to public understanding of the operations or activities of the Government and is not primarily in the commercial interest of the requestor." Id.; 5 U.S.C. § 552(4)(A)(i)).
+
+We address the two requirements applied by the Board to determine whether the AFL-CIO qualifies for a fee waiver: 1) the public interest requirement and 2) whether disclosure of the information is not primarily in the requester's commercial interest.
+
+In relation to the public interest requirement, the requested documents specifically concern identifiable operations or activities of the government. In particular, the requested documents concern the NLRB's recently announced rulemaking agenda. The rules at issue were promulgated on April 1, 2020, following a NPRM issued on August 12, 2019, in which the AFL- CIO provided detailed comments. The AFL-CIO anticipates providing similarly comprehensive
+
+NLRB FOIA Officer July 7, 2022
+Page 5
+
+comments in response to any NPRM issued by the Board, and the responsive documents will permit us to provide responsive, relevant and meaningful information to the Board as it considers and determines the appropriate standards and procedures to apply to blocking charges. The proposed rules will affect the Board's operations and activities such as processing and handling representation petitions and unfair labor practice charges, and the public has a great interest in understanding the scope of the proposed rules' impact, including possible changes in employee and employer rights under the proposed rules. Indeed, by engaging in rulemaking on these subjects, the Board has recognized the importance of these issues to the public.
+
+The AFL-CIO intends to use the requested documents in its response to an eventual NPRM issued by the Board on behalf of its affiliated national and international unions, their local unions, and the employees they represent and who wish to be represented by them. The requested documents will enrich our critical and unique contribution to the Board's deliberations and the public understanding, and we do not seek in any way to further our own "individual" understanding.
+
+In relation to the requested documents not being primarily in our commercial interest, the AFL- CIO has no commercial interest in the documents. We will not trade in the documents or use the documents to further any commercial transactions. We seek the documents solely for use in responding to the Board's NPRM process and to assist the Board in developing rules in the three relevant areas that are consistent with the Act and efficiently advances its purposes.
+While the information sought is of interest to our affiliated national and international unions and their locals and members, we do not believe that this is the type of commercial interest contemplated by Congress under FOIA. But, even if it is, it is extremely attenuated as attributed to the AFL-CIO in this situation and clearly outweighed by the public interest identified and explained above.
+Please let me know if additional information is needed to process our request for documents and a fee waiver.
+Thank you for your timely attention to this matter. Sincerely,
+/s/Craig Becker
+Craig Becker General Counsel cbecker@aflcio.org
+(202) 637-5310
+
+/s/Andrew Lyubarsky
+Andrew Lyubarsky Associate General Counsel alyubarsky@aflcio.org
+(202) 637-5115
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ATTACHMENT 2
+
+UNITED STATES GOVERNMENT
+NATIONAL LABOR RELATIONS BOARD
+FREEDOM OF INFORMATION ACT BRANCH
+Washington, D.C. 20570
+
+Via email
+
+October 20, 2022
+
+Re: FOIA Request NLRB-2022-001495 (First Interim Release) Dear Andrew Lyubarsky (AFL-CIO):
+This is the first interim release in response to your request, under the Freedom of Information Act (FOIA), 5 U.S.C. § 552, received on July 7, 2022, where you requested over 40 itemized categories of records, information, and data about representation and unfair labor practice cases because "[t]he NLRB has declared
+... that it will be revising the representation election procedures located at 29 CFR part 103," including "procedures governing blocking charges." As part of your request, you sought a fee waiver, asserting that the requested information concerns the Agency's "recently announced rulemaking agenda" and will be used to provide input to the Board as it "considers and determines the appropriate standards and procedures to apply to blocking charges."
+
+We acknowledged your request on July 7, 2022. Your request for a fee waiver has been granted.
+
+In a telephone conversation with two members of my staff on August 3, 2022, it was explained that numerous queries would have to be designed to retrieve the responsive data sets from the Agency's current electronic casehandling system and that FOIA Branch staff would then have to review the returned data sets to independently compile and format that data into responsive Excel spreadsheets. In a subsequent email, you were informed that the FOIA's statutory extension of time to respond would be taken due to our need to consult with and search in two or more Agency offices, as well as need to search for, collect, and examine voluminous amounts of information.
+
+Pursuant to the FOIA, search queries for responsive data were conducted in our current electronic handling system, NxGen. As a result of these searches, we are providing you with three Excel spreadsheets containing data responsive to your request:
+
+* "NLRB-2022-001495 RC RD RM cases w blocking-suspension 10-1-2019 to 7-31-2022.xlsx" (R-Case Report);
+
+FOIA Request NLRB-2022-001495
+October 20, 2022
+Page 2
+
+* "NLRB-2022-001495 C case data 10-1-2019 to 7-31-2022.xlsx" (C-Case Report);
+* "NLRB-2022-001495 Detailed Election Data cases filed 10-1-19 to 7-31- 2022.xlsx" (Election Report).
+
+The attached Excel spreadsheets are compilations of data manually entered by regional staff and, as such, reflect the best available data that can be readily compiled about representation and unfair labor practice cases as of the date the search queries were ran. Additionally, please note there are two separate tabs of information in each of the attached spreadsheets. The first tab contains information for the time period of October 1, 2019 through May 31, 2020, and the second tab contains information for the time period of June 1, 2020 through July 31, 2022.1
+
+As explained in more detail below, this first response addresses Request Items 1(a) - 1(j), 2(a) - 2(l), 3(a) - 3(h), 4(a) - 4(g), and 8.
+
+With respect to Request Item 1 (Blocking Charges Generally), the spreadsheets respond to the listed subparts as follows:
+
+* Request Item 1(a) seeks information about the number of unfair labor practice charges filed together with a request to block an election. To the extent information responsive to 1(a) is tracked by the Agency, it can be found in one of two places. First, you can look in the R-Case Report and scroll to columns Y, Z, and AF. Filtering on these columns will provide you with information on representation cases that may have been blocked and the associated blocking charge (C-case) number. Second, you may find additional information on blocking charge cases in the C-Case Report. In this spreadsheet, you will navigate to column U and filter for any R-cases listed in that column as these cases may indicate instances where a blocking request was filed.
+
+* Request Item 1(b) seeks the case numbers assigned to the charge and associated representation case. As explained above, this information can be found in both the R-Case Report and C-Case Report.
+
+* Request Item 1(c) seeks the nature of the charge. Once you have located a potential blocking charge case number via the filtering suggested above in Request Item 1(a), you can conduct a search in the C-Case Report for the "NLRA Section" (Column H) and/or "Allegation Name" (Column I). These fields provide a description of the nature of the charge allegations.
+
+
+
+1 This second period represents the time since the effective date of the last amendment to the representation case procedures.
+
+FOIA Request NLRB-2022-001495
+October 20, 2022
+Page 3
+
+* Request Item 1(d) seeks information on whether the charge was classified by the Regional Director under 29 C.F.R. § 103.20(b) or (c) or a merit- determination dismissal case, which the Agency does not specifically track. However, this information may be noted as a comment in column AG of the R-Case Report. Additionally, you can filter column M of the C- Case Report to identify cases where a merit-determination dismissal was issued.
+
+* Request Item 1(e) seeks information pertaining to the disposition of the blocking charge and the time required to reach that disposition. Once you have located a potential blocking charge case number via the filtering suggested above in Request Item 1(a), you can determine this information by navigating to "Complaint Date" (Column N), "Closed Date" (Column O), and "Closed Reason" (Column P) in the C-Case Report. A date will be entered in Column N if a complaint was issued.
+
+* Request Item 1(f) seeks information on blocking charges related to representation cases in which the election results were certified. Again, once you have located the case numbers of a potential blocking charge and its associated representation case via the filtering suggested above in Request Item 1(a), you can determine this information by using the associated representation case number and then navigating to "Closed Reason" (Column G) of the R-Case Report. This field will tell you if the representation case resulted in a certification. However, the Agency does not track, and therefore there is no specific record or field that could be queried for the explanation of why a charge did not result in a petition being dismissed.
+
+* Request Item 1(g) seeks the length of time between the filing of the petition and the certification of results in the associated representation case. This information can be calculated for any representation case by using the "Petition Filed Date" (Column E) and "Closed Date" (Column F) of the R-Case Report.
+
+* Request Item 1(h) seeks the outcome of the election in the associated representation case if the election results were ultimately certified. Again, information about the outcome of a representation case can be found by navigating to "Closed Reason" (Column G) of the R-Case Report and Election Report. You can find additional election details (including number of votes and unit certified) from the Election Report.
+
+* Request Item 1(i) seeks information about instances where the election results were not certified in the associated representation case, including the reason why the election results were not certified. Whether or not a case was certified can be found by navigating to "Closed Reason"
+
+FOIA Request NLRB-2022-001495
+October 20, 2022
+Page 4
+
+(Column G) of the R-Case Report and Election Report. However, the Agency does not specifically track the reason why a case was not certified.
+
+* Request Item 1(j) seeks information about the type of petition at issue in the associated representation proceeding. This information is evident from the case number of the associated representation matter, but can also be located in the "Case Type" (Column C) and "Case Number" (Column D) fields of the R-Case Report
+
+With respect to Request Item 2 (Blocking Charges Leading to the Impounding of Ballots), the spreadsheets respond to the listed subparts as follows:
+
+* Request Item 2(a) seeks information about the number of blocking charges that resulted in election ballots being impounded. Once you have located a potential blocking charge case number and its associated representation case via the filtering suggested above in Request Item 1(a), you can determine this information by using the associated representation case number and then navigating to "Impounded Ballots" (Column T) of the Election Report. This field will tell you if ballots were impounded in a case.
+
+* Request Item 2(b) seeks the case numbers assigned to the charge and associated representation case. This information can be found in both the R-Case Report and C-Case Report.
+
+* Request Item 2(c) seeks the nature of the charge. Once you have located a potential blocking charge case number via the filtering suggested above in Request Item 2(a), you can conduct a search in the C-Case Report for the "NLRA Section" (Column H) and/or "Allegation Name" (Column I). These fields provide a description of the nature of the charge allegations.
+
+* Request Item 2(d) seeks the basis of the decision to impound the ballots in the associated representation case, which the Agency does not specifically track. However, responsive information may be located on the relevant case page of the Agency's website. Please visit https://www.nlrb.gov/search/case. Once there, enter the associated representation case number in the search box to view its case page for any publicly available records that may be responsive.
+
+* Request Item 2(e) seeks the length of time that ballots in the associated representation case remained impounded, which the Agency does not specifically track.
+
+FOIA Request NLRB-2022-001495
+October 20, 2022
+Page 5
+
+* Request Item 2(f) seeks information pertaining to the disposition of the blocking charge and the time required to reach that disposition. Once you have located a potential blocking charge case number via the filtering suggested above in Request Item 2(a), you can determine this information by navigating to "Complaint Date" (Column N), "Closed Date" (Column O), and "Closed Reason" (Column P) in the C-Case Report. A date will be entered in Column N if a complaint was issued.
+
+* Request Item 2(g) seeks information about the reason why impounded ballots were never counted, which the Agency does not specifically track.
+
+* Request Item 2(h) seeks information about the reason why impounded ballots were counted, which the Agency does not specifically track.
+
+* Request Item 2(i) seeks information about whether impounded ballots were counted for a specific reason (for example, because complaint did not issue within 60 days), which the Agency does not specifically track.
+
+* Request Item 2(j) seeks information about determinations made by the Regional Director or the Board pursuant to 29 C.F.R. § 103.20(d) and the related sections of the Casehandling Manual, which the Agency does not specifically track.
+
+* Request item 2(k) seeks the outcome of the election in the associated representation case if the election results were ultimately certified. Information about the outcome of a representation case can be found by navigating to "Closed Reason" (Column G) of the R-Case Report and Election Report. You can find additional election details (including number of votes and unit certified) from the Election Report.
+
+* Request item 2(l) seeks information about the type of petition at issue in the associated representation proceeding. This information is evident from the case number of the associated representation matter but can also be located in the "Case Type" (Column C) and "Case Number" (Column D) fields of the R-Case Report.
+
+With respect to Request Item 3 (Blocking Charges Leading to the Immediate Counting of Ballots), the spreadsheets respond to the listed subparts as follows:
+
+* Request Item 3(a) seeks information on the number of blocking charges that resulted in election ballots being counted at the conclusion of the election pursuant to 29 C.F.R. § 103.20(b) and the related sections of the Casehandling Manual, which the Agency does not specifically track. However, this information may be noted as a comment in column AG of the R-Case Report.
+
+FOIA Request NLRB-2022-001495
+October 20, 2022
+Page 6
+
+
+* Request Item 3(b) seeks the case numbers assigned to the charge and associated representation case. This information can be found in both the R-Case Report and C-Case Report.
+
+* Request Item 3(c) seeks the nature of the charge. Once you have located a potential blocking charge case number via the search suggested above in Request Item 3(a), you can conduct a search in the C-Case Report for the "NLRA Section" (Column H) and/or "Allegation Name" (Column I). These fields provide a description of the nature of the charge allegations.
+
+* Request Item 3(d) seeks the basis of the decision not to impound the ballots in the associated representation case, which the Agency does not specifically track. However, responsive information may be located on the relevant case page of the Agency's website. Please visit https://www.nlrb.gov/search/case. Once there, enter the associated representation case number in the search box to view its case page for any publicly available records that may be responsive.
+
+* Request Item 3(e) seeks information pertaining to the disposition of the blocking charge and the time required to reach that disposition. Once you have located a potential blocking charge case number via the search suggested above in Request Item 3(a), you can determine this information by navigating to "Complaint Date" (Column N), "Closed Date" (Column O), and "Closed Reason" (Column P) in the C-Case Report. A date will be entered in Column N if a complaint was issued.
+
+* Request Item 3(f) seeks information about determinations made by the Regional Director or the Board pursuant to 29 C.F.R. § 103.20(d) and the related sections of the Casehandling Manual, which the Agency does not specifically track.
+
+* Request Item 3(g) seeks the outcome of the election in the associated representation case if the election results were ultimately certified. Information about the outcome of a representation case can be found by navigating to "Closed Reason" (Column G) of the R-Case Report and Election Report. You can find additional election details (including number of votes and unit certified) from the Election Report.
+
+* Request Item 3(h) seeks information about the type of petition at issue in the associated representation proceeding. This information is evident from the case number of the associated representation matter but can also be located in the "Case Type" (Column C) and "Case Number" (Column D) fields of the R-Case Report.
+
+FOIA Request NLRB-2022-001495
+October 20, 2022
+Page 7
+
+With respect to Request Item 4 (Merit Determination Dismissals), the spreadsheets respond to the listed subparts as follows:
+
+* Request Item 4(a) seeks information on the number of blocking charges that resulted in the election petition being dismissed pursuant to the rule described in Rieth-Riley Construction Co., 371 NLRB No. 109 (2022), which the Agency does not specifically track. However, once you have located a potential blocking charge case number and its associated representation case via the filtering suggested above in Request item 1(a), you can determine whether the representation case was dismissed by navigating to "Closed Reason" (Column G) of the R-Case Report and Election Report. Additional responsive information (including the reason for dismissal of a petition) may be located on the relevant case page of the Agency's website. Please visit https://www.nlrb.gov/search/case. Once there, enter the associated representation case number in the search box to view its case page for any publicly available records (including RD Orders) that may be responsive.
+
+* Request Item 4(b) seeks the case numbers assigned to the blocking charge and associated representation case. This information can be found in both the R-Case Report and C-Case Report.
+
+* Request Item 4(c) seeks the nature of the blocking charge. Once you have located a potential blocking charge case number via the search suggested above in Request item 4(a), you can conduct a search in the C-Case Report for the "NLRA Section" (Column H) and/or "Allegation Name" (Column I). These fields provide a description of the nature of the charge allegations.
+
+* Request Item 4(d) seeks the basis of the decision to dismiss the petition in the related representation case, which the Agency does not specifically track. However, responsive information may be located on the relevant case page of the Agency's website. Please visit https://www.nlrb.gov/search/case. Once there, enter the associated representation case number in the search box to view its case page for any publicly available records (including RD Orders) that may be responsive.
+
+* Request Item 4(e) seeks information pertaining to the disposition of the blocking charge and the time required to reach that disposition. Once you have located a potential blocking charge case number via the search suggested in Request Item 4(a), you can determine this information by navigating to "Complaint Date" (Column N), "Closed Date" (Column O), and "Closed Reason" (Column P) in the C-Case Report. A date will be entered in Column N if a complaint was issued.
+
+FOIA Request NLRB-2022-001495
+October 20, 2022
+Page 8
+
+
+* Request Item 4(f) seeks information about determinations made by the Regional Director or the Board pursuant to 29 C.F.R. § 103.20(d) and the related sections of the Casehandling Manual, which the Agency does not specifically track.
+
+* Request item 4(g) seeks information about the type of petition at issue in the associated representation proceeding. This information is evident from the case number of representation matter but can also be located in the "Case Type" (Column C) and "Case Number" (Column D) fields of the R- Case Report.
+
+Please note the queries returned certain information that falls under the deliberative process and attorney-work product privileges of FOIA Exemption 5, 5
+U.S.C. § 552 (b)(5). Specifically, there was some limited deliberative and preliminary discussion about casehandling contained in column AG of the R- Case Report that has been removed from the spreadsheet and is being withheld pursuant to both of these privileges, which protect the mental impressions of Board Agents as well as advice, recommendations, and opinions that are part of the Agency's deliberative and decision-making processes.
+
+With respect to Request Item 8 seeking any documents responsive to requests 1-15 in your prior FOIA Request (NLRB-2019-001262) relating to "the period after that covered in your response to that request and before the effective date of the last amendments of 29 CFR § 103.20," I am also providing responsive data. As explained above, each of the attached Excel spreadsheets has a
+separate tab for the time period of October 1, 2019 through May 31, 2020. These tabs will contain updated data responsive to items 1, 2, 7, 8, 9, 10, 11, 12, 13, and 14 of that previous request.
+
+Regarding the assessment of fees for this request, your request for a fee waiver has been granted. Accordingly, there is no charge for this request in these circumstances.
+
+Finally, please be advised that with my decision to respond to your request by providing data and information through rolling, interim releases, there will be additional responses to the remaining request items as our processing continues. We will include your appeal rights with each response, but we ask, in the interests of efficiency, avoiding piecemeal appeals, and saving resources of your organization and the government, that you consider holding any potential administrative appeal until you receive our final determination letter. See NLRB Rules and Regulations, 29 C.F.R. 102.117(c)(2)(v).
+
+Your request is being processed by FOIA Specialist Jodi Breirather and FOIA Attorney Marissa Wagner. You may contact Jodi Breirather at (414) 930-7208 or
+
+FOIA Request NLRB-2022-001495
+October 20, 2022
+Page 9
+
+by email at Jodilyn.Breirather@nlrb.gov, or Marissa Wagner at (202) 273-2957 or by email at Marissa.Wagner@nlrb.gov, for any further assistance and/or to discuss any aspect of your request. The FOIA Public Liaison, in addition to the FOIA Specialist or Attorney, can further explain responsive and releasable agency records, suggest agency offices that may have responsive records, and/or discuss how to narrow the scope of a request in order to minimize fees and processing times. The contact information for the FOIA Public Liaison is:
+
+Kristine M. Minami FOIA Public Liaison
+National Labor Relations Board 1015 Half Street, S.E., 4th Floor Washington, D.C. 20570
+Email: FOIAPublicLiaison@nlrb.gov Telephone: (202) 273-0902
+Fax: (202) 273-FOIA (3642)
+
+After first contacting the Agency, you may additionally contact the Office of Government Information Services (OGIS) at the National Archives and Records Administration to inquire about the FOIA dispute resolution services it offers. The contact information for OGIS is:
+
+Office of Government Information Services National Archives and Records Administration 8601 Adelphi Road-OGIS
+College Park, Maryland 20740-6001 Email: ogis@nara.gov
+Telephone: (202) 741-5770
+Toll free: (877) 684-6448
+Fax: (202) 741-5769
+
+As noted above, you may obtain a review of this first response to your request under the NLRB Rules and Regulations, 29 C.F.R. § 102.117(c)(2)(v), by filing an administrative appeal with the Division of Legal Counsel (DLC) through FOIAonline at: https://foiaonline.gov/foiaonline/action/public/home or by mail or email at:
+
+Nancy E. Kessler Platt Chief FOIA Officer
+National Labor Relations Board 1015 Half Street, S.E., 4th Floor Washington, D.C. 20570
+Email: DLCFOIAAppeal@nlrb.gov
+
+Any appeal must be postmarked or electronically submitted within 90 calendar days of the date of this letter. Any appeal should contain a complete statement of the reasons upon which it is based.
+
+FOIA Request NLRB-2022-001495
+October 20, 2022
+Page 10
+
+
+Please be advised that contacting any Agency official (including the FOIA Specialist, Attorney-Advisor, FOIA Officer, or the FOIA Public Liaison) and/or OGIS does not stop the 90-day appeal clock and is not an alternative or substitute for filing an administrative appeal.
+
+Sincerely,
+
+/s/ Synta E. Keeling
+Synta E. Keeling FOIA Officer
+
+
+Attachment: (three Excel spreadsheets)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ATTACHMENT 3
+
+Report:
+Assessing the Available Data Relevant to NLRB, Notice of Proposed Rulemaking, RIN 314- AA22 Concerning Blocking Charges
+John-Paul Ferguson McGill University January 30, 2023
+
+I was asked to prepare this report by the AFL-CIO in relation to its preparation of comments on the National Labor Relations Board's Notice of Proposed Rulemaking, RIN 3142-AA22.
+My qualification are set forth in my CV, which is attached to the AFL-CIO's Comments on RIN 3143-AA16 as Exhibit 1.
+In order to prepare this report, I analyzed data provided to the AFL-CIO in as described in my January 8, 2020, report submitted with the AFL-CIO's Comments on RIN 3143-AA16 and data provided to the AFL-CIO pursuant to its recent Freedom of Information Act request as described in the NLRB's October 20, 2022, response to the AFL-CIO.
+I found the following:
+Both the absolute number of representation cases that are blocked by unfair labor practice charges and the percentage of representation cases that are blocked by unfair labor practice charges have fallen steadily since 2012. These findings are displayed in figures 1 and 2.
+The rule change that took effect in April 2015 is correlated with an acceleration of that decline, though the change in the rate of decline was not statistically significant.
+The rule change that took effect in June 2020 is also correlated with even larger acceleration of that decline, one that is statistically significant at p < .05.
+For the 14 months preceding the more recent rule change (April 1, 2019 to May 31, 2020) the percentage of representation cases that are blocked by unfair labor practice charges was 2.3% while for the 14 months after the rule change (June 1, 2020, to July 31, 2022) the percentage was 1.3%.
+For the entire period covered by this data set, October 1, 2011, to July 31, 2022, the vast majority of representation cases that are blocked by unfair labor practice charges are RC cases. For that period, 71.8% of the cases are RC cases, 24.5% RD cases, and 3.7% RM cases. There was no statistically significant change in those percentages correlated with either the April 2015 or the June 2020 rule change.
+
+
+
+         	
+
+Figure 1: Counts of representation cases filed per year, with and without blocking charges
+
+
+
+
+
+Figure 2: Share of representation cases with blocking charges, by month, January 2012 - July 2022. The dark lines are locally weighted regressions (moving averages) for the monthly data series.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
